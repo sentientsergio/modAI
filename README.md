@@ -1,6 +1,6 @@
 # ModernizeAI (modAI)
 
-![modAI Logo](./images/modai.png)
+![modAI Logo](./images/modAI.png)
 
 ### Introduction
 
