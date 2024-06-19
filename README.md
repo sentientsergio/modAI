@@ -4,17 +4,15 @@
 
 ### Introduction
 
-#### ModernizeAI (modAI)
-
 #### Description
 
 ModernizeAI (modAI) is an agentic generative AI solution designed to support the reengineering of legacy applications implemented in dead languages like COBOL and Assembly Language. The core components of modAI include semantic analysis agents, intermediate representation YAML, code translation agents, target architecture YAML, and application refactoring agents.
 
-1. **Semantic Analysis Agent**: Reads legacy code and writes a language-independent semantic intermediate representation in YAML.
-2. **Intermediate Representation YAML**: Encodes the programming language-independent semantics of the analyzed legacy code in a structured, machine-readable format.
-3. **Code Translation Agents**: Translate the intermediate representation YAML into modern programming languages such as Java, C#, and Python.
-4. **Target Architecture YAML**: Defines the target architecture for containerizing and deploying the code in the target environment.
-5. **Application Refactoring Agent**: Uses the target architecture and the bodies of translated code to draft refactorings that align with the target architecture blueprint, including creating REST APIs, cloud data services, and object-oriented file services.
+1. **Semantic Analysis Agent**: Reads legacy code and writes a language-independent _semantic intermediate representation_ in YAML.
+2. **Semantic Intermediate Representation YAML**: Encodes the programming language-independent semantics of the analyzed legacy code. Think of this as a machine readable, structured requirements document.
+3. **Code Translation Agents**: Translates the intermediate representation YAML into modern programming languages such as Java, C#, or Python.
+4. **Target Architecture YAML**: Defines the target architecture for refactoring and deploying the code in a specified modernized target environment (cloud compute, storage, containers, etc.).
+5. **Application Refactoring Agent**: Uses the target architecture YAML and the bodies of translated code to draft refactorings that align with the target architecture blueprint, including creating REST APIs, cloud data services, and object-oriented file services.
 
 #### Inspiration
 
@@ -26,10 +24,10 @@ The transformative potential of generative AI technology and the urgent need to 
 
 ModernizeAI (modAI) addresses several critical challenges faced by organizations reliant on legacy systems:
 
-1. **Understanding Undocumented Legacy Code**: Legacy applications, often written in COBOL and Assembly Language, typically lack comprehensive documentation. This makes it difficult for current engineers to understand and maintain these systems.
-2. **Documenting Requirements**: Accurately documenting the requirements of these legacy systems is crucial for any modernization effort. Without proper documentation, translating and refactoring code becomes highly error-prone.
-3. **Generating Translated Code Fragments**: Converting legacy code into modern programming languages is essential for integrating these systems with current technologies and platforms.
-4. **Refactoring Translated Code**: Once translated, the code needs to be refactored into modern programmatic structures, such as REST APIs, and aligned with a target architecture to ensure it meets contemporary standards and can be efficiently maintained and extended.
+1. **Undocumented Legacy Code**: Legacy applications, often written in COBOL and Assembly Language, typically lack comprehensive documentation. This makes it difficult for current engineers to understand and maintain these systems.
+2. **Scalably Documenting Requirements**: Accurately documenting the requirements of these legacy systems is crucial for any modernization effort. Without proper documentation, translating and refactoring code becomes highly error-prone.
+3. **Code Fragment Translation**: Converting legacy code into modern programming languages is essential for integrating these systems with current technologies and platforms.
+4. **Refactoring Translated Legacy Code**: Once translated, the code needs to be refactored into modern programmatic structures, such as REST APIs, and aligned with a target architecture to ensure it meets contemporary standards and can be efficiently maintained and extended.
 
 #### Significance of These Challenges
 
