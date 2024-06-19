@@ -56,6 +56,8 @@ These objectives directly address the challenges outlined in the problem stateme
 
 ---
 
+![modAI Arch](./images/modAIarch.png)
+
 ### Features
 
 #### Core Features of modAI
