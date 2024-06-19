@@ -56,11 +56,11 @@ These objectives directly address the challenges outlined in the problem stateme
 
 ---
 
-![modAI Arch](./images/modAIarch.png)
-
 ### Features
 
 #### Core Features of modAI
+
+![modAI Arch](./images/modAIarch.png)
 
 1. **Semantic Analysis Agent**
    - **Function**: Reads legacy code and writes a semantic intermediate representation in YAML.
