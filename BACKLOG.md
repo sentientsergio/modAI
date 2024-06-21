@@ -21,11 +21,11 @@ Design and implement a language-independent intermediate representation in YAML 
 
 #### User Stories
 
-- **Story 2.1:** As a developer, I want to define the structure and schema of the SIR YAML to ensure it captures all necessary information.
-- **Story 2.2:** As a developer, I want to implement serialization and deserialization functions for the SIR YAML to enable easy manipulation and storage.
-- **Story 2.3:** As a user, I want to validate the completeness of the SIR YAML by cross-referencing it with the original legacy code.
-- **Story 2.4:** As a developer, I want to create documentation for the SIR YAML schema to facilitate understanding and usage by other team members.
-- **Story 2.5:** As a developer, I want to compile and create example COBOL and Assembly code to use for testing and validation.
+- **Story 2.1:** As a developer, I want to compile and create example COBOL and Assembly code to use for testing and validation.
+- **Story 2.2:** As a developer, I want to define the structure and schema of the SIR YAML to ensure it captures all necessary information.
+- **Story 2.3:** As a developer, I want to implement serialization and deserialization functions for the SIR YAML to enable easy manipulation and storage.
+- **Story 2.4:** As a user, I want to automate validation of the completeness of the SIR YAML by cross-referencing it with the original legacy code.
+- **Story 2.5:** As a developer, I want to create documentation for the SIR YAML schema to facilitate understanding and usage by other team members.
 
 ## Epic 3: Target Architecture YAML
 
