@@ -1,91 +1,102 @@
-# ModernizeAI (modAI)
+# ModernizationAI (modAI)
 
 ![modAI Logo](./images/modAI.png)
 
-### Introduction
+## Introduction
 
-#### Description
+### Description
 
-ModernizeAI (modAI) is an agentic generative AI solution designed to support the reengineering of legacy applications implemented in dead languages like COBOL and Assembly Language. The core components of modAI include semantic analysis agents, intermediate representation YAML, code translation agents, target architecture YAML, and application refactoring agents.
+ModernizationAI (modAI) is an agentic generative AI solution designed to support the reengineering of legacy applications implemented in dead languages like COBOL and Assembly Language. The core components of modAI include semantic analysis agents, intermediate representation YAML, code translation agents, target architecture YAML, and application refactoring agents.
 
-1. **Semantic Analysis Agent**: Reads legacy code and writes a language-independent _semantic intermediate representation_ in YAML.
-2. **Semantic Intermediate Representation YAML**: Encodes the programming language-independent semantics of the analyzed legacy code. Think of this as a machine readable, structured requirements document.
-3. **Code Translation Agents**: Translates the intermediate representation YAML into modern programming languages such as Java, C#, or Python.
+1. **Semantic Analysis Agents**: Specialized agents that read legacy code (COBOL, Assembly) and generate a semantic intermediate representation (SIR) in YAML format.
+2. **Semantic Intermediate Representation YAML**: A language-independent, structured representation of the semantics of the analyzed legacy code.
+3. **Code Translation Agents**: Agents that translate the SIR YAML into modern programming languages such as Java and Python.
 4. **Target Architecture YAML**: Defines the target architecture for refactoring and deploying the code in a specified modernized target environment (cloud compute, storage, containers, etc.).
-5. **Application Refactoring Agent**: Uses the target architecture YAML and the bodies of translated code to draft refactorings that align with the target architecture blueprint, including creating REST APIs, cloud data services, and object-oriented file services.
+5. **Application Refactoring Agent**: Uses the target architecture YAML and translated code to draft refactorings that align with the target architecture blueprint, including creating REST APIs, cloud data services, and object-oriented file services.
 
-#### Inspiration
+### Architecture
+
+```mermaid
+flowchart BT
+cobol_source:::Files -->|reads|cobol_semantic_analyst_agent
+assembly_source:::Files -->|reads|assembly_semantic_analyst_agent
+cobol_semantic_analyst_agent -->|generates|semantic_intermediate_representation_yaml
+assembly_semantic_analyst_agent -->|generates|semantic_intermediate_representation_yaml
+semantic_intermediate_representation_yaml:::Files -->|reads|java_translation_agent
+semantic_intermediate_representation_yaml -->|reads|python_translation_agent
+java_translation_agent -->|transalates| java_source
+python_translation_agent --> |transalates|python_source
+target_architecture_yaml:::Files --> |informs|java_translation_agent
+target_architecture_yaml --> |informs|python_translation_agent
+java_source:::Files --> |reads|source_refactor_agent
+python_source:::Files --> |reads|source_refactor_agent
+target_architecture_yaml --> |informs|source_refactor_agent
+source_refactor_agent --> |generates|rest_api_spec:::Files
+source_refactor_agent --> |generates|refactored_source:::Files
+source_refactor_agent --> |generates|data_service_schema:::Files
+source_refactor_agent --> |generates|container_pods:::Files
+```
+
+### Inspiration
 
 The transformative potential of generative AI technology and the urgent need to support the Federal Government and Financial Services organizations drive the creation of modAI. These entities face enormous technical debt due to mainframe computing running workloads with dead programming languages. The skills to maintain and develop these legacy platforms are rapidly vanishing, creating significant risks. modAI aims to help these organizations modernize their platforms, transitioning to cloud computing and reducing their reliance on outdated technologies.
 
----
-
 ### Problem Statement
 
-ModernizeAI (modAI) addresses several critical challenges faced by organizations reliant on legacy systems:
+Organizations running legacy systems in COBOL and Assembly face significant challenges in modernizing their technology stack. These challenges include:
 
-1. **Undocumented Legacy Code**: Legacy applications, often written in COBOL and Assembly Language, typically lack comprehensive documentation. This makes it difficult for current engineers to understand and maintain these systems.
-2. **Scalably Documenting Requirements**: Accurately documenting the requirements of these legacy systems is crucial for any modernization effort. Without proper documentation, translating and refactoring code becomes highly error-prone.
-3. **Code Fragment Translation**: Converting legacy code into modern programming languages is essential for integrating these systems with current technologies and platforms.
-4. **Refactoring Translated Legacy Code**: Once translated, the code needs to be refactored into modern programmatic structures, such as REST APIs, and aligned with a target architecture to ensure it meets contemporary standards and can be efficiently maintained and extended.
+- Lack of skilled developers familiar with legacy languages.
+- High maintenance costs of outdated systems.
+- Difficulty in integrating with modern cloud-based architectures.
 
-#### Significance of These Challenges
+modAI addresses these challenges by providing a comprehensive solution for analyzing, translating, and refactoring legacy code into modern, maintainable, and scalable architectures.
 
-The Federal Government and many Financial Services firms rely heavily on antiquated mainframe-based systems to accomplish core recordkeeping. These systems run large monolithic applications written in COBOL and Assembly Language. These organizations are legitimately concerned about their reliance on a dwindling pool of individuals who possess the knowledge to maintain and develop these legacy platforms.
+### Key Features
 
-#### Consequences of Inaction
+- **Automated Code Analysis**: Leverages AI to understand and document the semantics of legacy code.
+- **Intermediate Representation**: Creates a machine-readable, structured requirements document that can be translated into multiple modern languages.
+- **Code Translation**: Automatically generates code in modern programming languages such as Java and Python.
+- **Target Architecture Definition**: Ensures the translated code aligns with modern architectural principles and cloud-native designs.
+- **Application Refactoring**: Provides detailed refactoring recommendations and generates necessary artifacts for modern application deployment.
 
-Failure to address these challenges will result in only partial success in modernizing these platforms. Organizations will remain bound to supporting these legacy systems, significantly impacting their ability to be agile in adapting to changing legislation and business requirements. Moreover, the risk of running out of talent to maintain these systems is critical, potentially leading to severe operational disruptions.
+### License
 
----
+```
+MIT License
 
-### Objectives
+Copyright (c) 2024 [Your Name or Your Organization]
 
-#### Primary Goal
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-The primary goal of ModernizeAI (modAI) is to leverage a modern agentic generative AI solution to support the reengineering of monolithic legacy applications. While modAI incorporates advanced AI technologies, it also recognizes the essential role of human engineers. These engineers will benefit from the immense analytic support provided by modAI in generating requirements drafts, translating requirements, and refactoring translated code into a target architecture engineered in modern languages. This process leverages modern REST APIs to align with hosting in contemporary cloud service providers.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-#### Secondary Goals
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
 
-1. **Accuracy and Usefulness**: Addressing the inherent challenges of LLM-based engineering, modAI aims to produce accurate and optimally useful artifacts throughout the reengineering process. This involves automating critical review and testing of agent work products to maximize their accuracy and minimize the risks of model hallucination.
-2. **Continuous Improvement**: As modAI evolves, it will continually enhance its capabilities to better support engineers in the reengineering process, ensuring the solutions remain relevant and effective.
+For more details, please refer to the [LICENSE](./LICENSE) file in the root of the repository.
 
-#### Alignment with Challenges
+### Acknowledgements
 
-These objectives directly address the challenges outlined in the problem statement by providing a robust solution for understanding and documenting legacy code, generating translated code fragments, and refactoring them into modern architectures. By doing so, modAI mitigates the risks associated with maintaining and developing legacy platforms, helping organizations transition to modern, agile, and maintainable systems.
+We would like to thank the following individuals and organizations for their contributions and support:
 
----
+- **Sergio DuBois**: For founding the vision of this project.
+- **[your_name_here]**: For their expertise and support in developing the core features.
+- **Open Source Community**: For providing the tools and frameworks that made this project possible.
+- **[Any other acknowledgements, such as institutions, mentors, or specific resources]**.
 
-### Features
-
-#### Core Features of modAI
-
-![modAI Arch](./images/modAIarch.png)
-
-1. **Semantic Analysis Agent**
-   - **Function**: Reads legacy code and writes a semantic intermediate representation in YAML.
-   - **Implementation**: There will be a specific agent for each source language (e.g., COBOL, Assembly Language).
-2. **Intermediate Representation YAML**
-   - **Function**: Represents the semantics of the analyzed legacy code in a structured and machine-readable format.
-3. **Code Translation Agents**
-   - **Function**: Reads the intermediate representation YAML and implements it in a modern programming language.
-   - **Implementation**: There will be a specific agent for each target language (e.g., Java, C#, Python).
-4. **Target Architecture YAML**
-   - **Function**: Serves as input to the refactoring agent, defining the target architecture for containerizing and deploying the code in the target environment.
-5. **Application Refactoring Agent**
-   - **Function**: Uses the target architecture and the bodies of translated code to draft refactorings that honor the target architecture blueprint. This includes creating REST APIs, cloud data services, and object-oriented file services.
-
-#### Innovation and Uniqueness
-
-The entire approach of modAI is innovative and unique. By combining semantic analysis, intermediate representations, and specialized translation and refactoring agents, modAI offers a comprehensive solution for reengineering legacy applications. This method ensures a seamless transition from outdated monolithic systems to modern, agile, and maintainable architectures.
-
-#### Contribution to Objectives
-
-These features directly contribute to achieving modAI's objectives by:
-
-- Providing robust tools for understanding and documenting legacy code.
-- Enabling accurate and efficient translation of legacy code into modern programming languages.
-- Facilitating the refactoring of translated code into modern architectures, ensuring alignment with contemporary cloud service environments.
+We are grateful for the support and collaboration that helps make modAI a successful and innovative solution for modernizing legacy applications.
 
 ---
 
@@ -275,56 +286,5 @@ If you encounter any bugs or have suggestions for improvements, please [open an 
      ```sh
      pytest
      ```
-
-#### Acknowledgements
-
-We are grateful to all contributors and maintainers of this project. Your efforts make modAI better with each contribution.
-
----
-
-### License
-
-ModernizeAI (modAI) is licensed under the MIT License. This means you are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, provided that you include the following terms and conditions:
-
-#### MIT License
-
-```
-MIT License
-
-Copyright (c) 2024 [Your Name or Your Organization]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-For more details, please refer to the [LICENSE](./LICENSE) file in the root of the repository.
-
----
-
-### Acknowledgements
-
-We would like to thank the following individuals and organizations for their contributions and support:
-
-- **Sergio DuBois**: For founding the vision of this project.
-- **[your_name_here]**: For their expertise and support in developing the core features.
-- **Open Source Community**: For providing the tools and frameworks that made this project possible.
-- **[Any other acknowledgements, such as institutions, mentors, or specific resources]**.
-
-We are grateful for the support and collaboration that helps make modAI a successful and innovative solution for modernizing legacy applications.
 
 ---
