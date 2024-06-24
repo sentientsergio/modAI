@@ -1,0 +1,175 @@
+program:
+  name: SampleCOBOL
+  description: A COBOL program that reads customer records from a file, performs calculations, and interacts with network and database services.
+  metadata:
+    language: COBOL
+    analyzed_date: 2024-06-24
+    author: Unknown
+
+variables:
+  - name: WS-COUNTER
+    type: integer
+    scope: local
+    initial_value: 0
+  - name: WS-SUM-BALANCE
+    type: decimal
+    scope: local
+    initial_value: 0
+  - name: WS-THRESHOLD
+    type: decimal
+    scope: local
+    initial_value: 100.00
+  - name: WS-NETWORK-STATUS
+    type: string
+    scope: local
+    initial_value: "N"
+  - name: WS-DB-STATUS
+    type: string
+    scope: local
+    initial_value: "N"
+  - name: WS-END-OF-FILE
+    type: string
+    scope: local
+    initial_value: "N"
+  - name: WS-DB-QUERY
+    type: string
+    scope: local
+    initial_value: null
+
+constants: []
+
+data_structures:
+  - name: CUSTOMER-RECORD
+    type: record
+    fields:
+      - name: CUST-ID
+        type: string
+      - name: CUST-NAME
+        type: string
+      - name: CUST-BALANCE
+        type: decimal
+
+procedures:
+  - name: OPEN-FILES
+    description: Opens the customer file and checks for errors.
+    parameters: []
+    return_type: null
+    actions:
+      - call: OPEN
+        using: [CUSTOMER-FILE]
+      - conditional:
+          condition: CUSTOMER-FILE-STATUS NOT = "00"
+          actions:
+            - action_type: display
+              details: "ERROR OPENING CUSTOMER FILE."
+            - action_type: stop_run
+              details: null
+  - name: READ-CUSTOMER-RECORDS
+    description: Reads customer records from the file, sums balances, and displays high balance customers.
+    parameters: []
+    return_type: null
+    actions:
+      - loop_until:
+          condition: WS-END-OF-FILE = "Y"
+          actions:
+            - call: READ
+              using: [CUSTOMER-FILE, CUSTOMER-RECORD]
+            - conditional:
+                condition: AT END
+                actions:
+                  - action_type: move
+                    details: ["Y", WS-END-OF-FILE]
+                else_actions:
+                  - action_type: add
+                    details: [1, WS-COUNTER]
+                  - action_type: add
+                    details: [CUST-BALANCE, WS-SUM-BALANCE]
+                  - conditional:
+                      condition: CUST-BALANCE > WS-THRESHOLD
+                      actions:
+                        - action_type: display
+                          details: "HIGH BALANCE CUSTOMER: CUST-NAME"
+  - name: CLOSE-FILES
+    description: Closes the customer file.
+    parameters: []
+    return_type: null
+    actions:
+      - call: CLOSE
+        using: [CUSTOMER-FILE]
+  - name: PERFORM-NETWORK-OPERATION
+    description: Performs a network operation if the network status is 'N'.
+    parameters: []
+    return_type: null
+    actions:
+      - conditional:
+          condition: WS-NETWORK-STATUS = "N"
+          actions:
+            - call: NETWORK-SERVICE
+              using: [WS-NETWORK-STATUS]
+            - conditional:
+                condition: WS-NETWORK-STATUS = "Y"
+                actions:
+                  - action_type: display
+                    details: "NETWORK OPERATION SUCCESSFUL."
+                else_actions:
+                  - action_type: display
+                    details: "NETWORK OPERATION FAILED."
+  - name: PERFORM-DB-OPERATION
+    description: Executes a database query and checks the status.
+    parameters: []
+    return_type: null
+    actions:
+      - action_type: move
+        details: ["SELECT COUNT(*) FROM CUSTOMERS", WS-DB-QUERY]
+      - call: DATABASE-SERVICE
+        using: [WS-DB-QUERY, WS-DB-STATUS]
+      - conditional:
+          condition: WS-DB-STATUS = "Y"
+          actions:
+            - action_type: display
+              details: "DATABASE QUERY SUCCESSFUL."
+          else_actions:
+            - action_type: display
+              details: "DATABASE QUERY FAILED."
+  - name: STOP-RUN
+    description: Stops the program.
+    parameters: []
+    return_type: null
+    actions:
+      - action_type: stop_run
+        details: null
+
+control_structures: []
+
+file_operations:
+  - file_name: CUSTOMER-FILE
+    mode: INPUT
+    operations:
+      - type: OPEN
+        description: Opens the customer file.
+      - type: READ
+        description: Reads a record from the customer file into CUSTOMER-RECORD.
+      - type: CLOSE
+        description: Closes the customer file.
+
+database_operations:
+  - db_name: CUSTOMERS
+    operations:
+      - type: SELECT
+        description: "Executes query: SELECT COUNT(*) FROM CUSTOMERS."
+
+external_calls:
+  - name: NETWORK-SERVICE
+    parameters:
+      - name: WS-NETWORK-STATUS
+        type: string
+  - name: DATABASE-SERVICE
+    parameters:
+      - name: WS-DB-QUERY
+        type: string
+      - name: WS-DB-STATUS
+        type: string
+
+error_handling: []
+
+comments: []
