@@ -1,0 +1,14 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.02 s (522.3 files/s, 56015.2 lines/s)"
+COBOL,BAMS/bams.cbl,59,0,472
+Markdown,BAMS/README.md,63,0,157
+COBOL,BAMS/BarnCampReport.cbl,21,0,143
+COBOL,BAMS/ImportAttendees.cbl,11,0,116
+COBOL,BAMS/ExportAttendees.cbl,9,0,82
+CSV,BAMS/bams-lots-data.csv,0,0,50
+COBOL,BAMS/DD-Attendee.cpy,0,0,29
+COBOL,BAMS/createAuthCode.cbl,4,0,23
+COBOL,BAMS/createAuthCodeTest.cbl,3,0,21
+COBOL,BAMS/DD-CommandKeys.cpy,0,0,17
+Bourne Shell,BAMS/build.sh,0,0,5
+COBOL,BAMS/DD-ScreenHeader.cbl,0,0,2
+SUM,,170,0,1117

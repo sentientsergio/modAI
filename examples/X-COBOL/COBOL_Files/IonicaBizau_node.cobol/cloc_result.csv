@@ -1,0 +1,10 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.02 s (450.9 files/s, 27845.2 lines/s)"
+JSON,node.cobol/package.json,0,0,105
+Markdown,node.cobol/README.md,149,0,85
+Markdown,node.cobol/CONTRIBUTING.md,18,0,48
+COBOL,node.cobol/lib/node-exec-path.cbl,5,1,15
+COBOL,node.cobol/lib/node-exec.cbl,5,1,15
+COBOL,node.cobol/example/main.cbl,6,11,12
+JavaScript,node.cobol/example/grace-hopper.js,2,0,9
+JavaScript,node.cobol/example/server.js,2,0,5
+SUM,,187,13,294

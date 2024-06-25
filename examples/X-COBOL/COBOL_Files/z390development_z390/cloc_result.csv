@@ -1,0 +1,426 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=1.30 s (325.0 files/s, 91213.3 lines/s)"
+Java,z390/src/pz390.java,474,1744,17577
+Java,z390/src/mz390.java,20,2143,10463
+Java,z390/src/az390.java,22,1648,9796
+Java,z390/src/sz390.java,14,1532,6951
+Java,z390/src/tz390.java,33,1091,6601
+Java,z390/src/vz390.java,410,822,3051
+Java,z390/src/z390.java,34,613,2998
+Java,z390/src/gz390.java,33,786,2671
+COBOL,z390/zcobol/demo/UPROGRAM.CBL,8,24,1955
+COBOL,z390/zcobol/demo/U2.CBL,8,24,1618
+DOS Batch,z390/rt/RTGENCMP.BAT,0,16,1407
+Java,z390/src/zc390.java,11,343,1394
+COBOL,z390/zcobol/demo/U1.CBL,127,31,1179
+COBOL,z390/zcobol/demo/U4.CBL,127,31,1179
+COBOL,z390/zcobol/demo/PROGRAM.CBL,34,33,1110
+DOS Batch,z390/cics/bat/DFHALL.BAT,136,16,1090
+Java,z390/src/lz390.java,10,285,990
+Markdown,z390/doc/program_services.md,417,0,766
+Markdown,z390/doc/svc_services.md,357,0,694
+COBOL,z390/zcobol/test/TESTCMP1.CBL,0,5,633
+COBOL,z390/cics/TESTVSC3.CBL,70,629,594
+COBOL,z390/rt/cics/test/TESTVSC3.CBL,71,630,594
+Markdown,z390/doc/file_services.md,254,0,529
+COBOL,z390/zcobol/test/TESTCMP2.CBL,0,1,516
+COBOL,z390/cics/TESTVSC1.CBL,45,383,468
+COBOL,z390/rt/cics/test/TESTVSC1.CBL,46,384,468
+COBOL,z390/zcobol/demo/U6B.CBL,3,0,468
+COBOL,z390/zcobol/demo/U6.CBL,3,0,456
+DOS Batch,z390/zpar/TEMPGEN.BAT,0,3,408
+COBOL,z390/zcobol/test/TESTBFP1.CBL,0,15,389
+COBOL,z390/zcobol/test/TESTDFP1.CBL,0,16,389
+COBOL,z390/zcobol/test/TESTHFP1.CBL,0,17,389
+COBOL,z390/cics/TESTVSC2.CBL,32,314,377
+COBOL,z390/cics/TESTBEC9.CBL,36,322,376
+COBOL,z390/rt/cics/test/TESTBEC9.CBL,35,323,376
+COBOL,z390/rt/cics/test/TESTVSC2.CBL,33,315,376
+COBOL,z390/zcobol/tests/TESTIF1.CBL,0,6,337
+COBOL,z390/zcobol/test/TESTSUB1.CBL,1,2,323
+COBOL,z390/zcobol/test/TESTSUB2.CBL,1,2,323
+COBOL,z390/zcobol/test/TESTADD1.CBL,1,2,322
+COBOL,z390/zcobol/test/TESTADD2.CBL,1,2,322
+COBOL,z390/zcobol/test/TESTDIV1.CBL,1,2,322
+COBOL,z390/zcobol/test/TESTDIV2.CBL,1,2,322
+COBOL,z390/zcobol/test/TESTMPY1.CBL,1,2,322
+COBOL,z390/zcobol/test/TESTMPY2.CBL,1,2,322
+COBOL,z390/zcobol/tests/TESTADD1.CBL,1,2,321
+COBOL,z390/zcobol/tests/TESTADD2.CBL,1,2,321
+Java,z390/src/ez390.java,7,249,318
+COBOL,z390/cics/TESTICC1.CBL,35,186,284
+COBOL,z390/rt/cics/test/TESTICC1.CBL,36,186,284
+COBOL,z390/zcobol/tests/TESTMOV3.CBL,0,1,275
+COBOL,z390/zcobol/test/TESTCMP3.CBL,0,1,260
+COBOL,z390/zcobol/test/TESTCMP5.CBL,0,1,260
+COBOL,z390/zcobol/test/TESTCMP6.CBL,0,1,260
+COBOL,z390/zcobol/test/TESTINT1.CBL,0,8,260
+COBOL,z390/cics/TESTBMC1.CBL,44,237,257
+COBOL,z390/rt/cics/test/TESTBMC1.CBL,43,238,257
+COBOL,z390/zcobol/test/TESTPIC1.CBL,2,4,249
+Perl,z390/perl/cmd.pl,29,125,234
+DOS Batch,z390/rt/RTTEST1.BAT,0,31,205
+COBOL,z390/cics/TESTBEC5.CBL,19,76,199
+COBOL,z390/rt/cics/test/TESTBEC5.CBL,19,77,199
+COBOL,z390/zcobol/test/TESTCMP4.CBL,0,1,183
+COBOL,z390/zcobol/test/TESTFUN1.CBL,1,16,182
+COBOL,z390/zcobol/test/TESTWS1.CBL,0,6,170
+COBOL,z390/cics/TESTBEC4.CBL,7,55,155
+COBOL,z390/rt/cics/test/TESTBEC4.CBL,7,56,155
+COBOL,z390/zcobol/tests/TESTMOV2.CBL,0,1,145
+COBOL,z390/zcobol/demo/USET.CBL,1,0,141
+COBOL,z390/cics/TESTBEC6.CBL,13,82,123
+Markdown,z390/doc/Options/z390_options.md,8,0,123
+COBOL,z390/rt/cics/test/TESTBEC6.CBL,14,83,123
+Java,z390/src/gz390_screen.java,8,88,123
+Java,z390/src/iz390.java,9,44,106
+DOS Batch,z390/cics/bat/DFHALLV.BAT,0,32,105
+COBOL,z390/zcobol/test/TESTPM1.CBL,0,10,105
+Markdown,z390/doc/assist.md,56,0,103
+COBOL,z390/zcobol/tests/TESTMOV1.CBL,0,4,103
+COBOL,z390/zcobol/test/TESTDSP1.CBL,1,7,90
+Bourne Again Shell,z390/bash/runsort,15,6,84
+COBOL,z390/zcobol/test/TESTISP1.CBL,0,3,83
+COBOL,z390/zcobol/test/TESTSIX2.CBL,0,7,81
+Perl,z390/perl/z390.pl,22,70,79
+Markdown,z390/doc/contribute_docs.md,38,0,74
+Java,z390/src/zCatVCLR.java,3,33,74
+COBOL,z390/cics/TESTBEC1.CBL,5,59,72
+COBOL,z390/zcobol/demo/DATETIME.CBL,10,1,71
+Markdown,z390/doc/z390_Sort_Utility.md,38,0,69
+COBOL,z390/rt/cics/test/TESTBEC1.CBL,4,60,68
+Java,z390/src/MessageBox.java,6,19,67
+DOS Batch,z390/rt/bat/RUNSORT.BAT,10,4,65
+DOS Batch,z390/rt/RTCOMP4.BAT,0,1,64
+DOS Batch,z390/bat/BLDLIB.BAT,8,0,63
+DOS Batch,z390/vsam1/demo/KSF1RPO2.BAT,0,1,62
+Bourne Again Shell,z390/bash/cblclg,9,5,60
+COBOL,z390/zcobol/test/TESTPM3.CBL,2,2,60
+Bourne Again Shell,z390/bash/runrtqsam,15,12,57
+COBOL,z390/zcobol/test/TESTSIX1.CBL,0,2,55
+DOS Batch,z390/bat/RUNZSTRMACTEST.BAT,14,22,53
+DOS Batch,z390/rt/bat/RUNRTQSAM.BAT,2,3,53
+Bourne Again Shell,z390/bash/cblcl,9,5,52
+DOS Batch,z390/rt/RTVSAM1.BAT,0,6,52
+COBOL,z390/zcobol/demo/COPYFILE.CBL,0,0,52
+COBOL,z390/zcobol/test/TESTGO1.CBL,0,1,52
+COBOL,z390/cics/TESTBEC2.CBL,5,50,50
+DOS Batch,z390/rt/RTMFACC1.BAT,0,7,50
+COBOL,z390/rt/cics/test/TESTBEC2.CBL,5,51,50
+Bourne Again Shell,z390/bash/asmlg,9,7,49
+COBOL,z390/zcobol/test/TESTFIL1.CBL,0,1,49
+Bourne Again Shell,z390/bash/cblc,8,5,47
+DOS Batch,z390/rt/DIRCLEAN.BAT,0,1,47
+DOS Batch,z390/qsam/RUNRTQSAM.BAT,0,3,46
+DOS Batch,z390/bat/CBLCLG.BAT,3,2,44
+Java,z390/src/zCatVAIX.java,2,33,44
+COBOL,z390/zcobol/test/TESTRMD1.CBL,1,7,44
+Bourne Again Shell,z390/bash/mac,11,7,42
+Bourne Again Shell,z390/bash/runassist,8,2,42
+COBOL,z390/zcobol/tests/TESTIF3.CBL,0,1,42
+Bourne Again Shell,z390/bash/asml,9,7,41
+COBOL,z390/cics/TESTBEC7.CBL,4,38,41
+COBOL,z390/rt/cics/test/TESTBEC7.CBL,5,39,41
+Bourne Again Shell,z390/bash/blddist,12,7,38
+DOS Batch,z390/bat/CBLCL.BAT,2,2,38
+Java,z390/src/zACB.java,4,29,38
+YAML,z390/.github/workflows/build.yml,1,0,37
+DOS Batch,z390/rt/RTSORT1.BAT,2,5,37
+Java,z390/src/test_screen.java,8,18,37
+COBOL,z390/mfacc/P8JFC.CBL,2,5,36
+DOS Batch,z390/sort/RUNSORT.BAT,2,4,36
+Java,z390/src/test_unicode.java,12,26,36
+DOS Batch,z390/rt/RT.BAT,1,11,35
+COBOL,z390/zcobol/test/TESTTRC1.CBL,0,1,35
+COBOL,z390/zcobol/test/TESTTRC2.CBL,0,1,35
+COBOL,z390/zcobol/test/TESTTRC3.CBL,0,1,35
+COBOL,z390/zcobol/tests/TESTIF2.CBL,0,1,35
+Bourne Again Shell,z390/bash/runcmdproc,10,25,34
+DOS Batch,z390/bat/CBLC.BAT,3,3,34
+DOS Batch,z390/bat/ASMLG.BAT,2,2,32
+Bourne Again Shell,z390/bash/asm,9,7,31
+DOS Batch,z390/bat/RUNASSIST.BAT,4,1,31
+COBOL,z390/soa/demo/DEMOSUB1.CBL,0,18,31
+COBOL,z390/soa/demo/DEMOSUB2.CBL,0,18,31
+COBOL,z390/zcobol/demo/COMPSUM.CBL,0,1,31
+Bourne Again Shell,z390/bash/runrtbsam,7,8,30
+Bourne Again Shell,z390/bash/runzstrmactest,10,19,30
+Markdown,z390/doc/Options/z390_filetypes.md,3,0,29
+COBOL,z390/soa/demo/DEMOMAIN.CBL,0,41,29
+Bourne Again Shell,z390/bash/relver,6,4,28
+DOS Batch,z390/bat/ASML.BAT,2,2,28
+DOS Batch,z390/bat/BLDJAR.BAT,2,7,28
+DOS Batch,z390/bat/RELVER.BAT,6,1,28
+COBOL,z390/zcobol/test/TESTFIL2.CBL,1,1,28
+DOS Batch,z390/zpar/ZCCLG.BAT,0,1,28
+Bourne Again Shell,z390/bash/link,9,7,27
+DOS Batch,z390/bat/BLDZSTRMAC.BAT,5,22,27
+DOS Batch,z390/rt/bat/RUNRTBSAM.BAT,1,3,27
+COBOL,z390/zcobol/test/TESTCAL1.CBL,0,7,27
+DOS Batch,z390/rt/RTLINK1.BAT,0,3,26
+COBOL,z390/zcobol/test/TESTCAL2.CBL,0,7,26
+Markdown,z390/CHANGELOG.md,6,0,25
+DOS Batch,z390/rt/ZCRTTEST.BAT,0,12,25
+COBOL,z390/zcobol/test/TESTCPY2.CBL,0,3,25
+COBOL,z390/zcobol/test/TESTPM2.CBL,0,1,25
+DOS Batch,z390/rt/RTGUAM.BAT,0,2,24
+DOS Batch,z390/rt/ZCRTSAVE.BAT,0,3,24
+DOS Batch,z390/BUILD.BAT,3,1,23
+Bourne Again Shell,z390/bash/bldjar,8,7,23
+DOS Batch,z390/bat/RUNCMDPROC.BAT,5,24,23
+Bourne Shell,z390/build.sh,3,0,23
+COBOL,z390/zcobol/test/TESTCAL3.CBL,0,7,23
+Bourne Again Shell,z390/bash/runvsedemos,9,2,22
+DOS Batch,z390/rt/RESET1.BAT,0,0,22
+DOS Batch,z390/rt/RTCOMP.BAT,0,1,22
+Bourne Again Shell,z390/bash/bldzstrmac,4,24,21
+DOS Batch,z390/bat/ASM.BAT,2,2,21
+Bourne Again Shell,z390/bash/exec,6,6,20
+COBOL,z390/cics/TESTBEC8.CBL,5,26,20
+DOS Batch,z390/rt/RTMAX.BAT,0,1,20
+COBOL,z390/rt/cics/test/TESTBEC8.CBL,6,27,20
+DOS Batch,z390/zpar/ZCTRAN.BAT,0,1,20
+Markdown,z390/README.md,6,0,18
+Bourne Again Shell,z390/bash/runcbldemos,8,1,18
+Perl,z390/perl/dos.pl,1,52,18
+DOS Batch,z390/rt/bat/RUNASMTESTS.BAT,2,1,18
+DOS Batch,z390/rt/bat/RUNCBLTESTS.BAT,2,0,18
+DOS Batch,z390/soa/demo/CLEANUP.BAT,0,3,18
+Bourne Again Shell,z390/bash/bldlib,5,1,17
+Markdown,z390/doc/Options/zCOBOL_options.md,4,0,17
+DOS Batch,z390/soa/demo/DEMOBLD.BAT,0,8,17
+Bourne Again Shell,z390/bash/az390,6,8,16
+Bourne Again Shell,z390/bash/ez390,6,8,16
+Bourne Again Shell,z390/bash/lz390,6,8,16
+Bourne Again Shell,z390/bash/mz390,6,8,16
+Bourne Again Shell,z390/bash/zc390,6,8,16
+DOS Batch,z390/bat/BLDCBLLIB.BAT,2,1,16
+DOS Batch,z390/bat/LINK.BAT,0,1,16
+DOS Batch,z390/bat/RUNASMDEMOS.BAT,1,1,16
+DOS Batch,z390/bat/RUNVSEDEMOS.BAT,3,2,16
+Bourne Again Shell,z390/bash/bldcbllib,5,1,15
+Bourne Again Shell,z390/bash/runasmdemos,6,1,15
+Bourne Again Shell,z390/bash/runasmtests,4,1,15
+Bourne Again Shell,z390/bash/zpartrs,7,5,15
+DOS Batch,z390/bat/EXEC.BAT,0,1,15
+DOS Batch,z390/bat/MAC.BAT,0,1,15
+COBOL,z390/soa/demo/DEMOCMGR.CBL,0,18,15
+COBOL,z390/zcobol/test/TESTCPY1.CBL,0,3,15
+DOS Batch,z390/zpar/ZPARMLC.BAT,0,1,15
+DOS Batch,z390/bat/RUNCBLDEMOS.BAT,2,1,14
+DOS Batch,z390/cics/bat/Z390FILE.BAT,0,1,14
+DOS Batch,z390/rt/COMP1.BAT,0,2,14
+DOS Batch,z390/rt/RTCLEAN1.BAT,0,1,14
+DOS Batch,z390/rt/RTVSE1.BAT,0,11,14
+DOS Batch,z390/rt/ZCRT390.BAT,0,12,14
+DOS Batch,z390/rt/bat/RUNZPAR.BAT,2,1,14
+DOS Batch,z390/vsam1/demo/ESF1DEMO.BAT,0,4,14
+DOS Batch,z390/vsam1/test/ESF1RPO1.BAT,1,6,14
+DOS Batch,z390/vsam1/test/ESF1RPQ1.BAT,1,6,14
+DOS Batch,z390/vsam1/test/ESF4RPO1.BAT,0,6,14
+DOS Batch,z390/vsam1/test/ESF4RPQ1.BAT,0,5,14
+DOS Batch,z390/vsam1/test/ESV1RPO1.BAT,1,7,14
+DOS Batch,z390/vsam1/test/ESV1RPQ1.BAT,1,6,14
+DOS Batch,z390/vsam1/test/ESV5RPO1.BAT,0,6,14
+DOS Batch,z390/vsam1/test/ESV5RPQ1.BAT,0,5,14
+DOS Batch,z390/vsam1/test/RRF1RPO1.BAT,1,6,14
+DOS Batch,z390/vsam1/test/RRF2RPO1.BAT,1,6,14
+DOS Batch,z390/vsam1/test/RRF2RPQ1.BAT,1,6,14
+DOS Batch,z390/vsam1/test/RRV1RPO1.BAT,1,7,14
+DOS Batch,z390/vsam1/test/RRV1RPQ1.BAT,1,7,14
+DOS Batch,z390/zpar/ZPARSUM2.BAT,0,1,14
+YAML,z390/.github/workflows/buildwin.yml,1,0,13
+YAML,z390/.github/workflows/docs.yml,1,0,13
+Bourne Again Shell,z390/bash/runcbltests,3,1,13
+Bourne Again Shell,z390/bash/z390,10,10,13
+DOS Batch,z390/rt/RTCLEAN2.BAT,0,1,13
+DOS Batch,z390/rt/RTDEMO1.BAT,0,1,13
+DOS Batch,z390/rt/RTMVS1.BAT,0,12,13
+DOS Batch,z390/rt/RTSOA1.BAT,0,7,13
+DOS Batch,z390/vsam1/demo/ESV1DEMO.BAT,0,4,13
+DOS Batch,z390/bat/ASSIST.BAT,0,1,12
+DOS Batch,z390/cics/bat/Z390CMPG.BAT,0,2,12
+DOS Batch,z390/rt/RTLIST.BAT,0,1,12
+COBOL,z390/zcobol/demo/POWERS.CBL,0,7,12
+Bourne Again Shell,z390/bash/runzpar,6,3,11
+DOS Batch,z390/cics/bat/Z390SEQG.BAT,0,2,11
+DOS Batch,z390/vsam1/demo/KSF1RPO1.BAT,0,1,11
+DOS Batch,z390/vsam1/test/KSF1AIXA.BAT,0,2,11
+DOS Batch,z390/vsam1/test/KSF1AIXC.BAT,0,2,11
+DOS Batch,z390/vsam1/test/KSF1AIXS.BAT,0,2,11
+DOS Batch,z390/vsam1/test/KSF1AIXZ.BAT,0,2,11
+Bourne Again Shell,z390/bash/zopcheck,6,2,10
+DOS Batch,z390/cics/bat/DFHFCT.BAT,0,1,10
+DOS Batch,z390/cics/bat/DFHPCT.BAT,0,1,10
+DOS Batch,z390/cics/bat/Z390CICG.BAT,0,2,10
+DOS Batch,z390/rt/RTZPAR1.BAT,0,5,10
+DOS Batch,z390/rt/SAVEALL.BAT,0,0,10
+DOS Batch,z390/rt/ZCRT586.BAT,0,12,10
+DOS Batch,z390/rt/ZCRTJAV.BAT,0,14,10
+DOS Batch,z390/rt/ZCRTVCE.BAT,0,13,10
+DOS Batch,z390/rt/bat/ZOPCHECK.BAT,0,1,10
+DOS Batch,z390/vsam1/demo/DEMOS.BAT,0,1,10
+YAML,z390/mkdocs.yml,0,0,9
+DOS Batch,z390/rt/CLEANPGM.BAT,1,1,9
+Bourne Again Shell,z390/rt/test/bash/testcmd4c,0,18,9
+DOS Batch,z390/soa/demo/DEMOSOA.BAT,0,18,9
+DOS Batch,z390/vsam1/demo/TESTAIXA.BAT,0,1,9
+DOS Batch,z390/zpar/ZPARERR.BAT,0,1,9
+YAML,z390/.github/actions/build/action.yml,0,1,8
+Bourne Again Shell,z390/bash/assist,5,2,8
+DOS Batch,z390/cics/bat/Z390KCPL.BAT,0,2,8
+DOS Batch,z390/cics/bat/Z390KCPR.BAT,0,3,8
+Markdown,z390/doc/Options/zCOBOL_filetypes.md,1,0,8
+DOS Batch,z390/qsam/RUNBLDF.BAT,0,1,8
+DOS Batch,z390/qsam/RUNBLDFL.BAT,0,1,8
+DOS Batch,z390/qsam/RUNBLDFT.BAT,0,1,8
+DOS Batch,z390/qsam/RUNBLDFTL.BAT,0,1,8
+DOS Batch,z390/qsam/RUNBLDV.BAT,0,1,8
+DOS Batch,z390/qsam/RUNBLDVB.BAT,0,1,8
+DOS Batch,z390/qsam/RUNBLDVBL.BAT,0,1,8
+DOS Batch,z390/qsam/RUNBLDVL.BAT,0,1,8
+DOS Batch,z390/qsam/RUNBLDVT.BAT,0,1,8
+DOS Batch,z390/qsam/RUNBLDVTL.BAT,0,1,8
+DOS Batch,z390/qsam/RUNCPYVT1.BAT,0,1,8
+DOS Batch,z390/qsam/RUNCPYVT1L.BAT,0,1,8
+DOS Batch,z390/rt/RTC6.BAT,0,1,8
+DOS Batch,z390/rt/RTCICS.BAT,0,4,8
+DOS Batch,z390/soa/demo/DEMOSTD.BAT,0,2,8
+DOS Batch,z390/zcobol/i586/ALG.BAT,0,4,8
+DOS Batch,z390/zpar/ZPARSUM1.BAT,0,1,8
+Markdown,z390/mac/spm/README.md,5,0,7
+DOS Batch,z390/qsam/RUNCHKF.BAT,0,1,7
+DOS Batch,z390/qsam/RUNCHKFL.BAT,0,1,7
+DOS Batch,z390/qsam/RUNCHKFT.BAT,0,1,7
+DOS Batch,z390/qsam/RUNCHKFTL.BAT,0,1,7
+DOS Batch,z390/qsam/RUNCHKV.BAT,0,1,7
+DOS Batch,z390/qsam/RUNCHKVB.BAT,0,1,7
+DOS Batch,z390/qsam/RUNCHKVBL.BAT,0,1,7
+DOS Batch,z390/qsam/RUNCHKVL.BAT,0,1,7
+DOS Batch,z390/qsam/RUNCHKVT.BAT,0,1,7
+DOS Batch,z390/qsam/RUNCHKVTL.BAT,0,1,7
+DOS Batch,z390/rt/RT4.BAT,0,1,7
+DOS Batch,z390/soa/demo/DEMORUN.BAT,0,5,7
+DOS Batch,z390/vsam1/test/ESF1TEST.BAT,0,2,7
+DOS Batch,z390/vsam1/test/ESV1TEST.BAT,0,2,7
+DOS Batch,z390/vsam1/test/KSF2TST1.BAT,0,1,7
+DOS Batch,z390/vsam1/test/KSF2TST2.BAT,0,1,7
+DOS Batch,z390/vsam1/test/KSF2TST4.BAT,0,1,7
+DOS Batch,z390/zpar/ZPARGEN.BAT,0,1,7
+DOS Batch,z390/rt/RTAST1.BAT,0,1,6
+DOS Batch,z390/rt/RTC4.BAT,0,1,6
+Bourne Again Shell,z390/rt/test/bash/testcmd3,0,18,6
+Bourne Again Shell,z390/rt/test/bash/testcmd4a,0,18,6
+Bourne Again Shell,z390/rt/test/bash/testcmd4b,0,18,6
+DOS Batch,z390/soa/demo/DEMOBLDC.BAT,0,6,6
+DOS Batch,z390/vsam1/test/KSF2REST.BAT,0,1,6
+DOS Batch,z390/zcobol/vce/CLG.BAT,0,1,6
+Bourne Shell,z390/bash/test.sh,1,0,5
+DOS Batch,z390/bat/Z390.BAT,0,1,5
+Markdown,z390/doc/index.md,1,0,5
+DOS Batch,z390/rt/RT3.BAT,0,1,5
+DOS Batch,z390/rt/ZCRT.BAT,0,1,5
+COBOL,z390/rt/zpar/HELLO.CBL,0,17,5
+DOS Batch,z390/soa/demo/DEMOSOAC.BAT,0,22,5
+DOS Batch,z390/vsam1/demo/LISTAIXA.BAT,0,1,5
+DOS Batch,z390/vsam1/demo/RRF1DEMO.BAT,0,1,5
+DOS Batch,z390/vsam1/demo/RRV1DEMO.BAT,0,1,5
+DOS Batch,z390/vsam1/test/ESV2TEST.BAT,0,2,5
+DOS Batch,z390/vsam1/test/RRV1TEST.BAT,0,2,5
+DOS Batch,z390/zcobol/cvt/ZCOBOL.BAT,0,1,5
+COBOL,z390/zcobol/demo/HELLO.CBL,0,0,5
+COBOL,z390/zcobol/demo/MZARRAY.CBL,0,0,5
+Dockerfile,z390/.github/actions/build/Dockerfile,3,4,4
+DOS Batch,z390/bat/ZPARTRS.BAT,0,2,4
+DOS Batch,z390/guam/test/TEST.BAT,0,1,4
+DOS Batch,z390/linklib/ZAPDEMO1.BAT,0,2,4
+DOS Batch,z390/rt/RT5.BAT,0,1,4
+DOS Batch,z390/rt/RTBMK.BAT,0,2,4
+DOS Batch,z390/rt/bat/RUNTBRCTX.BAT,0,1,4
+DOS Batch,z390/vsam1/test/ESF2TEST.BAT,0,2,4
+DOS Batch,z390/vsam1/test/ESF3GEN1.BAT,0,2,4
+DOS Batch,z390/vsam1/test/ESF3TEST.BAT,0,2,4
+DOS Batch,z390/vsam1/test/ESV3TEST.BAT,0,2,4
+DOS Batch,z390/vsam1/test/ESV4TEST.BAT,0,2,4
+DOS Batch,z390/vsam1/test/RRF1TEST.BAT,0,2,4
+DOS Batch,z390/zcobol/i586/CLG.BAT,0,3,4
+DOS Batch,z390/zopcheck/ZOPCHECK.BAT,0,1,4
+DOS Batch,z390/zpar/ZPARTRA.BAT,0,1,4
+DOS Batch,z390/zpar/ZPARTRC.BAT,0,1,4
+DOS Batch,z390/zpar/ZPARTRS.BAT,0,1,4
+Bourne Shell,z390/.github/actions/build/entrypoint.sh,0,0,3
+DOS Batch,z390/barcode/BLD390.BAT,0,1,3
+DOS Batch,z390/guam/U.BAT,0,8,3
+DOS Batch,z390/linklib/UNREF.BAT,0,2,3
+DOS Batch,z390/linklib/ZAPDEMO2.BAT,0,2,3
+DOS Batch,z390/rt/RTMFACC.BAT,0,4,3
+DOS Batch,z390/rt/SAVE1.BAT,0,1,3
+DOS Batch,z390/rt/SAVEGUAM.BAT,0,1,3
+DOS Batch,z390/rt/SAVETEST.BAT,0,1,3
+DOS Batch,z390/tests/TESTDFP1.BAT,0,1,3
+DOS Batch,z390/vsam1/demo/DEMOCAT.BAT,0,1,3
+DOS Batch,z390/vsam1/demo/KSF1DEMO.BAT,0,1,3
+DOS Batch,z390/vsam1/demo/KSF1SKP1.BAT,0,1,3
+DOS Batch,z390/vsam1/test/ESF1ERR1.BAT,0,2,3
+DOS Batch,z390/vsam1/test/ESF1SKP1.BAT,0,2,3
+DOS Batch,z390/vsam1/test/ESV1SKP1.BAT,0,2,3
+DOS Batch,z390/vsam1/test/KSF1TEST.BAT,0,1,3
+DOS Batch,z390/vsam1/test/KSF2TST3.BAT,0,1,3
+DOS Batch,z390/vsam1/test/RRF1SKP1.BAT,0,2,3
+DOS Batch,z390/vsam1/test/RRV1SKP1.BAT,0,2,3
+DOS Batch,z390/zpar/FIXCRLF.BAT,0,1,3
+DOS Batch,z390/rt/RT7.BAT,0,1,2
+DOS Batch,z390/rt/RTAST.BAT,0,2,2
+DOS Batch,z390/rt/RTCOMP1.BAT,0,1,2
+DOS Batch,z390/rt/RTDEMO.BAT,0,2,2
+DOS Batch,z390/rt/RTLINK.BAT,0,2,2
+DOS Batch,z390/rt/RTMVS.BAT,0,7,2
+DOS Batch,z390/rt/RTSOA.BAT,0,2,2
+DOS Batch,z390/rt/RTSORT.BAT,0,2,2
+DOS Batch,z390/rt/RTTEST.BAT,0,2,2
+DOS Batch,z390/rt/RTVSAM.BAT,0,2,2
+DOS Batch,z390/rt/RTVSE.BAT,0,6,2
+DOS Batch,z390/rt/RTZPAR.BAT,0,2,2
+DOS Batch,z390/rt/SAVECICS.BAT,0,1,2
+DOS Batch,z390/rt/SAVEMVS.BAT,0,1,2
+DOS Batch,z390/rt/SAVESOA.BAT,0,2,2
+DOS Batch,z390/rt/SAVEVSAM.BAT,0,1,2
+DOS Batch,z390/rt/SAVEVSE.BAT,0,1,2
+DOS Batch,z390/rt/SAVEZPAR.BAT,0,1,2
+DOS Batch,z390/vsam1/demo/BUILDCAT.BAT,0,1,2
+DOS Batch,z390/vsam1/test/BUILDCAT.BAT,0,1,2
+DOS Batch,z390/bat/AZ390.BAT,0,6,1
+DOS Batch,z390/bat/EZ390.BAT,0,6,1
+DOS Batch,z390/bat/LZ390.BAT,0,6,1
+DOS Batch,z390/bat/MZ390.BAT,0,7,1
+DOS Batch,z390/bat/ZC390.BAT,0,6,1
+DOS Batch,z390/guam/demo/DEMOGUI1.BAT,0,0,1
+DOS Batch,z390/linklib/SUPERZAP.BAT,0,1,1
+DOS Batch,z390/rt/RC1.BAT,0,1,1
+DOS Batch,z390/rt/RC2.BAT,0,1,1
+DOS Batch,z390/rt/RT1.BAT,0,1,1
+DOS Batch,z390/rt/RT2.BAT,0,1,1
+DOS Batch,z390/rt/RT6.BAT,0,1,1
+DOS Batch,z390/rt/RTVIEW.BAT,0,1,1
+DOS Batch,z390/rt/SAVEAST.BAT,0,1,1
+DOS Batch,z390/rt/SAVEBMK.BAT,0,2,1
+DOS Batch,z390/rt/SAVEDEMO.BAT,0,1,1
+DOS Batch,z390/rt/SAVELINK.BAT,0,1,1
+DOS Batch,z390/rt/SAVEMFA.BAT,0,1,1
+DOS Batch,z390/rt/SAVESORT.BAT,0,1,1
+DOS Batch,z390/soa/demo/DEMORUNC.BAT,0,1,1
+DOS Batch,z390/soa/demo/DEMORUNS.BAT,0,1,1
+DOS Batch,z390/soa/demo/DEMOSTOP.BAT,0,1,1
+DOS Batch,z390/vsam2/bat/TESTGNCB.BAT,0,0,1
+DOS Batch,z390/vsam2/bat/TESTMDCB.BAT,0,0,1
+DOS Batch,z390/vsam2/bat/TESTSHCB.BAT,0,0,1
+DOS Batch,z390/vsam2/bat/TESTTSCB.BAT,0,0,1
+DOS Batch,z390/vsam2/bat/Z390CAT2.BAT,0,0,1
+DOS Batch,z390/vsam2/bat/ZVSAM19C.BAT,0,0,1
+DOS Batch,z390/rt/test/TESTCMD1.BAT,0,5,0
+DOS Batch,z390/rt/test/TESTCMDA.BAT,0,5,0
+DOS Batch,z390/rt/test/TESTCMDB.BAT,0,5,0
+DOS Batch,z390/rt/test/bat/TESTCMD3.BAT,0,23,0
+DOS Batch,z390/rt/test/bat/TESTCMD4A.BAT,0,23,0
+DOS Batch,z390/rt/test/bat/TESTCMD4B.BAT,0,23,0
+DOS Batch,z390/rt/test/bat/TESTCMD4C.BAT,0,26,0
+SUM,,3878,18368,96747

@@ -1,0 +1,10 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.04 s (217.7 files/s, 7293.9 lines/s)"
+COBOL,cobol-worker/src/worker.cob,0,0,88
+JavaScript,cobol-worker/src/index.js,11,1,79
+Bourne Shell,cobol-worker/build.sh,5,0,20
+JavaScript,cobol-worker/webpack.config.js,2,6,17
+Markdown,cobol-worker/README.md,6,0,11
+JSON,cobol-worker/package.json,0,0,11
+TOML,cobol-worker/wrangler.toml,0,0,6
+JavaScript,cobol-worker/src/pre.js,1,1,3
+SUM,,25,8,235

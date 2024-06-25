@@ -1,0 +1,20 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.04 s (420.7 files/s, 67317.9 lines/s)"
+Markdown,mainframeadventures/docs/myPersonalNotes.md,213,0,589
+COBOL,mainframeadventures/covid19/REPCNTRY.cbl,2,102,456
+COBOL,mainframeadventures/pmmsschd/PMMSSCHD.cbl,2,133,396
+COBOL,mainframeadventures/pmmsschd/PMMSSREP.cbl,2,26,187
+JCL,mainframeadventures/pmmsschd/PMMSTREP.jcl,0,0,173
+Markdown,mainframeadventures/pmmsschd/README.md,38,0,124
+COBOL,mainframeadventures/covid19/TOTCNTRY.cbl,2,26,88
+Markdown,mainframeadventures/README.md,21,0,49
+JCL,mainframeadventures/covid19/$EXECTOT.jcl,0,19,45
+Markdown,mainframeadventures/covid19/README.md,20,0,35
+Python,mainframeadventures/covid19/getcovid19data.py,8,5,28
+Markdown,mainframeadventures/MVStoolbox/README.md,5,0,19
+JCL,mainframeadventures/pmmsschd/$EXECSCH.jcl,0,4,12
+JCL,mainframeadventures/pmmsschd/$EXECRP1.jcl,0,4,9
+JCL,mainframeadventures/pmmsschd/$EXECRP2.jcl,0,4,9
+Bourne Shell,mainframeadventures/covid19/copyCOVID19data_toMVS.sh,3,5,8
+JCL,mainframeadventures/pmmsschd/DUMMYJCL.jcl,0,3,5
+YAML,mainframeadventures/_config.yml,0,0,1
+SUM,,316,331,2233

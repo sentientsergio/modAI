@@ -1,0 +1,24 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.04 s (512.5 files/s, 120029.0 lines/s)"
+COBOL,MortgageApplication2/src/main/zOS/com/ibm/cobol/App1/epscsmrd.cbl,0,166,3886
+COBOL,MortgageApplication2/src/main/zOS/com/ibm/NoBuild/epscmort.cbl,19,28,203
+COBOL,MortgageApplication2/src/main/zOS/com/ibm/cobol/App1/epsmlist.cbl,28,18,178
+COBOL,MortgageApplication2/src/main/zOS/com/ibm/cobol/App1/epsnbrvl.cbl,16,22,148
+COBOL,MortgageApplication2/src/main/zOS/com/ibm/cobol/App1/epsmpmt.cbl,6,31,117
+COBOL,MortgageApplication2/src/main/zOS/com/ibm/cobol/App1/epscsmrt.cbl,4,10,45
+Markdown,MortgageApplication2/README.md,4,0,29
+XML,MortgageApplication2/.project,0,0,17
+Properties,MortgageApplication2/conf/MortgageApplication.properties,1,17,17
+XML,MortgageApplication2/.classpath,0,0,14
+Java,MortgageApplication2/src/main/java/com/zos/java/Example/HelloWorld.java,2,2,11
+Java,MortgageApplication2/src/test/java/com/zos/java/Example/Test/HelloWorldTest.java,6,1,11
+COBOL,MortgageApplication2/src/main/zOS/com/ibm/copybook/epsmortf.cpy,0,0,10
+COBOL,MortgageApplication2/src/main/zOS/com/ibm/copybook/epspdata.cpy,1,2,10
+COBOL,MortgageApplication2/src/main/zOS/com/ibm/copybook/epsmtout.cpy,0,1,8
+COBOL,MortgageApplication2/src/main/zOS/com/ibm/copybook/epsnbrpm.cpy,1,2,7
+Groovy,MortgageApplication2/build/build.groovy,4,4,6
+COBOL,MortgageApplication2/src/main/zOS/com/ibm/copybook/epsmtinp.cpy,0,1,6
+Ant,MortgageApplication2/build.xml,4,3,5
+COBOL,MortgageApplication2/src/main/zOS/com/ibm/copybook/epsmtcom.cpy,1,0,3
+Java,MortgageApplication2/src/main/java/com/zos/java/Example/package-info.java,0,7,1
+Java,MortgageApplication2/src/test/java/com/zos/java/Example/Test/package-info.java,0,7,1
+SUM,,97,322,4733

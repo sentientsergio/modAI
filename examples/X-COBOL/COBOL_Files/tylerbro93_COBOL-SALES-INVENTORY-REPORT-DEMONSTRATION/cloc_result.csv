@@ -1,0 +1,4 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.01 s (176.0 files/s, 29308.0 lines/s)"
+COBOL,COBOL-SALES-INVENTORY-REPORT-DEMONSTRATION/project2.cbl,32,38,225
+Markdown,COBOL-SALES-INVENTORY-REPORT-DEMONSTRATION/README.md,9,0,29
+SUM,,41,38,254

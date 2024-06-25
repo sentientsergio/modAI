@@ -1,0 +1,16 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.02 s (745.3 files/s, 51104.6 lines/s)"
+Markdown,cics-java-recgen/blog.md,90,0,455
+COBOL,cics-java-recgen/src/Cobol/EDUPGM.cbl,26,30,98
+Java,cics-java-recgen/projects/com.ibm.cicsdev.jzostest/src/com/ibm/cicsdev/jzostest/JZOSprog.java,19,20,51
+XML,cics-java-recgen/projects/com.ibm.cicsdev.jzostest.cicsbundle/.project,0,0,29
+XML,cics-java-recgen/projects/com.ibm.cicsdev.jzostest/.project,0,0,28
+Markdown,cics-java-recgen/README.md,17,0,27
+COBOL,cics-java-recgen/src/Cobol/EDUCPY.cbl,2,19,14
+XML,cics-java-recgen/projects/com.ibm.cicsdev.jzostest/.classpath,0,0,8
+XML,cics-java-recgen/projects/com.ibm.cicsdev.jzostest.cicsbundle/META-INF/cics.xml,0,0,7
+INI,cics-java-recgen/projects/com.ibm.cicsdev.jzostest/.settings/org.eclipse.jdt.core.prefs,0,0,7
+Properties,cics-java-recgen/projects/com.ibm.cicsdev.jzostest/build.properties,0,0,5
+INI,cics-java-recgen/projects/com.ibm.cicsdev.jzostest.cicsbundle/.settings/org.eclipse.core.resources.prefs,0,0,3
+INI,cics-java-recgen/projects/com.ibm.cicsdev.jzostest/.settings/org.eclipse.pde.core.prefs,0,0,3
+XML,cics-java-recgen/projects/com.ibm.cicsdev.jzostest.cicsbundle/com.ibm.cicsdev.jzostest.osgi.osgibundle,0,0,2
+SUM,,154,69,737

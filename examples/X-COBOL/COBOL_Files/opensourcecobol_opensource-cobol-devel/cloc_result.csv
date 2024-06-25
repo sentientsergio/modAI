@@ -1,0 +1,7 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.01 s (414.4 files/s, 33731.5 lines/s)"
+COBOL,opensource-cobol-devel/src/INSERTTBL.cbl,14,26,109
+COBOL,opensource-cobol-devel/src/FETCHTBL.cbl,14,27,95
+Markdown,opensource-cobol-devel/README.md,8,0,56
+COBOL,opensource-cobol-devel/cpy/sqlca.cbl,0,4,20
+YAML,opensource-cobol-devel/docker-compose.yml,5,15,14
+SUM,,41,72,294

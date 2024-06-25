@@ -1,0 +1,14 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.01 s (924.6 files/s, 26814.5 lines/s)"
+COBOL,cobol-code-example/src/VariableExamples.cob,0,2,63
+Markdown,cobol-code-example/CODE_OF_CONDUCT.md,23,0,51
+Markdown,cobol-code-example/.github/ISSUE_TEMPLATE/bug_report.md,8,0,30
+Markdown,cobol-code-example/.github/pull_request_template.md,15,0,30
+COBOL,cobol-code-example/src/SimpleCalculator.cbl,0,1,27
+Markdown,cobol-code-example/CONTRIBUTING.md,10,0,19
+Markdown,cobol-code-example/README.md,8,0,18
+Markdown,cobol-code-example/.github/ISSUE_TEMPLATE/feature_request.md,5,0,15
+Markdown,cobol-code-example/.github/ISSUE_TEMPLATE/improvement-request.md,2,0,8
+Markdown,cobol-code-example/.github/ISSUE_TEMPLATE/custom.md,3,0,7
+Markdown,cobol-code-example/RELEASE_NOTES.md,0,0,2
+YAML,cobol-code-example/_config.yml,0,0,1
+SUM,,74,3,271

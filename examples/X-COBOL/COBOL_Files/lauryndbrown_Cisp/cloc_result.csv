@@ -1,0 +1,18 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.03 s (588.0 files/s, 38403.7 lines/s)"
+COBOL,Cisp/tokenizer.cbl,3,27,275
+COBOL,Cisp/recursion.cbl,2,16,210
+COBOL,Cisp/lisp.cbl,1,23,168
+Markdown,Cisp/README.md,13,0,69
+COBOL,Cisp/cisp.cbl,0,16,62
+COBOL,Cisp/logger.cbl,0,6,55
+COBOL,Cisp/cisp-error.cbl,0,13,54
+DOS Batch,Cisp/bin/cisp.bat,0,0,15
+Lisp,Cisp/test/demo/presentation-demo.lisp,0,2,5
+Lisp,Cisp/test/addition/addition-2-numbers.lisp,0,0,1
+Lisp,Cisp/test/addition/addition-3-numbers.lisp,0,0,1
+Lisp,Cisp/test/addition/nested.lisp,0,0,1
+Lisp,Cisp/test/comments/single-alpha-num.lisp,0,3,1
+Lisp,Cisp/test/print/single-num-twice.lisp,0,0,1
+Lisp,Cisp/test/print/single-num.lisp,0,0,1
+Lisp,Cisp/test/print/str-no-spaces.lisp,0,0,1
+SUM,,19,106,920

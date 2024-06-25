@@ -1,0 +1,7 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.03 s (181.5 files/s, 165607.6 lines/s)"
+COBOL,cobol-fizzbuzz-kata/src/test/cobol/ZUTZCPC.CBL,442,664,3320
+make,cobol-fizzbuzz-kata/Makefile,11,0,34
+COBOL,cobol-fizzbuzz-kata/src/main/cobol/FIZZBUZZ.CBL,12,1,29
+Markdown,cobol-fizzbuzz-kata/README.md,8,0,20
+COBOL,cobol-fizzbuzz-kata/src/test/cobol/FIZZBUZZT.CBL,5,0,17
+SUM,,478,665,3420

@@ -1,0 +1,25 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.05 s (450.6 files/s, 159797.4 lines/s)"
+COBOL,pbs/customermenu.cbl,411,172,1541
+COBOL,pbs/subinv2.CBL,192,1,994
+COBOL,pbs/subinv.CBL,90,0,531
+COBOL,pbs/Readfile.CBL,91,35,460
+COBOL,pbs/data/Readfile.CBL,90,35,453
+COBOL,pbs/submit-invoices.cbl,78,0,439
+COBOL,pbs/ReadBG.CBL,55,21,402
+COBOL,pbs/servicemenu.cbl,120,53,358
+COBOL,pbs/pbs.cbl,74,48,319
+SQL,pbs/sql/create_tbls.sql,39,63,140
+SQL,pbs/sql/insert_data.sql,82,36,131
+TeX,pbs/tex/faktura_pbs.tex,22,5,73
+COBOL,pbs/sqllog.cbl,14,17,69
+Markdown,pbs/doc/postbeskrivning.md,19,0,61
+Markdown,pbs/doc/debtor-invoice.md,21,0,58
+COBOL,pbs/COPYLIB/Z0900-error-routine.cpy,18,37,37
+COBOL,pbs/Strlen.CBL,7,0,27
+Markdown,pbs/README.md,17,0,23
+COBOL,pbs/COPYLIB/Z0900-error-wkstg.cpy,1,6,17
+Markdown,pbs/sql/README.md,4,0,12
+SQL,pbs/sql/drop_tbls.sql,6,3,11
+SQL,pbs/sql/update_reminders.sql,1,0,10
+SQL,pbs/sql/update_debt_collection.sql,0,0,7
+SUM,,1452,532,6173

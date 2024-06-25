@@ -1,0 +1,6 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.01 s (321.7 files/s, 34746.1 lines/s)"
+COBOL,Calculer-Moyenne-Cobol/eleve.cob,87,40,242
+COBOL,Calculer-Moyenne-Cobol/format-number.cob,12,25,22
+Markdown,Calculer-Moyenne-Cobol/README.md,0,0,2
+CSV,Calculer-Moyenne-Cobol/notes.csv,0,0,2
+SUM,,99,65,268

@@ -1,0 +1,23 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.04 s (474.3 files/s, 150639.5 lines/s)"
+COBOL,GuiCOBOL/agarcob.cbl,719,63,1544
+TNSDL,GuiCOBOL/guicobol.inf,663,0,1496
+COBOL,GuiCOBOL/guicobol.cbl,424,105,992
+COBOL,GuiCOBOL/demo/demo1.cbl,116,3,143
+COBOL,GuiCOBOL/demo/prova.cbl,31,6,74
+COBOL,GuiCOBOL/global.cpy,13,3,61
+COBOL,GuiCOBOL/demo.cbl,14,0,18
+COBOL,GuiCOBOL/working.cpy,0,3,16
+DOS Batch,GuiCOBOL/tools/windows/animate.bat,14,0,13
+Bourne Shell,GuiCOBOL/compila.sh,9,2,11
+DOS Batch,GuiCOBOL/tools/windows/menu.bat,1,0,10
+DOS Batch,GuiCOBOL/tools/windows/cobagar.bat,1,0,8
+DOS Batch,GuiCOBOL/tools/windows/debgui.bat,8,1,8
+DOS Batch,GuiCOBOL/tools/windows/anigui.bat,7,1,7
+DOS Batch,GuiCOBOL/tools/windows/animagar.bat,9,0,7
+DOS Batch,GuiCOBOL/tools/windows/animcbl.bat,6,0,7
+DOS Batch,GuiCOBOL/tools/windows/cobgui.bat,10,3,7
+DOS Batch,GuiCOBOL/compila.bat,6,0,3
+Markdown,GuiCOBOL/README.md,0,0,2
+DOS Batch,GuiCOBOL/tools/windows/c.bat,0,0,1
+DOS Batch,GuiCOBOL/tools/windows/cobcbl.bat,0,0,1
+SUM,,2051,190,4429

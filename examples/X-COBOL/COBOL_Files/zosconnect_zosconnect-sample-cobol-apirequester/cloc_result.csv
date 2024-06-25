@@ -1,0 +1,17 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.03 s (528.1 files/s, 61676.8 lines/s)"
+COBOL,zosconnect-sample-cobol-apirequester/source/cobol/claimci0.cbl,28,190,328
+COBOL,zosconnect-sample-cobol-apirequester/source/cobol/imsclaim.cbl,9,115,219
+Markdown,zosconnect-sample-cobol-apirequester/README.md,61,0,192
+JSON,zosconnect-sample-cobol-apirequester/source/config/claims.json,0,0,66
+JCL,zosconnect-sample-cobol-apirequester/source/jcl/compile.jcl,0,52,51
+XML,zosconnect-sample-cobol-apirequester/source/config/server.xml,19,23,40
+COBOL,zosconnect-sample-cobol-apirequester/source/cobol/claimrsp.cpy,10,92,21
+JCL,zosconnect-sample-cobol-apirequester/source/jcl/vsam.jcl,0,28,21
+JCL,zosconnect-sample-cobol-apirequester/source/jcl/cicsdefn.jcl,2,28,18
+COBOL,zosconnect-sample-cobol-apirequester/source/cobol/imsclaic.cpy,0,15,16
+COBOL,zosconnect-sample-cobol-apirequester/source/cobol/claimrsc.cpy,0,13,13
+COBOL,zosconnect-sample-cobol-apirequester/source/cobol/claiminf.cpy,1,0,12
+COBOL,zosconnect-sample-cobol-apirequester/source/cobol/claimrqc.cpy,0,13,11
+Properties,zosconnect-sample-cobol-apirequester/source/config/claims.properties,0,0,7
+COBOL,zosconnect-sample-cobol-apirequester/source/cobol/claimreq.cpy,2,32,4
+SUM,,132,601,1019

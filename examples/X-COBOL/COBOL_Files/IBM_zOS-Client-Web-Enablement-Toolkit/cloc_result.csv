@@ -1,0 +1,17 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.06 s (260.8 files/s, 99354.8 lines/s)"
+COBOL,zOS-Client-Web-Enablement-Toolkit/Example-Cobol-AirportService/HWTHXCB1.cbl,274,376,1489
+C,zOS-Client-Web-Enablement-Toolkit/Example-Download/hwtdload.c,336,854,1340
+Rexx,zOS-Client-Web-Enablement-Toolkit/Example-Slack/slack.rexx,134,229,152
+Markdown,zOS-Client-Web-Enablement-Toolkit/Example-GeoServices/README.md,25,0,72
+Markdown,zOS-Client-Web-Enablement-Toolkit/Example-Slack/KeyDatabase.md,26,0,52
+Markdown,zOS-Client-Web-Enablement-Toolkit/Example-Slack/README.md,23,0,47
+Markdown,zOS-Client-Web-Enablement-Toolkit/Example-Download/README.md,17,0,46
+Markdown,zOS-Client-Web-Enablement-Toolkit/Example-Slack/KeyRing.md,23,0,45
+Markdown,zOS-Client-Web-Enablement-Toolkit/Example-zOSMF/README.md,18,0,34
+Markdown,zOS-Client-Web-Enablement-Toolkit/CONTRIBUTING.md,14,0,32
+Markdown,zOS-Client-Web-Enablement-Toolkit/README.md,11,0,12
+Markdown,zOS-Client-Web-Enablement-Toolkit/Example-Cobol-AirportService/README.md,9,0,11
+JCL,zOS-Client-Web-Enablement-Toolkit/Example-Slack/slack.jcl,0,2,8
+Markdown,zOS-Client-Web-Enablement-Toolkit/MAINTAINERS.md,1,0,2
+YAML,zOS-Client-Web-Enablement-Toolkit/_config.yml,0,0,1
+SUM,,911,1461,3343

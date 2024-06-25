@@ -1,0 +1,7 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.01 s (358.4 files/s, 8817.1 lines/s)"
+COBOL,IBM-mainframe/CELEVEN.CBL,6,0,38
+COBOL,IBM-mainframe/CNINE.CBL,1,0,32
+COBOL,IBM-mainframe/CFIVE.CBL,0,0,23
+COBOL,IBM-mainframe/CTEN.CBL,1,0,20
+Markdown,IBM-mainframe/README.md,0,0,2
+SUM,,8,0,115

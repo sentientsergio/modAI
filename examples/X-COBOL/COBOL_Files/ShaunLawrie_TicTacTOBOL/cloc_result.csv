@@ -1,0 +1,4 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.01 s (150.8 files/s, 25041.1 lines/s)"
+COBOL,TicTacTOBOL/TicTacTOBOL.cbl,16,16,248
+Markdown,TicTacTOBOL/README.md,10,0,42
+SUM,,26,16,290

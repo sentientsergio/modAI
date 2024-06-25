@@ -1,0 +1,97 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.33 s (292.0 files/s, 69424.9 lines/s)"
+COBOL,idz-utilities/PLI-Samples/Global Auto Mart PLI Sample/GAM_PLI/COPYBOOKS/GAM0BED.cpy,3,28,5058
+COBOL,idz-utilities/PLI-Samples/Global Auto Mart PLI Sample/GAM_PLI/COPYBOOKS/GAM0BCD.cpy,3,28,3168
+COBOL,idz-utilities/PLI-Samples/Global Auto Mart PLI Sample/GAM_PLI/COPYBOOKS/GAM0BPD.cpy,3,28,2328
+COBOL,idz-utilities/PLI-Samples/Global Auto Mart PLI Sample/GAM_PLI/COPYBOOKS/GAM0BDD.cpy,4,28,1388
+XML,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/plugin.xml,7,44,501
+COBOL,idz-utilities/COBOL-Samples/Global Auto Mart COBOL Sample/GAM_COBOL/GAM0VMI/GAM0VMI.cbl,66,37,422
+COBOL,idz-utilities/PLI-Samples/Global Auto Mart PLI Sample/GAM_PLI/GAM0VDB/GAM0VDB.cbl,91,28,336
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/views/EditInfoView.java,32,79,270
+COBOL,idz-utilities/COBOL-Samples/Global Auto Mart COBOL Sample/GAM_COBOL/GAM0VII/GAM0VII.cbl,51,39,262
+COBOL,idz-utilities/COBOL-Samples/Global Auto Mart COBOL Sample/GAM_COBOL/GAM0VSI/GAM0VSI.cbl,45,28,179
+Java,idz-utilities/Java-Samples/codereview-samples/com.ibm.examples.cobol.code.review/src/com/ibm/examples/cobol/rules/DisplayForDataItemsInComputationsRule.java,63,131,162
+Java,idz-utilities/Java-Samples/codereview-samples/com.ibm.examples.cobol.code.review/src/com/ibm/examples/cobol/rules/UseOnSizeErrorWithArithmeticVerbsRule.java,38,44,154
+JCL,idz-utilities/PLI-Samples/Global Auto Mart PLI Sample/GAM_PLI/JCL/GAMCSDUP.jcl,33,29,130
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/resources/CopyPhysicalResourceAction.java,23,57,128
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/resources/CreateLogicalResourceAction.java,20,53,124
+Java,idz-utilities/Java-Samples/codereview-samples/com.ibm.examples.cobol.code.review/src/com/ibm/examples/cobol/rules/ConditionalNamesShareDataItemNameRule.java,28,124,124
+COBOL,idz-utilities/PLI-Samples/Global Auto Mart PLI Sample/GAM_PLI/COPYBOOKS/GAM0BMD.cpy,4,28,117
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/resources/CreateMemberAction.java,15,54,116
+Java,idz-utilities/Java-Samples/codereview-samples/com.ibm.examples.cobol.code.review/src/com/ibm/examples/cobol/rules/TruncBinWithBinaryCompItemsRule.java,31,80,111
+JCL,idz-utilities/PLI-Samples/Global Auto Mart PLI Sample/GAM_PLI/JCL/GAM0VCDB.jcl,6,29,111
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/mapping/SetExtensionMappingAction.java,15,32,109
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/resources/AllocatePDSAction.java,16,43,108
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/resources/CreatePropertyGroupAction.java,12,41,107
+Java,idz-utilities/Java-Samples/codereview-samples/com.ibm.examples.cobol.code.review/src/com/ibm/examples/cobol/rules/CICSFlengthRule.java,23,67,102
+XML,idz-utilities/Java-Samples/codereview-samples/com.ibm.examples.cobol.code.review/plugin.xml,1,0,100
+Java,idz-utilities/Java-Samples/codereview-samples/com.ibm.examples.cobol.code.review/src/com/ibm/examples/cobol/rules/CallParagraphBeforeParagraphIsDefinedRule.java,24,56,98
+COBOL,idz-utilities/COBOL-Samples/Global Auto Mart COBOL Sample/GAM_COBOL/GAM0VMM/GAM0VMM.cbl,27,28,96
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/resources/GetContentsAction.java,14,45,92
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/resources/ListProjectsAction.java,20,55,90
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/resources/FindResourceAction.java,16,48,86
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/propertyPages/SimplePropertyPage.java,9,43,78
+Pascal,idz-utilities/PLI-Samples/Global Auto Mart PLI Sample/GAM_PLI/INCLUDE/GAM0ICT.inc,0,0,78
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/resources/SubmitAndWaitAction.java,12,31,74
+Java,idz-utilities/Java-Samples/codereview-samples/com.ibm.examples.cobol.code.review/src/com/ibm/examples/cobol/rules/LiteralIdentifiersForWorkingStorage.java,16,53,73
+Java,idz-utilities/Java-Samples/codereview-samples/com.ibm.examples.cobol.code.review/src/com/ibm/examples/cobol/rules/SimpleRecursionRule.java,22,49,73
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/validation/ListFileValidatorsAction.java,15,37,72
+COBOL,idz-utilities/COBOL-Samples/Global Auto Mart COBOL Sample/GAM_COBOL/COPYBOOK/GAM0BCA.cpy,0,28,68
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/validation/SampleFileOperationValidator.java,19,62,68
+Pascal,idz-utilities/PLI-Samples/Global Auto Mart PLI Sample/GAM_PLI/INCLUDE/GAM0IDT.inc,0,0,68
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/notification/SampleSubscriber.java,10,31,67
+Markdown,idz-utilities/Node-js-Samples/README.md,65,0,66
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/builders/AddSubProjectBuilderAction.java,15,46,64
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/builders/RemoveSubProjectBuilderAction.java,16,45,64
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/dependencies/GetDependenciesAction.java,14,35,64
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/resources/AddProblemsAction.java,12,48,60
+Pascal,idz-utilities/PLI-Samples/Global Auto Mart PLI Sample/GAM_PLI/INCLUDE/GAM0IMT.inc,0,0,54
+COBOL,idz-utilities/COBOL-Samples/Global Auto Mart COBOL Sample/GAM_COBOL/COPYBOOK/GAM0BET.cpy,0,46,53
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/resources/OpenFileAction.java,12,36,50
+Java,idz-utilities/Java-Samples/codereview-samples/com.ibm.examples.cobol.code.review/src/com/ibm/examples/cobol/rules/UseOnExceptionWithCallInvokeXmlGenXmlParseRule.java,17,50,48
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/SamplesPlugin.java,13,51,47
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/notification/SubscribeAction.java,12,38,47
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/resources/DeleteProblemsAction.java,12,36,44
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/natures/AddSubProjectNatureAction.java,12,41,42
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/natures/RemoveSubProjectNatureAction.java,13,40,42
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/resources/ListPropertiesAction.java,14,39,41
+Java,idz-utilities/Java-Samples/codereview-samples/com.ibm.examples.cobol.code.review/src/com/ibm/examples/cobol/rules/ParagraphsWithoutExitRule.java,15,44,41
+Java,idz-utilities/Java-Samples/codereview-samples/com.ibm.examples.cobol.code.review/src/com/ibm/examples/cobol/rules/UseOnOverflowWithStringAndUnstringRule.java,12,46,39
+Properties,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/plugin.properties,10,8,37
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/resources/ListSystemsAction.java,14,35,32
+Properties,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/plugin_de.properties,10,8,30
+Properties,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/plugin_es.properties,10,8,30
+Properties,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/plugin_fr.properties,10,11,30
+Properties,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/plugin_ja.properties,10,8,30
+Properties,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/plugin_ko.properties,10,8,30
+Properties,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/plugin_pt_BR.properties,10,8,30
+Properties,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/plugin_zh_CN.properties,10,8,30
+Properties,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/plugin_zh_TW.properties,10,8,30
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/notification/SampleResourceSubscription.java,7,29,30
+Java,idz-utilities/Java-Samples/codereview-samples/com.ibm.examples.cobol.code.review/src/com/ibm/examples/cobol/rules/OnePeriodPerParagraphRule.java,9,37,30
+XML,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/.project,0,0,28
+XML,idz-utilities/Java-Samples/codereview-samples/com.ibm.examples.cobol.code.review/.project,0,0,28
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/builders/SampleBuilder.java,12,33,27
+Markdown,idz-utilities/Java-Samples/README.md,5,0,24
+Java,idz-utilities/Java-Samples/codereview-samples/com.ibm.examples.cobol.code.review/src/com/ibm/examples/cobol/code/review/Activator.java,9,28,24
+Java,idz-utilities/Java-Samples/codereview-samples/com.ibm.examples.cobol.code.review/src/com/ibm/examples/cobol/rules/AvoidEntryStmtsRule.java,6,34,24
+COBOL,idz-utilities/COBOL-Samples/Global Auto Mart COBOL Sample/GAM_COBOL/COPYBOOK/GAM0BDT.cpy,0,46,23
+JavaScript,idz-utilities/Node-js-Samples/express-server/express-server.js,5,0,19
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/resources/DeleteAllProblemsAction.java,13,31,18
+Java,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/natures/SampleNature.java,12,34,17
+XML,idz-utilities/COBOL-Samples/Global Auto Mart COBOL Sample/.project,0,0,13
+COBOL,idz-utilities/COBOL-Samples/Global Auto Mart COBOL Sample/GAM_COBOL/COPYBOOK/GAM0BMT.cpy,0,46,13
+XML,idz-utilities/PLI-Samples/Global Auto Mart PLI Sample/.project,0,0,13
+JavaScript,idz-utilities/Node-js-Samples/author/author.js,4,2,9
+JSON,idz-utilities/Node-js-Samples/express-server/package.json,0,0,9
+XML,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/.classpath,0,0,7
+XML,idz-utilities/Java-Samples/codereview-samples/com.ibm.examples.cobol.code.review/.classpath,0,0,7
+INI,idz-utilities/Java-Samples/codereview-samples/com.ibm.examples.cobol.code.review/.settings/org.eclipse.jdt.core.prefs,0,0,7
+JavaScript,idz-utilities/Node-js-Samples/basic-server/server.js,2,0,7
+Properties,idz-utilities/Java-Samples/api-samples/com.ibm.ftt.api.samples/src/com/ibm/ftt/api/samples/SamplesPluginResources.properties,5,8,6
+Properties,idz-utilities/Java-Samples/codereview-samples/com.ibm.examples.cobol.code.review/build.properties,0,0,5
+JSON,idz-utilities/Node-js-Samples/author/package.json,0,0,5
+JSON,idz-utilities/Node-js-Samples/basic-server/package.json,0,0,5
+Markdown,idz-utilities/README.md,0,0,3
+Markdown,idz-utilities/COBOL-Samples/README.md,0,0,2
+Markdown,idz-utilities/PLI-Samples/README.md,0,0,2
+SUM,,1284,2824,18476

@@ -1,0 +1,6 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.01 s (274.7 files/s, 8585.2 lines/s)"
+COBOL,simple-calc-langs/COBOL/cobol-calc.cbl,8,0,34
+Go,simple-calc-langs/Go/go-calc.go,9,3,32
+Perl,simple-calc-langs/Perl/perl-calc.pl,7,2,26
+Markdown,simple-calc-langs/README.md,1,0,3
+SUM,,25,5,95

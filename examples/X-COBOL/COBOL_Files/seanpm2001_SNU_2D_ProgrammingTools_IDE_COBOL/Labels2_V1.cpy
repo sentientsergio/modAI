@@ -1,0 +1,10 @@
+    MOVE 1 TO A
+    PERFORM LABEL
+    STOP RUN.
+LABEL.
+    DISPLAY A
+    IF A < 3
+        ADD 1 TO A
+        PERFORM LABEL
+    END-IF
+    DISPLAY 'END'.

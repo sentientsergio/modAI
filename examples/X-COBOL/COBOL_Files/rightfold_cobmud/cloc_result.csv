@@ -1,0 +1,7 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.01 s (424.9 files/s, 14617.0 lines/s)"
+COBOL,cobmud/src/server.cob,17,0,75
+Markdown,cobmud/README.md,10,0,22
+make,cobmud/Makefile,7,0,18
+Python,cobmud/test/look.py,2,0,10
+COBOL,cobmud/src/command-look.cbl,2,0,9
+SUM,,38,0,134

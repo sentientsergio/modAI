@@ -1,0 +1,106 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.09 s (1221.6 files/s, 72675.3 lines/s)"
+XML,sonarqube/swift-coverage/swift-coverage-example/swift-coverage-example/Base.lproj/MainMenu.xib,0,0,680
+COBOL,sonarqube/sonarqube-scanner/src/cobol/Custmnt2.cbl,7,81,493
+Visual Basic,sonarqube/sonarqube-scanner/src/vb6/Registry.cls,84,57,287
+XML,sonarqube/sonarqube-scanner/src/xml/sonar_backup.xml,0,0,233
+Maven,sonarqube/sonarqube-scanner-maven/maven-multilingual/pom.xml,7,0,136
+Bourne Shell,sonarqube/sonarqube-scanner-gradle/gradlew,21,22,129
+Bourne Shell,sonarqube/sonarqube-scanner-gradle-multimodule/gradlew,21,36,126
+Markdown,sonarqube/doc/jacoco.md,39,0,119
+PHP,sonarqube/sonarqube-scanner/src/php/Math.php,24,74,116
+ABAP,sonarqube/sonarqube-scanner/src/abap/ZZBGS106.abap,20,64,110
+ABAP,sonarqube/sonarqube-scanner/src/abap/ZBCMKZ17.abap,5,34,108
+Visual Basic,sonarqube/sonarqube-scanner/src/vb6/Registry.bas,20,41,105
+XML,sonarqube/swift-coverage/swift-coverage-example/swift-coverage-example.xcodeproj/xcshareddata/xcschemes/swift-coverage-example.xcscheme,0,0,104
+XML,sonarqube/objc-llvm-coverage/Example.xcodeproj/xcshareddata/xcschemes/Example.xcscheme,0,0,100
+MSBuild script,sonarqube/sonarqube-scanner-msbuild/CSharpProject/SomeConsoleApplicationTest/SomeConsoleApplicationTest.csproj,0,7,82
+Maven,sonarqube/sonarqube-scanner-maven/maven-multimodule/pom.xml,7,0,80
+Maven,sonarqube/sonarqube-scanner-maven/maven-basic/pom.xml,6,0,78
+DOS Batch,sonarqube/sonarqube-scanner-gradle-multimodule/gradlew.bat,25,2,76
+Markdown,sonarqube/sonarqube-scanner-maven/maven-multimodule/README.md,26,0,73
+Python,sonarqube/sonarqube-scanner/src/samples/letters.py,32,102,69
+DOS Batch,sonarqube/sonarqube-scanner-gradle/gradlew.bat,23,2,59
+JSON,sonarqube/swift-coverage/swift-coverage-example/swift-coverage-example/Assets.xcassets/AppIcon.appiconset/Contents.json,0,0,58
+MSBuild script,sonarqube/sonarqube-scanner-msbuild/CSharpProject/SomeConsoleApplication/SomeConsoleApplication.csproj,0,7,53
+C++,sonarqube/sonarqube-scanner-build-wrapper-linux/src/SimpleClass.cc,14,8,48
+Maven,sonarqube/sonarqube-scanner-maven/maven-multimodule/tests/pom.xml,7,0,44
+Python,sonarqube/sonarqube-scanner/src/samples/strfile.py,19,39,42
+Python,sonarqube/sonarqube-scanner/src/samples/fortune.py,11,40,41
+COBOL,sonarqube/sonarqube-scanner/copybooks/Attr.cpy,0,3,37
+XHTML,sonarqube/sonarqube-scanner/src/html/sample.xhtml,14,0,37
+C++,sonarqube/sonarqube-scanner-build-wrapper-linux/src/BiggestUnInt.cc,6,11,35
+XML,sonarqube/swift-coverage/swift-coverage-example/swift-coverage-example/Info.plist,0,0,34
+XML,sonarqube/sonarqube-scanner/coverage-report/coverage-cobertua-flex.xml,1,0,31
+Ant,sonarqube/sonarqube-scanner-ant/build.xml,10,8,30
+C#,sonarqube/sonarqube-scanner-msbuild/CSharpProject/SomeConsoleApplication/Program.cs,3,0,28
+Bourne Shell,sonarqube/swift-coverage/swift-coverage-example/xccov-to-sonarqube-generic.sh,3,0,28
+Gradle,sonarqube/sonarqube-scanner-gradle-multimodule/build.gradle,5,4,27
+Gradle,sonarqube/sonarqube-scanner-gradle/build.gradle,7,6,26
+Visual Studio Solution,sonarqube/sonarqube-scanner-msbuild/CSharpProject/SomeConsoleApplication.sln,1,1,26
+Markdown,sonarqube/swift-coverage/README.md,13,0,26
+XML,sonarqube/swift-coverage/swift-coverage-example/swift-coverage-exampleTests/Info.plist,0,0,24
+C#,sonarqube/sonarqube-scanner-msbuild/CSharpProject/SomeConsoleApplicationTest/ProgramTests.cs,5,5,23
+JavaScript,sonarqube/sonarqube-scanner/src/javascript/Person.js,7,0,23
+Markdown,sonarqube/objc-llvm-coverage/README.md,9,0,20
+Markdown,sonarqube/sonarqube-scanner-msbuild/CSharpProject/README.md,10,0,20
+make,sonarqube/sonarqube-scanner-build-wrapper-linux/makefile,7,0,19
+Swift,sonarqube/swift-coverage/swift-coverage-example/swift-coverage-exampleTests/swift_coverage_exampleTests.swift,8,12,19
+Swift,sonarqube/swift-coverage/swift-coverage-example/swift-coverage-example/AppDelegate.swift,9,9,18
+Markdown,sonarqube/README.md,16,0,17
+Markdown,sonarqube/sonarqube-scanner-build-wrapper-linux/README.md,8,0,17
+Markdown,sonarqube/sonarqube-scanner-gradle-multimodule/README.md,9,0,15
+Maven,sonarqube/sonarqube-scanner-maven/maven-multimodule/module1/pom.xml,6,0,15
+Maven,sonarqube/sonarqube-scanner-maven/maven-multimodule/module2/pom.xml,6,0,15
+C#,sonarqube/sonarqube-scanner-msbuild/CSharpProject/SomeConsoleApplication/Properties/AssemblyInfo.cs,4,17,15
+C#,sonarqube/sonarqube-scanner-msbuild/CSharpProject/SomeConsoleApplicationTest/Properties/AssemblyInfo.cs,4,17,15
+Kotlin,sonarqube/sonarqube-scanner/src/kotlin/sample.kt,2,1,15
+Bourne Shell,sonarqube/sonarqube-scanner-build-wrapper-linux/build.sh,2,0,14
+Java,sonarqube/sonarqube-scanner-maven/maven-multimodule/tests/src/test/java/com/acme/its/ModulesTest.java,5,0,14
+Markdown,sonarqube/sonarqube-scanner-ant/README.md,6,0,13
+Markdown,sonarqube/sonarqube-scanner-gradle/README.md,8,0,13
+Java,sonarqube/sonarqube-scanner-maven/maven-multimodule/module1/src/main/java/com/acme/module1/Module1.java,5,0,12
+Java,sonarqube/sonarqube-scanner-maven/maven-multimodule/module2/src/main/java/com/acme/module2/Module2.java,4,0,12
+Properties,sonarqube/sonarqube-scanner/sonar-project.properties,11,6,11
+Java,sonarqube/sonarqube-scanner-gradle/src/test/java/com/acme/AppTest.java,3,0,10
+Markdown,sonarqube/sonarqube-scanner-maven/maven-basic/README.md,6,0,10
+XML,sonarqube/swift-coverage/swift-coverage-example/info.plist,0,0,10
+Objective-C,sonarqube/objc-llvm-coverage/Example/Example.m,3,0,9
+Objective-C,sonarqube/objc-llvm-coverage/ExampleTests/ExampleTests.m,6,0,9
+Java,sonarqube/sonarqube-scanner-ant/src/One.java,2,0,9
+Java,sonarqube/sonarqube-scanner-gradle/src/main/java/com/acme/App.java,2,0,9
+Java,sonarqube/sonarqube-scanner-maven/maven-basic/src/main/java/com/acme/basic/HelloWorld.java,4,0,9
+Java,sonarqube/sonarqube-scanner-maven/maven-multilingual/src/main/java/com/acme/multilingual/HelloWorld.java,4,0,9
+Kotlin,sonarqube/sonarqube-scanner-maven/maven-multilingual/src/main/kotlin/com/acme/multilingual/KotlinHelloWorld.kt,2,0,9
+Java,sonarqube/sonarqube-scanner-maven/maven-multimodule/module1/src/test/java/com/acme/module1/Module1Test.java,3,0,9
+Swift,sonarqube/swift-coverage/swift-coverage-example/swift-coverage-example/AppDelegate2.swift,2,7,9
+Properties,sonarqube/objc-llvm-coverage/sonar-project.properties,4,4,8
+Java,sonarqube/sonarqube-scanner-maven/maven-basic/src/test/java/com/acme/basic/HelloWorldTest.java,3,0,8
+Markdown,sonarqube/sonarqube-scanner-maven/maven-multilingual/README.md,6,0,8
+Java,sonarqube/sonarqube-scanner-maven/maven-multilingual/src/test/java/com/acme/multilingual/HelloWorldTest.java,3,0,8
+Kotlin,sonarqube/sonarqube-scanner-maven/maven-multilingual/src/test/kotlin/com/acme/multilingual/KotlinHelloWorldTest.kt,3,0,8
+Java,sonarqube/sonarqube-scanner-maven/maven-multimodule/module2/src/test/java/com/acme/module2/Module2Test.java,3,0,8
+COBOL,sonarqube/sonarqube-scanner/copybooks/Custmas.cpy,0,1,8
+ActionScript,sonarqube/sonarqube-scanner/src/flex/Circle.as,2,0,8
+ActionScript,sonarqube/sonarqube-scanner/src/flex/UncoveredCircle.as,2,0,8
+SQL,sonarqube/sonarqube-scanner/src/sql/ddl.sql,1,0,8
+XML,sonarqube/objc-llvm-coverage/Example.xcodeproj/project.xcworkspace/contents.xcworkspacedata,0,0,7
+C++,sonarqube/sonarqube-scanner-build-wrapper-linux/src/HelloWorld.cpp,1,0,7
+XML,sonarqube/swift-coverage/swift-coverage-example/swift-coverage-example.xcodeproj/project.xcworkspace/contents.xcworkspacedata,0,0,7
+Properties,sonarqube/sonarqube-scanner-build-wrapper-linux/sonar-project.properties,3,2,6
+Java,sonarqube/sonarqube-scanner-gradle-multimodule/module-one/src/main/java/One.java,2,0,6
+XML,sonarqube/sonarqube-scanner-msbuild/CSharpProject/SomeConsoleApplication/App.config,0,0,6
+Swift,sonarqube/sonarqube-scanner/src/swift/example.swift,4,0,6
+Java,sonarqube/sonarqube-scanner-gradle-multimodule/module-two/src/main/java/Two.java,0,0,5
+Properties,sonarqube/sonarqube-scanner-gradle/gradle/wrapper/gradle-wrapper.properties,0,0,5
+COBOL,sonarqube/sonarqube-scanner/copybooks/Errparm.cpy,0,1,5
+Properties,sonarqube/swift-coverage/swift-coverage-example/sonar-project.properties,2,1,5
+Visual Basic,sonarqube/sonarqube-scanner/src/vb6/Info.frm,1,62,4
+Erlang,sonarqube/sonarqube-scanner/src/erlang/hello.erl,1,0,3
+Gradle,sonarqube/sonarqube-scanner-gradle-multimodule/settings.gradle,0,0,2
+Markdown,sonarqube/sonarqube-scanner/README.md,1,0,2
+C/C++ Header,sonarqube/objc-llvm-coverage/Example/Example.h,0,0,1
+Properties,sonarqube/sonarqube-scanner-gradle/gradle.properties,0,0,1
+Gradle,sonarqube/sonarqube-scanner-gradle/settings.gradle,2,15,1
+Python,sonarqube/sonarqube-scanner/src/directory/file_in_directory.py,0,0,1
+Python,sonarqube/sonarqube-scanner/src/package/file_in_package.py,0,0,1
+SUM,,713,809,4665

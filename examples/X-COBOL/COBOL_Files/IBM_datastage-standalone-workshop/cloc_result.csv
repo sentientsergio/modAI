@@ -1,0 +1,24 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.05 s (487.0 files/s, 42479.2 lines/s)"
+Markdown,datastage-standalone-workshop/docs/lab-multi-dbs/README.md,161,0,183
+Markdown,datastage-standalone-workshop/docs/lab-db2/README.md,120,0,160
+JSON,datastage-standalone-workshop/data/employees.json,0,0,148
+Markdown,datastage-standalone-workshop/docs/lab-file/README.md,101,0,124
+Markdown,datastage-standalone-workshop/docs/lab-mainframe/README.md,59,0,91
+YAML,datastage-standalone-workshop/mkdocs.yml,8,10,86
+Markdown,datastage-standalone-workshop/docs/lab-igc/README.md,65,0,72
+Markdown,datastage-standalone-workshop/docs/lab-rest/README.md,58,0,71
+Markdown,datastage-standalone-workshop/docs/lab-git/README.md,47,0,60
+Markdown,datastage-standalone-workshop/docs/admin-guide/README.md,25,0,49
+CSV,datastage-standalone-workshop/data/raviga-products.csv,0,0,33
+COBOL,datastage-standalone-workshop/data/mainframe/copybook.cob,1,17,19
+Markdown,datastage-standalone-workshop/docs/SUMMARY.md,9,0,19
+Markdown,datastage-standalone-workshop/docs/lab-skytap/README.md,14,0,19
+YAML,datastage-standalone-workshop/.github/workflows/ci.yml,0,0,16
+Markdown,datastage-standalone-workshop/docs/resources/README.md,13,0,14
+Markdown,datastage-standalone-workshop/docs/README.md,8,0,12
+YAML,datastage-standalone-workshop/.travis.yml,1,0,7
+YAML,datastage-standalone-workshop/.gitbook.yaml,2,1,4
+JSON,datastage-standalone-workshop/.markdownlint.json,0,0,4
+Markdown,datastage-standalone-workshop/README.md,2,0,3
+Markdown,datastage-standalone-workshop/data/mainframe/README.md,1,0,2
+SUM,,695,28,1196

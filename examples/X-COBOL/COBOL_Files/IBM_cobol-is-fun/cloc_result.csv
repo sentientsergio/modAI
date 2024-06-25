@@ -1,0 +1,15 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.02 s (726.4 files/s, 37604.3 lines/s)"
+COBOL,cobol-is-fun/json-parse/json-parse.cbl,8,18,113
+Markdown,cobol-is-fun/my-first-program/README.md,24,0,66
+COBOL,cobol-is-fun/my-first-program/fxsort.cbl,7,28,56
+Markdown,cobol-is-fun/MAINTAINERS.md,18,0,51
+Markdown,cobol-is-fun/json-parse/README.md,23,0,44
+JCL,cobol-is-fun/json-parse/compile.jcl,0,17,28
+JCL,cobol-is-fun/my-first-program/compile.jcl,0,17,28
+Markdown,cobol-is-fun/CONTRIBUTING.md,5,0,11
+JCL,cobol-is-fun/json-parse/bind.jcl,0,17,10
+JCL,cobol-is-fun/my-first-program/bind.jcl,0,17,10
+Markdown,cobol-is-fun/README.md,4,0,9
+JCL,cobol-is-fun/my-first-program/run.jcl,0,16,9
+JCL,cobol-is-fun/json-parse/execute.jcl,0,16,3
+SUM,,89,146,438

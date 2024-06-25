@@ -1,0 +1,4 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.01 s (178.0 files/s, 20208.2 lines/s)"
+COBOL,pong-cobol/game.cbl,16,36,168
+make,pong-cobol/Makefile,2,0,5
+SUM,,18,36,173

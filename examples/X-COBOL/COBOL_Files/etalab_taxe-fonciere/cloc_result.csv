@@ -1,0 +1,26 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.03 s (694.1 files/s, 129877.3 lines/s)"
+COBOL,taxe-fonciere/src/T84R.cpy,0,7,564
+COBOL,taxe-fonciere/src/FMSTAU2.cob,7,120,405
+COBOL,taxe-fonciere/src/EFITA3N8.cob,138,244,390
+COBOL,taxe-fonciere/src/EFITA3B8.cob,49,156,311
+COBOL,taxe-fonciere/src/EFITAUX2.cob,34,110,196
+COBOL,taxe-fonciere/src/T84C.cpy,2,72,146
+COBOL,taxe-fonciere/src/T84D.cpy,0,62,128
+COBOL,taxe-fonciere/src/XBASEB.cpy,0,22,103
+COBOL,taxe-fonciere/src/XBASNB.cpy,0,19,98
+COBOL,taxe-fonciere/src/XCOTNB.cpy,0,38,82
+COBOL,taxe-fonciere/src/XRETNB.cpy,0,57,69
+COBOL,taxe-fonciere/src/XBXTDCOM.cpy,0,64,68
+COBOL,taxe-fonciere/src/XCOTB.cpy,0,30,67
+COBOL,taxe-fonciere/src/CTXTA3B.cob,2,22,55
+COBOL,taxe-fonciere/src/CTXTA3N.cob,5,16,46
+COBOL,taxe-fonciere/src/XBXTDSR.cpy,0,39,46
+COBOL,taxe-fonciere/src/XCOMNBA.cpy,0,40,44
+COBOL,taxe-fonciere/src/XRETB.cpy,0,44,43
+COBOL,taxe-fonciere/src/XCOMBAT.cpy,0,5,36
+COBOL,taxe-fonciere/src/T84G.cpy,0,25,35
+COBOL,taxe-fonciere/src/XBXTDDIR.cpy,0,29,33
+COBOL,taxe-fonciere/src/T800.cpy,0,11,20
+COBOL,taxe-fonciere/src/XBXTDAN.cpy,0,11,12
+Markdown,taxe-fonciere/README.md,5,0,9
+SUM,,242,1243,3006

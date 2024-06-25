@@ -1,0 +1,14 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.02 s (786.0 files/s, 33602.1 lines/s)"
+Markdown,CoBOL-GraalVM/README.md,62,0,182
+COBOL,CoBOL-GraalVM/benchmark/mandelbrotset.cbl,16,4,60
+COBOL,CoBOL-GraalVM/benchmark/sieveoferathostenes.cbl,0,3,49
+COBOL,CoBOL-GraalVM/benchmark/fibonacci.cbl,1,7,25
+COBOL,CoBOL-GraalVM/benchmark/factorial.cbl,2,4,23
+Bourne Shell,CoBOL-GraalVM/benchmark/compile.sh,0,0,14
+Bourne Shell,CoBOL-GraalVM/benchmark/execute.sh,0,0,13
+Bourne Shell,CoBOL-GraalVM/tools-version.sh,0,0,13
+Bourne Shell,CoBOL-GraalVM/build-install-llvm10.sh,0,5,9
+Bourne Shell,CoBOL-GraalVM/install-graal.sh,0,5,8
+Bourne Shell,CoBOL-GraalVM/build-install-gnu-cobol.sh,0,2,4
+Bourne Shell,CoBOL-GraalVM/generate-html.sh,0,0,2
+SUM,,81,30,402

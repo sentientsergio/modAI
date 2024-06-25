@@ -1,0 +1,31 @@
+       IDENTIFICATION DIVISION.
+      *
+       PROGRAM-ID.    HELLOCBL.
+       AUTHOR.        STUDENT.
+
+       ENVIRONMENT DIVISION.
+      *
+       INPUT-OUTPUT SECTION.
+       FILE-CONTROL.
+           SELECT SOME-CBL ASSIGN TO SOMECBL.
+
+       DATA DIVISION.
+      *
+       FILE SECTION.
+       FD  SOME-CBL RECORD CONTAINS 80 CHARACTERS RECORDING MODE F.
+       01  SOME-REC        PIC X(80) VALUE SPACES.
+
+       WORKING-STORAGE SECTION.
+       01  SOME-EOF PIC X VALUE "F".
+
+       PROCEDURE DIVISION.
+      *    
+           OPEN INPUT SOME-CBL
+           PERFORM UNTIL SOME-EOF = "T"
+              READ SOME-CBL
+                 AT END MOVE "T" TO SOME-EOF
+                 NOT AT END DISPLAY SOME-REC
+              END-READ
+           END-PERFORM
+           CLOSE SOME-CBL
+           STOP RUN.

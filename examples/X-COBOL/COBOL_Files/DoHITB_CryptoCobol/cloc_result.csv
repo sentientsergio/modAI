@@ -1,0 +1,28 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.04 s (677.2 files/s, 200119.5 lines/s)"
+COBOL,CryptoCobol/SHA1HEX.CBL,250,367,1239
+COBOL,CryptoCobol/SHA512.cbl,457,622,1179
+COBOL,CryptoCobol/AES/AESCORE.cbl,278,203,522
+COBOL,CryptoCobol/AES/Util/AESGEN.cbl,102,21,493
+COBOL,CryptoCobol/AES/AESMAIN.cbl,159,97,455
+COBOL,CryptoCobol/AES/AESTEST.cbl,62,32,234
+COBOL,CryptoCobol/AES/Default/AESXGET.cbl,33,7,101
+COBOL,CryptoCobol/AES/Default/AESTGET.cbl,38,7,98
+COBOL,CryptoCobol/AES/Default/AESTPUT.cbl,28,7,91
+COBOL,CryptoCobol/AES/Default/AESMPUT.cbl,29,8,90
+Markdown,CryptoCobol/AES/README.md,27,0,65
+COBOL,CryptoCobol/AES/Util/ITGENE.cbl,14,4,53
+COBOL,CryptoCobol/AES/Copybook/Default/AESLMAIN.cpy,0,0,21
+COBOL,CryptoCobol/AES/Copybook/Default/AESFLOG.cpy,0,0,20
+Markdown,CryptoCobol/README.md,11,0,18
+COBOL,CryptoCobol/AES/Copybook/Default/AESLLOG.cpy,0,0,17
+COBOL,CryptoCobol/AES/Copybook/Default/AESTAB.cpy,0,0,16
+COBOL,CryptoCobol/AES/Copybook/MSGE-PUT.cpy,0,0,16
+COBOL,CryptoCobol/AES/Copybook/Default/AESLXGET.cpy,0,0,14
+COBOL,CryptoCobol/AES/Copybook/TEXT-GET.cpy,0,0,14
+COBOL,CryptoCobol/AES/Copybook/DATA-GET.cpy,0,0,12
+COBOL,CryptoCobol/AES/Copybook/Default/AESLDGET.cpy,0,0,12
+COBOL,CryptoCobol/AES/Copybook/Default/AESLTPUT.cpy,0,0,12
+COBOL,CryptoCobol/AES/Copybook/TEXT-PUT.cpy,0,0,12
+COBOL,CryptoCobol/AES/Copybook/Default/AESLCOR.cpy,0,0,10
+Bourne Shell,CryptoCobol/AES/AEScompile.sh,0,0,6
+SUM,,1488,1375,4820

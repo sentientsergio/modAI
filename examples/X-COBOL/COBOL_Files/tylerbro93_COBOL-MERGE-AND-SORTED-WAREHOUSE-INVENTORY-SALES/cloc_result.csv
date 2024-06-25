@@ -1,0 +1,4 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.01 s (151.7 files/s, 43778.4 lines/s)"
+COBOL,COBOL-MERGE-AND-SORTED-WAREHOUSE-INVENTORY-SALES/PROJECT4.cbl,66,20,463
+Markdown,COBOL-MERGE-AND-SORTED-WAREHOUSE-INVENTORY-SALES/README.md,8,0,20
+SUM,,74,20,483

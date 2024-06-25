@@ -1,0 +1,44 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.26 s (163.3 files/s, 26462.8 lines/s)"
+COBOL,COBOL-RSS-Reader/source/rss_reader_help.cbl,90,9,434
+COBOL,COBOL-RSS-Reader/source/rss_parser.cbl,129,22,407
+COBOL,COBOL-RSS-Reader/source/rss_reader_configuration.cbl,147,26,395
+COBOL,COBOL-RSS-Reader/source/application_configurator.cbl,145,42,352
+COBOL,COBOL-RSS-Reader/source/rss_reader_menu.cbl,137,34,335
+COBOL,COBOL-RSS-Reader/source/rss_report_writer.cbl,72,8,288
+COBOL,COBOL-RSS-Reader/source/crssr.cbl,56,19,267
+COBOL,COBOL-RSS-Reader/source/rss_downloader.cbl,82,16,204
+COBOL,COBOL-RSS-Reader/source/reset_files.cbl,72,12,199
+COBOL,COBOL-RSS-Reader/source/cobweb-pipes.cob,40,81,172
+COBOL,COBOL-RSS-Reader/source/string_helpers.cbl,45,17,151
+COBOL,COBOL-RSS-Reader/source/rss_reader_view_feed.cbl,57,12,137
+COBOL,COBOL-RSS-Reader/source/rss_reader_view_item.cbl,58,10,133
+COBOL,COBOL-RSS-Reader/source/rss_reader_export_feed.cbl,54,8,125
+COBOL,COBOL-RSS-Reader/source/rss_reader_delete_feed.cbl,52,8,115
+COBOL,COBOL-RSS-Reader/source/screens/rss_list_screen.cpy,45,11,115
+COBOL,COBOL-RSS-Reader/source/screens/rss_config_screen.cpy,36,7,99
+COBOL,COBOL-RSS-Reader/source/logger.cbl,28,12,83
+COBOL,COBOL-RSS-Reader/source/screens/rss_info_screen.cpy,29,7,80
+COBOL,COBOL-RSS-Reader/source/screens/rss_item_screen.cpy,21,7,75
+COBOL,COBOL-RSS-Reader/source/rss_reader_add_feed.cbl,35,7,71
+COBOL,COBOL-RSS-Reader/source/browser_launcher.cbl,34,10,70
+COBOL,COBOL-RSS-Reader/source/screens/rss_help_screen.cpy,14,7,62
+COBOL,COBOL-RSS-Reader/source/remove_rss_record.cbl,28,7,58
+Markdown,COBOL-RSS-Reader/README.md,11,0,48
+Bourne Shell,COBOL-RSS-Reader/source/build.sh,12,7,40
+COBOL,COBOL-RSS-Reader/source/screens/rss_export_feed_screen.cpy,11,7,38
+COBOL,COBOL-RSS-Reader/source/screens/rss_delete_feed_screen.cpy,10,7,32
+COBOL,COBOL-RSS-Reader/source/screens/message_screen.cpy,7,7,28
+COBOL,COBOL-RSS-Reader/source/screens/rss_add_feed_screen.cpy,7,7,27
+COBOL,COBOL-RSS-Reader/source/copybooks/wsrecord/ws-rss-record.cpy,1,8,15
+COBOL,COBOL-RSS-Reader/source/copybooks/filedescriptor/fd_rss_content_file.cpy,0,7,14
+Bourne Shell,COBOL-RSS-Reader/source/clean.sh,8,6,11
+COBOL,COBOL-RSS-Reader/source/copybooks/filedescriptor/fd_rss_list_file.cpy,0,9,7
+COBOL,COBOL-RSS-Reader/source/copybooks/filecontrol/rss_list_file.cpy,0,9,6
+COBOL,COBOL-RSS-Reader/source/copybooks/wsrecord/ws-rss-list-record.cpy,1,8,6
+COBOL,COBOL-RSS-Reader/source/copybooks/filecontrol/rss_content_file.cpy,0,7,3
+COBOL,COBOL-RSS-Reader/source/copybooks/filecontrol/rss_last_id_file.cpy,0,8,3
+COBOL,COBOL-RSS-Reader/source/copybooks/filedescriptor/fd_rss_last_id_file.cpy,0,8,2
+COBOL,COBOL-RSS-Reader/source/screens/blank_screen.cpy,0,7,2
+COBOL,COBOL-RSS-Reader/source/copybooks/wsrecord/ws-last-id-record.cpy,0,8,1
+Markdown,COBOL-RSS-Reader/source/feeds/README.md,1,0,1
+SUM,,1575,519,4711

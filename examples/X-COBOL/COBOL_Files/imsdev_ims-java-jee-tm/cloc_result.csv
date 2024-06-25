@@ -1,0 +1,7 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.01 s (371.9 files/s, 49018.3 lines/s)"
+Markdown,ims-java-jee-tm/phonebook/README.md,40,0,284
+Markdown,ims-java-jee-tm/inbound/README.md,45,0,177
+COBOL,ims-java-jee-tm/phonebook/EX01.cbl,3,0,55
+Markdown,ims-java-jee-tm/README.md,6,0,14
+COBOL,ims-java-jee-tm/inbound/sycalout.cpy,2,28,5
+SUM,,96,28,535

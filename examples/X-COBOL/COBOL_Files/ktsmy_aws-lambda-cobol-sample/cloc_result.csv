@@ -1,0 +1,13 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.02 s (596.8 files/s, 18120.8 lines/s)"
+COBOL,aws-lambda-cobol-sample/cobolsource/function1.cob,3,3,41
+COBOL,aws-lambda-cobol-sample/paul.cob,3,3,40
+COBOL,aws-lambda-cobol-sample/runner.cob,3,3,40
+YAML,aws-lambda-cobol-sample/template.yml,6,12,40
+COBOL,aws-lambda-cobol-sample/cobolsource/function2.cob,2,3,30
+Dockerfile,aws-lambda-cobol-sample/Dockerfile,4,3,27
+Markdown,aws-lambda-cobol-sample/README.md,9,0,19
+Bourne Shell,aws-lambda-cobol-sample/bootstrap,5,4,12
+Bourne Shell,aws-lambda-cobol-sample/compile.sh,0,0,8
+YAML,aws-lambda-cobol-sample/buildspec.yml,0,0,7
+Bourne Shell,aws-lambda-cobol-sample/build.sh,0,0,4
+SUM,,35,31,268

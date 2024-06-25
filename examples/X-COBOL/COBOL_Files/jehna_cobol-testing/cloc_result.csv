@@ -1,0 +1,7 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.02 s (309.7 files/s, 10094.7 lines/s)"
+COBOL,cobol-testing/src/index.cob,1,0,68
+HTML,cobol-testing/public/index.html,4,0,29
+Markdown,cobol-testing/README.md,13,0,23
+JSON,cobol-testing/package.json,0,0,15
+Bourne Shell,cobol-testing/build.sh,1,0,9
+SUM,,19,0,144

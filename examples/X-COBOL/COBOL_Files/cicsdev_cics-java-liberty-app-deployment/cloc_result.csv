@@ -1,0 +1,19 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.02 s (774.8 files/s, 35232.5 lines/s)"
+COBOL,cics-java-liberty-app-deployment/src/COBOL/WLPCTRLW.cbl,27,63,197
+Markdown,cics-java-liberty-app-deployment/README.md,58,0,104
+Java,cics-java-liberty-app-deployment/projects/com.ibm.cicsdev.jmx.httpendpoint.controller/src/com/ibm/cicsdev/jmx/HttpEndpointController.java,21,13,103
+XML,cics-java-liberty-app-deployment/projects/com.ibm.cicsdev.jmx.wlpolicy.cicsbundle/.project,0,0,33
+XML,cics-java-liberty-app-deployment/projects/com.ibm.cicsdev.jmx.httpendpoint.controller/.project,0,0,31
+XML,cics-java-liberty-app-deployment/projects/com.ibm.cicsdev.jmx.wlpolicy.cicsbundle/resume_liberty_httpendpoint.policy,0,0,29
+XML,cics-java-liberty-app-deployment/projects/com.ibm.cicsdev.jmx.wlpolicy.cicsbundle/START_WLPC.epadapter,0,0,22
+XML,cics-java-liberty-app-deployment/projects/com.ibm.cicsdev.jmx.httpendpoint.controller/.classpath,0,0,19
+INI,cics-java-liberty-app-deployment/projects/com.ibm.cicsdev.jmx.httpendpoint.controller/.settings/org.eclipse.jdt.core.prefs,0,0,14
+XML,cics-java-liberty-app-deployment/projects/com.ibm.cicsdev.jmx.wlpolicy.cicsbundle/META-INF/cics.xml,0,0,11
+Visualforce Component,cics-java-liberty-app-deployment/projects/com.ibm.cicsdev.jmx.httpendpoint.controller/.settings/org.eclipse.wst.common.component,0,0,9
+XML,cics-java-liberty-app-deployment/projects/com.ibm.cicsdev.jmx.httpendpoint.controller/.settings/org.eclipse.wst.common.project.facet.core.xml,0,0,9
+INI,cics-java-liberty-app-deployment/projects/com.ibm.cicsdev.jmx.wlpolicy.cicsbundle/.settings/org.eclipse.core.resources.prefs,0,0,4
+INI,cics-java-liberty-app-deployment/projects/com.ibm.cicsdev.jmx.httpendpoint.controller/.settings/org.eclipse.jdt.apt.core.prefs,0,0,2
+XML,cics-java-liberty-app-deployment/projects/com.ibm.cicsdev.jmx.wlpolicy.cicsbundle/com.ibm.cicsdev.jmx.httpendpoint.controller.warbundle,0,0,2
+XML,cics-java-liberty-app-deployment/projects/com.ibm.cicsdev.jmx.wlpolicy.cicsbundle/WLPC.transaction,0,0,1
+XML,cics-java-liberty-app-deployment/projects/com.ibm.cicsdev.jmx.wlpolicy.cicsbundle/WLPCTRLW.program,0,0,1
+SUM,,106,76,591

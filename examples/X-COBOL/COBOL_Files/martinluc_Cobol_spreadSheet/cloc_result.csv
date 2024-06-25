@@ -1,0 +1,5 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.01 s (286.3 files/s, 52390.6 lines/s)"
+COBOL,Cobol_spreadSheet/Cob_CallTables_1of2.cbl,38,2,297
+COBOL,Cobol_spreadSheet/Cob_CallTables_2of2.cbl,39,3,154
+Markdown,Cobol_spreadSheet/README.md,6,0,10
+SUM,,83,5,461

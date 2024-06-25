@@ -1,0 +1,372 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.95 s (390.3 files/s, 71310.4 lines/s)"
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_WindowsCrystalReportsDemoVB/Readme.resx,10,47,15607
+XML,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/WebApplicationsWithACT/WebApplicationSampleVB/ACTProject1/report-ACT-VBSTest1-Nov 26, 2002 21-45-54.xml,0,0,2451
+XML,cobol-VB-on-.net/SampleApplications/VS2002/AppendixA_Applications/WebApplicationsWithACT/WebApplicationSampleCobol/ACTProject1/report-ACT-VBSTest1-Nov 26, 2002 22-13-39.xml,0,0,2450
+XML,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/WebApplicationsWithACT/WebApplicationSampleVB/ACTProject1/report-ACT-VBSTest1-Nov 26, 2002 21-24-35.xml,0,0,2450
+XML,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/WebApplicationsWithACT/WebApplicationSampleVB/ACTProject1/report-ACT-VBSTest1-Nov 26, 2002 22-51-11.xml,0,0,2450
+XML,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/WebApplicationsWithACT/WebApplicationSampleVB/ACTProject1/report-ACT-VBSTest1-Nov 26, 2002 21-40-40.xml,0,0,2364
+XML,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/WebApplicationsWithACT/WebApplicationSampleVB/ACTProject1/report-ACT-VBSTest1-Nov 26, 2002 21-34-20.xml,0,0,2218
+XML,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/WebApplicationsWithACT/WebApplicationSampleVB/ACTProject1/report-ACT-VBSTest1-Nov 26, 2002 21-28-39.xml,0,0,1842
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt12Applications/Chpt12ReadWriteXMLDatasetVB/ReadWriteXMLDatasetVB/bin/myCustomers.xml,0,0,1103
+XML,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/WebApplicationsWithACT/WebApplicationSampleVB/ACTProject1/report-ACT-VBSTest1-Nov 26, 2002 22-29-15.xml,0,0,623
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt20Applications/Chpt20MyMSMQExampleCOBOL/Form1.cob,32,2111,584
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt18Applications/Chpt18MyEnhancedInformativeWinFormCobol/Form1.cob,34,1545,477
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt14Applications/Chpt14MyInformativeWinFormCobol/Form1.cob,30,1543,467
+XML,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/WebApplicationsWithACT/WebApplicationSampleVB/ACTProject1/userGroup-Default Users Group.xml,0,0,404
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt20Applications/Chpt20MyMSMQAsyncAndTriggerCOBOL/Form1.cob,14,1438,351
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt16Applications/Bonus_NewCrystalReportsExampleVB_UsingReportFolderOn_C_Drive/NewCrystalReportsExampleVB.vbproj,1,0,253
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt16Applications/CrystalReportsExampleVB/CrystalReportsExampleVB.vbproj,1,0,253
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_NewCrystalReportsExampleVB_UsingReportFolderOn_C_Drive/NewCrystalReportsExampleVB.vbproj,1,0,253
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/CrystalReportsExampleVB/CrystalReportsExampleVB.vbproj,1,0,248
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt15Applications/Chpt15StateManagementCobol/WebForm1.aspx.cob,32,161,229
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt20Applications/Chpt20MyMSMQExampleVB/Form1.vb,54,68,219
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt13Applications/Chpt13MyFirstWinFormCobol/Form1.cob,10,675,196
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt17Applications/Chpt13MyFirstWinFormCobol/Form1.cob,10,675,196
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_WindowsCrystalReportsDemoVB/ExportOptions.vb,40,21,183
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt16Applications/Bonus_WindowsCrystalReportsDemoVB/CrystalReportsDemoWithViewer.vbproj,1,0,173
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_WindowsCrystalReportsDemoVB/CrystalReportsDemoWithViewer.vbproj,1,0,173
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18MyEnhancedInformativeWinFormVB/Form1.vb,50,55,169
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt12Applications/Chpt12ReadWriteXMLDatasetCobol/ReadWriteXMLDatasetCobol/Program1.cob,35,45,167
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt14Applications/Chpt14MyInformativeWinFormVB/Form1.vb,49,53,167
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt15Applications/Chpt15StateManagementVB/StateManagementVB.vbproj,1,0,161
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt15Applications/Chpt15StateManagementVB/StateManagementVB.vbproj,1,0,161
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt20Applications/Chpt20MyThreadingExampleVB/Form1.vb,30,37,156
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt11Applications/Chpt11DatabaseAccessExampleCobol/DataBaseAccessExampleCOBOL/Program1.cob,35,42,155
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt18Applications/Chpt18AttributesExampleCobol/Form1.cob,8,462,146
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt18Applications/Chpt18CodeAccessSecurityExampleVB/CodeAccessSecurityExampleVB.vbproj,1,0,146
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt13Applications/Chpt13WebApplications/WebApplicationSampleVB/WebApplicationSampleVB.vbproj,1,0,146
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt17Applications/Chpt13WebApplicationSampleVB/WebApplicationSampleVB.vbproj,1,0,146
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18CodeAccessSecurityExampleVB/CodeAccessSecurityExampleVB.vbproj,1,0,146
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/AppendixA_Applications/MyFirstWindowsService/MyFirstWindowsService.vbproj,1,0,140
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/MyFirstWindowsService/MyFirstWindowsService.vbproj,1,0,140
+CSS,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18CodeAccessSecurityExampleVB/Styles.css,25,1,137
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt20Applications/Chpt20MyMSMQExampleVB/MyMSMQExampleVB.vbproj,1,0,130
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt20Applications/Chpt20MyMSMQExampleVB/MyMSMQExampleVB.vbproj,1,0,130
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt19Applications/Chpt19ServicedComponentClientVB/ServicedComponentClientVB.vbproj,1,0,126
+C#,cobol-VB-on-.net/SampleApplications/VS2003/AppendixB_Applications/MyFirstCSharpApplication/Class1.cs,16,34,124
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt06Applications/Chpt6LogicSampleCobol/Program1.cob,1,26,123
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt15Applications/Chpt15StateManagementCobol/Global.asax.cob,27,6,122
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt18Applications/Chpt18ReflectionDemovb/ReflectionDemovb.vbproj,1,0,121
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18ReflectionDemovb/ReflectionDemovb.vbproj,1,0,121
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt19Applications/Chpt19ServicedComponentClientVB/ServicedComponentClientVB.vbproj,1,0,121
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt20Applications/Chpt20MyMSMQAsyncAndTriggerVB/MyMSMQAsyncAndTriggerVB.vbproj,1,0,116
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt20Applications/Chpt20MyThreadingExampleVB/MyThreadingExampleVB.vbproj,1,0,116
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt20Applications/Chpt20MyMSMQAsyncAndTriggerVB/MyMSMQAsyncAndTriggerVB.vbproj,1,0,116
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt20Applications/Chpt20MyThreadingExampleVB/MyThreadingExampleVB.vbproj,1,0,116
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt18Applications/Chpt18MyEnhancedInformativeWinFormVB/MyEnhancedInformativeWinFormVB.vbproj,1,0,115
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18MyEnhancedInformativeWinFormVB/MyEnhancedInformativeWinFormVB.vbproj,1,0,115
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt09Applications/Chpt9ValueTypeSampleCOBOL/ValueTypeSampleCOBOL/Program1.cob,19,14,111
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt14Applications/Chpt14MyInformativeWinFormVB/MyInformativeWinFormVB.vbproj,1,0,111
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt17Applications/Chpt13MyFirstWinFormVB/MyFirstWinFormVB/MyFirstWinFormVB.vbproj,1,0,111
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt18Applications/Chpt18AttributesExampleVB/AttributesExampleVB.vbproj,1,0,111
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt14Applications/Chpt14MyInformativeWinFormVB/MyInformativeWinFormVB.vbproj,1,0,111
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt17Applications/Chpt13MyFirstWinFormVB/MyFirstWinFormVB/MyFirstWinFormVB.vbproj,1,0,111
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18AttributesExampleVB/AttributesExampleVB.vbproj,1,0,111
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/CrystalReportsExampleVB/CrystalReport1.vb,20,24,107
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt19Applications/Chpt19MyFirstClassLibraryVB/MyFirstClassLibraryVB.vbproj,1,0,105
+MSBuild script,cobol-VB-on-.net/SampleApplications/VS2003/AppendixB_Applications/MyFirstCSharpApplication/MyFirstCSharpApplication.csproj,1,0,103
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_NewCrystalReportsExampleVB_UsingReportFolderOn_C_Drive/WebForm2.aspx.vb,27,10,102
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt19Applications/Chpt19MyFirstClassLibraryVB/MyFirstClassLibraryVB.vbproj,1,0,101
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt08Applications/Chpt8BoxingExampleVB/BoxingExampleVB/BoxingExampleVB.vbproj,1,0,97
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt08Applications/Chpt8BoxingExampleVB/BoxingExampleVB/BoxingExampleVB.vbproj,1,0,97
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt20Applications/Chpt20MyMSMQAsyncAndTriggerVB/Form1.vb,16,39,97
+MSBuild script,cobol-VB-on-.net/SampleApplications/VS2002/AppendixB_Applications/MyFirstCSharpApplication/MyFirstCSharpApplication.csproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt05Applications/Chpt5MyFirstVBExample/MyFirstVBExample.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt06Applications/Chpt6DefineDataTypesSampleVB/DefineDataTypesSampleVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt06Applications/Chpt6LogicSampleVB/LogicSampleVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt07Applications/Chpt7FrameworkExampleVB/FrameworkExampleVB/FrameworkExampleVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt08Applications/Chpt8GetPerfCategoriesVB/GetPerfCategoriesVB/GetPerfCategoriesVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt08Applications/Chpt8HeapGenerationExampleVB/HeapGenerationExampleVB/HeapGenerationExampleVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt08Applications/Chpt8PerfmonVB/PerformanceMonitorExampleVB/PerfmonVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt09Applications/Chpt9StringBuilderExampleVB/StringBuilderExampleVB/StringBuilderExampleVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt09Applications/Chpt9ValueTypeSampleVB/ValueTypeSampleVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt10Applications/Chpt10MetaDataExampleVB/MetaDataExampleVB/MetaDataExampleVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt10Applications/Chpt10SystemIOExampleVB/SystemIOExampleVB/SystemIOExampleVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt11Applications/Chpt11DataBaseAccessExampleVB/DataBaseAccessExampleVB/DataBaseAccessExampleVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt12Applications/Chpt12ReadWriteXMLDatasetVB/ReadWriteXMLDatasetVB/ReadWriteXMLDatasetVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt05Applications/Chpt5MyFirstVBExample/MyFirstVBExample.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt06Applications/Chpt6DefineDataTypesSampleVB/DefineDataTypesSampleVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt06Applications/Chpt6LogicSampleVB/LogicSampleVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt07Applications/Chpt7FrameworkExampleVB/FrameworkExampleVB/FrameworkExampleVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt08Applications/Chpt8GetPerfCategoriesVB/GetPerfCategoriesVB/GetPerfCategoriesVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt08Applications/Chpt8HeapGenerationExampleVB/HeapGenerationExampleVB/HeapGenerationExampleVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt08Applications/Chpt8PerfmonVB/PerformanceMonitorExampleVB/PerfmonVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt09Applications/Chpt9StringBuilderExampleVB/StringBuilderExampleVB/StringBuilderExampleVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt09Applications/Chpt9ValueTypeSampleVB/ValueTypeSampleVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt10Applications/Chpt10MetaDataExampleVB/MetaDataExampleVB/MetaDataExampleVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt10Applications/Chpt10SystemIOExampleVB/SystemIOExampleVB/SystemIOExampleVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt11Applications/Chpt11DataBaseAccessExampleVB/DataBaseAccessExampleVB/DataBaseAccessExampleVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt12Applications/Chpt12ReadWriteXMLDatasetVB/ReadWriteXMLDatasetVB/ReadWriteXMLDatasetVB.vbproj,1,0,96
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/CrystalReportsExampleVB/WebForm2.aspx.vb,22,4,95
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_WindowsCrystalReportsDemoVB/Welcome.vb,19,32,91
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18CodeAccessSecurityExampleVB/WebForm1.aspx.vb,28,40,90
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt12Applications/Chpt12ReadWriteXMLDatasetVB/ReadWriteXMLDatasetVB/Module1.vb,37,44,89
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt10Applications/Chpt10MetaDataExampleCobol/MetaDataExampleCobol/Program1.cob,6,14,86
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18ReflectionDemovb/ReflectionDrillDown.vb,21,16,85
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt14Applications/Chpt14MyWebUseValidationCobol/Global.asax.cob,22,6,84
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt17Applications/Chpt13WebApplicationSampleCobol/Global.asax.cob,22,6,84
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt09Applications/Chpt9ValueTypeSampleVB/Module1.vb,18,8,84
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18ReflectionDemovb/ReflectionDriver.vb,19,17,83
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt15Applications/Chpt15StateManagementVB/WebForm1.aspx.vb,20,31,81
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt09Applications/Chpt9StringBuilderExampleCOBOL/StringBuilderExampleCOBOL/Program1.cob,13,8,80
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt15Applications/Chpt15StateManagementCobol/WebForm2.aspx.cob,10,75,78
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt11Applications/Chpt11DataBaseAccessExampleVB/DataBaseAccessExampleVB/Module1.vb,31,38,75
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt20Applications/Chpt20MyMSMQExampleVB/Form1.resx,10,47,75
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_WindowsCrystalReportsDemoVB/ReportViewerForm.vb,24,19,72
+Visual Basic Script,cobol-VB-on-.net/SampleApplications/VS2002/AppendixA_Applications/WebApplicationsWithACT/WebApplicationSampleCobol/ACTProject1/ACT-VBSTest1.vbs,6,3,69
+Visual Basic Script,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/WebApplicationsWithACT/WebApplicationSampleVB/ACTProject1/ACT-VBSTest1.vbs,6,3,69
+XML,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/WebApplicationsWithACT/WebApplicationSampleVB/ACTProject1/properties.xml,0,0,69
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_WindowsCrystalReportsDemoVB/Welcome.resx,10,47,69
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt20Applications/Chpt20MyMSMQAsyncAndTriggerVB/Form1.resx,10,47,69
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18MyEnhancedInformativeWinFormVB/Form1.resx,10,47,66
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt19Applications/Chpt19ServicedComponentClientVB/Form1.vb,16,19,65
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt07Applications/Chpt7FrameworkExampleCobol/FrameworkExampleCobol/Program1.cob,6,35,64
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt20Applications/Chpt20MyThreadingExampleVB/Form1.resx,10,47,63
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt08Applications/Chpt8PerfmonCobol/PerfmonCobol/Program1.cob,8,6,62
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt06Applications/Chpt6LogicSampleVB/Module1.vb,2,21,61
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt17Applications/Chpt13WebApplicationSampleCobol/WebForm1.aspx.cob,6,75,60
+XML,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/MyFirstWindowsService/ProjectInstaller.resx,10,47,60
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt14Applications/Chpt14MyWebUseValidationCobol/WebForm1.aspx.cob,5,37,58
+XML,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/WebApplicationsWithACT/WebApplicationSampleVB/ACTProject1/testProperties-ACT-VBSTest1.xml,0,0,57
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/CrystalReportsExampleVB/CrystalReport1Service.asmx.vb,19,1,57
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/MyFirstWindowsService/MyFirstWindowsService.vb,24,23,56
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18ReflectionDemovb/ExampleElements.vb,14,3,55
+XML,cobol-VB-on-.net/SampleApplications/VS2002/Chpt20Applications/Chpt20MyMSMQExampleCOBOL/Form1.resx,10,47,54
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_WindowsCrystalReportsDemoVB/ExportOptions.resx,10,47,54
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt19Applications/Chpt19ServicedComponentClientVB/Form1.resx,10,47,54
+HTML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt4PreReqs2/SampleHTMLPage.html,0,0,54
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt19Applications/Chpt19ServicedComponentClientVB/Form1.vb,13,19,52
+XML,cobol-VB-on-.net/SampleApplications/VS2002/Chpt14Applications/Chpt14MyInformativeWinFormCobol/Form1.resx,10,47,51
+XML,cobol-VB-on-.net/SampleApplications/VS2002/Chpt18Applications/Chpt18MyEnhancedInformativeWinFormCobol/Form1.resx,10,47,51
+XML,cobol-VB-on-.net/SampleApplications/VS2002/Chpt20Applications/Chpt20MyMSMQAsyncAndTriggerCOBOL/Form1.resx,10,47,51
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/CrystalReportsExampleVB/WebForm3.aspx.resx,11,47,51
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt17Applications/Chpt13MyFirstWinFormVB/MyFirstWinFormVB/Form1.resx,10,47,51
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt19Applications/Chpt19MyFirstClassLibraryCobol/MyFirstClass.cob,7,1,49
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt10Applications/Chpt10SystemIOExampleCobol/SystemIOExampleCobol/Program1.cob,6,10,48
+XML,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/MyFirstWindowsService/MyFirstWindowsService.resx,10,47,48
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_NewCrystalReportsExampleVB_UsingReportFolderOn_C_Drive/WebForm3.aspx.vb,18,3,48
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_WindowsCrystalReportsDemoVB/ReportViewerForm.resx,10,47,48
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18AttributesExampleVB/Form1.resx,10,47,48
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt16Applications/CrystalReportsExampleVB/WebForm3.aspx.vb,17,4,47
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/CrystalReportsExampleVB/WebForm3.aspx.vb,17,4,47
+XSLT,cobol-VB-on-.net/SampleApplications/VS2003/Chpt4PreReqs2/SampleXSLT.xsl,1,1,46
+XML,cobol-VB-on-.net/SampleApplications/VS2002/Chpt18Applications/Chpt18AttributesExampleCobol/Form1.resx,10,47,45
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt13Applications/Chpt13MyFirstWinFormVB/MyFirstWinFormVB/Form1.vb,13,16,45
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_WindowsCrystalReportsDemoVB/Readme.vb,13,14,45
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt17Applications/Chpt13MyFirstWinFormVB/MyFirstWinFormVB/Form1.vb,13,16,45
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt08Applications/Chpt8PerfmonVB/PerformanceMonitorExampleVB/Module1.vb,8,4,42
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18CodeAccessSecurityExampleVB/WebForm1.aspx.resx,0,0,42
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt09Applications/Chpt9StringBuilderExampleVB/StringBuilderExampleVB/Module1.vb,13,3,40
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt08Applications/Chpt8HeapGenerationExampleCOBOL/HeapGenerationExampleCOBOL/Program1.cob,14,20,39
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt10Applications/Chpt10MetaDataExampleVB/MetaDataExampleVB/Module1.vb,4,10,36
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt11Applications/Chpt11DatabaseAccessExampleCobol/LegacyDatabaseAccessCobol/Program1.cob,9,29,35
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt15Applications/Chpt15StateManagementVB/Global.asax.vb,17,14,34
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18AttributesExampleVB/Form1.vb,11,13,34
+XML,cobol-VB-on-.net/SampleApplications/VS2002/Chpt17Applications/Chpt13WebApplicationSampleCobol/Web.config,10,37,33
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/CrystalReportsExampleVB/WebForm3.aspx,0,0,33
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt14Applications/Chpt14MyWebUseValidationCobol/WebForm1.aspx,0,0,32
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/MyFirstWindowsService/ProjectInstaller.vb,12,16,31
+HTML,cobol-VB-on-.net/410.html,0,0,30
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18CodeAccessSecurityExampleVB/Global.asax.vb,17,13,29
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt10Applications/Chpt10SystemIOExampleVB/SystemIOExampleVB/Module1.vb,3,9,28
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt17Applications/Chpt13MyFirstWinFormCobol/MyFirstWinFormCobol.sln,0,0,27
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/WebApplicationsWithACT/WebApplicationSampleVB/WebApplicationSampleVB.sln,0,0,27
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt17Applications/Chpt13MyFirstWinFormVB/MyFirstWinFormVB/MyFirstWinFormVB.sln,0,0,27
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt17Applications/Chpt13WebApplicationSampleVB/WebApplicationSampleVB.sln,0,0,27
+XSD,cobol-VB-on-.net/SampleApplications/VS2003/Chpt12Applications/Chpt12ReadWriteXMLDatasetVB/ReadWriteXMLDatasetVB/bin/myCustomers.xsd,0,0,26
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_NewCrystalReportsExampleVB_UsingReportFolderOn_C_Drive/WebForm1.aspx,0,0,26
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/CrystalReportsExampleVB/WebForm1.aspx,0,0,26
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/AppendixA_Applications/WebApplicationsWithACT/WebApplicationSampleCobol/WebApplicationSampleCobol.sln,0,0,25
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/AppendixA_Applications/WebApplicationsWithACT/WebApplicationSampleVB/WebApplicationSampleVB.sln,0,0,25
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt16Applications/Bonus_NewCrystalReportsExampleVB_UsingReportFolderOn_C_Drive/WebForm1.aspx,0,0,25
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt16Applications/CrystalReportsExampleVB/WebForm1.aspx,0,0,25
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt17Applications/Chpt13MyFirstWinFormVB/MyFirstWinFormVB/MyFirstWinFormVB.sln,0,0,25
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt17Applications/Chpt13WebApplicationSampleCobol/WebApplicationSampleCobol.sln,0,0,25
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt17Applications/Chpt13WebApplicationSampleVB/WebApplicationSampleVB.sln,0,0,25
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt16Applications/Bonus_NewCrystalReportsExampleVB_UsingReportFolderOn_C_Drive/WebForm1.aspx.vb,10,5,24
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt16Applications/CrystalReportsExampleVB/WebForm3.aspx,0,0,24
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_NewCrystalReportsExampleVB_UsingReportFolderOn_C_Drive/WebForm1.aspx.vb,10,5,24
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt4PreReqs2/SamplegradesXMLpagewithXSLT.xml,5,0,24
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt06Applications/Chpt6DefineDataTypesSampleCOBOL/DefineDataTypesSampleCOBOL.sln,0,0,23
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt06Applications/Chpt6DefineDataTypesSampleCOBOL/Program1.cob,2,12,23
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt06Applications/Chpt6DefineDataTypesSampleVB/DefineDataTypesSampleVB.sln,0,0,23
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt15Applications/Chpt15StateManagementCobol/WebForm1.aspx,0,0,23
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt06Applications/Chpt6DefineDataTypesSampleVB/DefineDataTypesSampleVB.sln,0,0,23
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt07Applications/Chpt7FrameworkExampleVB/FrameworkExampleVB/Module1.vb,17,18,23
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt08Applications/Chpt8HeapGenerationExampleVB/HeapGenerationExampleVB/Module1.vb,15,13,23
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt15Applications/Chpt15StateManagementVB/WebForm1.aspx,0,0,23
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_NewCrystalReportsExampleVB_UsingReportFolderOn_C_Drive/Web.config,14,40,23
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt4PreReqs2/SamplegradesXMLpage.xml,5,0,23
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt16Applications/CrystalReportsExampleVB/WebForm1.aspx.vb,9,4,22
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/CrystalReportsExampleVB/WebForm1.aspx.vb,9,4,22
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt17Applications/Chpt13WebApplicationSampleVB/WebForm1.aspx.vb,8,4,22
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/AppendixA_Applications/MyFirstWindowsService/MyFirstWindowsService.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/AppendixB_Applications/MyFirstCSharpApplication/MyFirstCSharpApplication.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/AppendixB_Applications/MyFirstJSharpApplication/MyFirstJSharpApplication.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt05Applications/Chpt5MyFirstCobolExample/MyFirstCobolExample.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt05Applications/Chpt5MyFirstVBExample/MyFirstVBExample.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt06Applications/Chpt6LogicSampleCobol/LogicSampleCobol.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt06Applications/Chpt6LogicSampleVB/LogicSampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt07Applications/Chpt7FrameworkExampleCobol/FrameworkExampleCobol/FrameworkExampleCobol.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt07Applications/Chpt7FrameworkExampleVB/FrameworkExampleVB/FrameworkExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt08Applications/Chpt8BoxingExampleCobol/BoxingExampleCobol/BoxingExampleCobol.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt08Applications/Chpt8BoxingExampleVB/BoxingExampleVB/BoxingExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt08Applications/Chpt8GetPerfCategoriesVB/GetPerfCategoriesVB/GetPerfCategoriesVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt08Applications/Chpt8HeapGenerationExampleCOBOL/HeapGenerationExampleCOBOL/HeapGenerationExampleCOBOL.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt08Applications/Chpt8HeapGenerationExampleVB/HeapGenerationExampleVB/HeapGenerationExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt08Applications/Chpt8PerfmonCobol/PerfmonCobol/PerfmonCobol.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt08Applications/Chpt8PerfmonVB/PerformanceMonitorExampleVB/PerfmonVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt09Applications/Chpt9StringBuilderExampleCOBOL/StringBuilderExampleCOBOL/StringBuilderExampleCOBOL.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt09Applications/Chpt9StringBuilderExampleVB/StringBuilderExampleVB/StringBuilderExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt09Applications/Chpt9ValueTypeSampleCOBOL/ValueTypeSampleCOBOL/ValueTypeSampleCOBOL.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt09Applications/Chpt9ValueTypeSampleVB/ValueTypeSampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt10Applications/Chpt10MetaDataExampleCobol/MetaDataExampleCobol/MetaDataExampleCobol.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt10Applications/Chpt10MetaDataExampleVB/MetaDataExampleVB/MetaDataExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt10Applications/Chpt10SystemIOExampleCobol/SystemIOExampleCobol/SystemIOExampleCobol.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt10Applications/Chpt10SystemIOExampleVB/SystemIOExampleVB/SystemIOExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt11Applications/Chpt11DataBaseAccessExampleVB/DataBaseAccessExampleVB/DataBaseAccessExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt11Applications/Chpt11DatabaseAccessExampleCobol/DataBaseAccessExampleCOBOL/DataBaseAccessExampleCOBOL.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt11Applications/Chpt11DatabaseAccessExampleCobol/LegacyDatabaseAccessCobol/LegacyDatabaseAccessCobol.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt12Applications/Chpt12ReadWriteXMLDatasetCobol/ReadWriteXMLDatasetCobol/ReadWriteXMLDatasetCobol.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt12Applications/Chpt12ReadWriteXMLDatasetVB/ReadWriteXMLDatasetVB/ReadWriteXMLDatasetVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt13Applications/Chpt13MyFirstWinFormCobol/MyFirstWinFormCobol.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt13Applications/Chpt13MyFirstWinFormVB/MyFirstWinFormVB/MyFirstWinFormVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt13Applications/Chpt13WebApplications/WebApplicationSampleCobol/WebApplicationSampleCobol.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt13Applications/Chpt13WebApplications/WebApplicationSampleVB/WebApplicationSampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt14Applications/Chpt14MyInformativeWinFormCobol/MyInformativeWinFormCobol.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt14Applications/Chpt14MyInformativeWinFormVB/MyInformativeWinFormVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt14Applications/Chpt14MyWebUseValidationCobol/MyWebUseValidationCobol.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt15Applications/Chpt15StateManagementCobol/StateManagementCobol.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt16Applications/Bonus_NewCrystalReportsExampleVB_UsingReportFolderOn_C_Drive/NewCrystalReportsExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt16Applications/Bonus_WindowsCrystalReportsDemoVB/CrystalReportsDemoWithViewer.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt16Applications/CrystalReportsExampleVB/CrystalReportsExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt18Applications/Chpt18AttributesExampleCobol/AttributesExampleCobol.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt18Applications/Chpt18AttributesExampleVB/AttributesExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt18Applications/Chpt18MyEnhancedInformativeWinFormCobol/MyEnhancedInformativeWinFormCobol.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt18Applications/Chpt18MyEnhancedInformativeWinFormVB/MyEnhancedInformativeWinFormVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt18Applications/Chpt18ReflectionDemovb/ReflectionDemovb.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt19Applications/Chpt19MyFirstClassLibraryCobol/MyFirstClassLibraryCobol.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt19Applications/Chpt19MyFirstClassLibraryVB/MyFirstClassLibraryVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt19Applications/Chpt19ServicedComponentClientVB/ServicedComponentClientVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt20Applications/Chpt20MyMSMQAsyncAndTriggerCOBOL/MyMSMQAsyncAndTriggerCOBOL.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt20Applications/Chpt20MyMSMQAsyncAndTriggerVB/MyMSMQAsyncAndTriggerVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt20Applications/Chpt20MyMSMQExampleCOBOL/MyMSMQExampleCOBOL.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt20Applications/Chpt20MyMSMQExampleVB/MyMSMQExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2002/Chpt20Applications/Chpt20MyThreadingExampleVB/MyThreadingExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/MyFirstWindowsService/MyFirstWindowsService.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/AppendixB_Applications/MyFirstCSharpApplication/MyFirstCSharpApplication.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/AppendixB_Applications/MyFirstJSharpApplication/MyFirstJSharpApplication.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt05Applications/Chpt5MyFirstVBExample/MyFirstVBExample.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt06Applications/Chpt6LogicSampleVB/LogicSampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt07Applications/Chpt7FrameworkExampleVB/FrameworkExampleVB/FrameworkExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt08Applications/Chpt8BoxingExampleVB/BoxingExampleVB/BoxingExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt08Applications/Chpt8GetPerfCategoriesVB/GetPerfCategoriesVB/GetPerfCategoriesVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt08Applications/Chpt8HeapGenerationExampleVB/HeapGenerationExampleVB/HeapGenerationExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt08Applications/Chpt8PerfmonVB/PerformanceMonitorExampleVB/PerfmonVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt09Applications/Chpt9StringBuilderExampleVB/StringBuilderExampleVB/StringBuilderExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt09Applications/Chpt9ValueTypeSampleVB/ValueTypeSampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt10Applications/Chpt10MetaDataExampleVB/MetaDataExampleVB/MetaDataExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt10Applications/Chpt10SystemIOExampleVB/SystemIOExampleVB/SystemIOExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt11Applications/Chpt11DataBaseAccessExampleVB/DataBaseAccessExampleVB/DataBaseAccessExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt12Applications/Chpt12ReadWriteXMLDatasetVB/ReadWriteXMLDatasetVB/ReadWriteXMLDatasetVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt13Applications/Chpt13MyFirstWinFormVB/MyFirstWinFormVB/MyFirstWinFormVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt13Applications/Chpt13WebApplications/WebApplicationSampleVB/WebApplicationSampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt14Applications/Chpt14MyInformativeWinFormVB/MyInformativeWinFormVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt15Applications/Chpt15StateManagementVB/StateManagementVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_NewCrystalReportsExampleVB_UsingReportFolderOn_C_Drive/NewCrystalReportsExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_WindowsCrystalReportsDemoVB/CrystalReportsDemoWithViewer.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/CrystalReportsExampleVB/CrystalReportsExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18AttributesExampleVB/AttributesExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18CodeAccessSecurityExampleVB/CodeAccessSecurityExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18MyEnhancedInformativeWinFormVB/MyEnhancedInformativeWinFormVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18ReflectionDemovb/ReflectionDemovb.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt19Applications/Chpt19MyFirstClassLibraryVB/MyFirstClassLibraryVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt19Applications/Chpt19ServicedComponentClientVB/ServicedComponentClientVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt20Applications/Chpt20MyMSMQAsyncAndTriggerVB/MyMSMQAsyncAndTriggerVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt20Applications/Chpt20MyMSMQExampleVB/MyMSMQExampleVB.sln,0,0,21
+Visual Studio Solution,cobol-VB-on-.net/SampleApplications/VS2003/Chpt20Applications/Chpt20MyThreadingExampleVB/MyThreadingExampleVB.sln,0,0,21
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt15Applications/Chpt15StateManagementVB/WebForm2.aspx.vb,8,15,20
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt17Applications/Chpt13WebApplicationSampleVB/Web.config,13,40,20
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18CodeAccessSecurityExampleVB/Web.config,13,40,20
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt4PreReqs2/Person.vb,9,4,20
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt09Applications/Chpt9ValueTypeSampleCOBOL/ValueTypeSampleCOBOL/mybarInt.cob,0,0,19
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt09Applications/Chpt9ValueTypeSampleCOBOL/ValueTypeSampleCOBOL/mybarStr.cob,0,0,19
+XML,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/WebApplicationsWithACT/WebApplicationSampleVB/ACTProject1/ACTProject1.act,0,0,19
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/CrystalReportsExampleVB/WebForm2.aspx,0,0,19
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt08Applications/Chpt8BoxingExampleCobol/BoxingExampleCobol/Program1.cob,6,14,18
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt15Applications/Chpt15StateManagementCobol/WebForm2.aspx,0,0,17
+XML,cobol-VB-on-.net/SampleApplications/VS2002/Chpt16Applications/Bonus_NewCrystalReportsExampleVB_UsingReportFolderOn_C_Drive/Web.config,14,40,17
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt17Applications/Chpt13WebApplicationSampleCobol/WebForm1.aspx,0,0,17
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt15Applications/Chpt15StateManagementVB/WebForm2.aspx,0,0,17
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt17Applications/Chpt13WebApplicationSampleVB/WebForm1.aspx,0,0,17
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18CodeAccessSecurityExampleVB/WebForm1.aspx,0,0,17
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18ReflectionDemovb/CustomAttribute.vb,2,5,17
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18ReflectionDemovb/DocumentedClass.vb,6,4,17
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt19Applications/Chpt19MyFirstClassLibraryVB/AssemblyInfo.vb,8,14,16
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt19Applications/Chpt19MyFirstClassLibraryVB/AssemblyInfo.vb,8,14,16
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_NewCrystalReportsExampleVB_UsingReportFolderOn_C_Drive/WebForm2.aspx,0,0,15
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_NewCrystalReportsExampleVB_UsingReportFolderOn_C_Drive/WebForm3.aspx,0,0,15
+XML,cobol-VB-on-.net/SampleApplications/VS2002/Chpt16Applications/CrystalReportsExampleVB/Web.config,13,40,14
+C#,cobol-VB-on-.net/SampleApplications/VS2003/AppendixB_Applications/MyFirstCSharpApplication/AssemblyInfo.cs,4,40,14
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/CrystalReportsExampleVB/Web.config,13,40,14
+XML,cobol-VB-on-.net/SampleApplications/VS2002/AppendixA_Applications/WebApplicationsWithACT/WebApplicationSampleCobol/ACTProject1/ACTProject1.act,0,0,13
+COBOL,cobol-VB-on-.net/SampleApplications/VS2002/Chpt05Applications/Chpt5MyFirstCobolExample/Program1.cob,1,0,12
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt06Applications/Chpt6DefineDataTypesSampleVB/Module1.vb,5,3,12
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt08Applications/Chpt8GetPerfCategoriesVB/GetPerfCategoriesVB/Module1.vb,6,2,12
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt19Applications/Chpt19MyFirstClassLibraryVB/MyFirstClassLibraryVB.vb,4,0,12
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/MyFirstWindowsService/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt05Applications/Chpt5MyFirstVBExample/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt06Applications/Chpt6DefineDataTypesSampleVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt06Applications/Chpt6LogicSampleVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt07Applications/Chpt7FrameworkExampleVB/FrameworkExampleVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt08Applications/Chpt8BoxingExampleVB/BoxingExampleVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt08Applications/Chpt8BoxingExampleVB/BoxingExampleVB/Module1.vb,9,9,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt08Applications/Chpt8GetPerfCategoriesVB/GetPerfCategoriesVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt08Applications/Chpt8HeapGenerationExampleVB/HeapGenerationExampleVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt08Applications/Chpt8PerfmonVB/PerformanceMonitorExampleVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt09Applications/Chpt9StringBuilderExampleVB/StringBuilderExampleVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt09Applications/Chpt9ValueTypeSampleVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt10Applications/Chpt10MetaDataExampleVB/MetaDataExampleVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt10Applications/Chpt10SystemIOExampleVB/SystemIOExampleVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt11Applications/Chpt11DataBaseAccessExampleVB/DataBaseAccessExampleVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt12Applications/Chpt12ReadWriteXMLDatasetVB/ReadWriteXMLDatasetVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt15Applications/Chpt15StateManagementVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_WindowsCrystalReportsDemoVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/CrystalReportsExampleVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt17Applications/Chpt13MyFirstWinFormVB/MyFirstWinFormVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt17Applications/Chpt13WebApplicationSampleVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18AttributesExampleVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18CodeAccessSecurityExampleVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18MyEnhancedInformativeWinFormVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18ReflectionDemovb/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt19Applications/Chpt19ServicedComponentClientVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt20Applications/Chpt20MyMSMQExampleVB/AssemblyInfo.vb,6,14,11
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt20Applications/Chpt20MyThreadingExampleVB/AssemblyInfo.vb,6,14,11
+Markdown,cobol-VB-on-.net/contributing.md,4,0,10
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18CodeAccessSecurityExampleVB/CodeAccessSecurityExampleVB.vsdisco,0,0,9
+Markdown,cobol-VB-on-.net/README.md,7,0,8
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt05Applications/Chpt5MyFirstVBExample/Module1.vb,2,0,8
+XML,cobol-VB-on-.net/SampleApplications/VS2002/Chpt20Applications/Chpt20MyMSMQExampleCOBOL/App.config,0,0,7
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_WindowsCrystalReportsDemoVB/bin/CrystalReportsDemoWithViewer.exe.config,2,0,7
+Visual Basic .NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18ReflectionDemovb/Module1.vb,0,0,7
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt20Applications/Chpt20MyMSMQExampleVB/bin/MyMSMQExampleVB.exe.config,0,0,7
+XML,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/WebApplicationsWithACT/WebApplicationSampleVB/ACTProject1/clientGroup-Default Clients Group.xml,0,0,5
+XML,cobol-VB-on-.net/SampleApplications/VS2003/AppendixA_Applications/WebApplicationsWithACT/WebApplicationSampleVB/ACTProject1/perfCounters-ACT-VBSTest1.xml,0,0,4
+Visual Basic Script,cobol-VB-on-.net/SampleApplications/VS2003/Chpt4PreReqs2/SampleWSH.vbs,0,0,4
+XML,cobol-VB-on-.net/SampleApplications/VS2002/Chpt13Applications/Chpt13MyFirstWinFormVB/MyFirstWinFormVB/bin/MyFirstWinFormVB.exe.config,0,0,3
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt15Applications/Chpt15StateManagementVB/StateManagementVB.vbproj.webinfo,1,0,3
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_NewCrystalReportsExampleVB_UsingReportFolderOn_C_Drive/NewCrystalReportsExampleVB.vbproj.webinfo,1,0,3
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/CrystalReportsExampleVB/CrystalReportsExampleVB.vbproj.webinfo,1,0,3
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt17Applications/Chpt13WebApplicationSampleVB/WebApplicationSampleVB.vbproj.webinfo,1,0,3
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18CodeAccessSecurityExampleVB/CodeAccessSecurityExampleVB.vbproj.webinfo,1,0,3
+XML,cobol-VB-on-.net/SampleApplications/VS2003/Chpt12Applications/Chpt12ReadWriteXMLDatasetVB/ReadWriteXMLDatasetVB/bin/myCustomers.xsx,0,1,2
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt14Applications/Chpt14MyWebUseValidationCobol/Global.asax,0,0,1
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt15Applications/Chpt15StateManagementCobol/Global.asax,0,0,1
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2002/Chpt17Applications/Chpt13WebApplicationSampleCobol/Global.asax,0,0,1
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt15Applications/Chpt15StateManagementVB/Global.asax,0,0,1
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/Bonus_NewCrystalReportsExampleVB_UsingReportFolderOn_C_Drive/Global.asax,0,0,1
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/CrystalReportsExampleVB/CrystalReport1Service.asmx,0,0,1
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt16Applications/CrystalReportsExampleVB/Global.asax,0,0,1
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt17Applications/Chpt13WebApplicationSampleVB/Global.asax,0,0,1
+ASP.NET,cobol-VB-on-.net/SampleApplications/VS2003/Chpt18Applications/Chpt18CodeAccessSecurityExampleVB/Global.asax,0,0,1
+SUM,,1957,11626,54027

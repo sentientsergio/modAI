@@ -1,0 +1,5 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.01 s (222.7 files/s, 16853.5 lines/s)"
+COBOL,snek/snake.cbl,33,8,158
+Markdown,snek/README.md,10,0,16
+make,snek/Makefile,0,0,2
+SUM,,43,8,176

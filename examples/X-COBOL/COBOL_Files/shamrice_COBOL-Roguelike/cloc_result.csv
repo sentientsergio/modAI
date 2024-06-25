@@ -1,0 +1,50 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.04 s (1167.7 files/s, 135812.5 lines/s)"
+COBOL,COBOL-Roguelike/src/engine/crl_engine.cbl,207,45,596
+COBOL,COBOL-Roguelike/src/editor/crl_editor.cbl,219,45,586
+COBOL,COBOL-Roguelike/src/editor/draw_dynamic_screen_data.cbl,100,13,321
+COBOL,COBOL-Roguelike/src/item_creator/crl_item_creator.cbl,119,20,301
+COBOL,COBOL-Roguelike/src/engine/draw_dynamic_screen_data.cbl,61,15,225
+COBOL,COBOL-Roguelike/src/shared/load_map_data.cbl,71,17,188
+COBOL,COBOL-Roguelike/src/engine/tile_effect_handler.cbl,70,18,162
+COBOL,COBOL-Roguelike/src/item_creator/add_edit_item.cbl,50,10,134
+COBOL,COBOL-Roguelike/src/engine/command_line_parser.cbl,45,31,112
+COBOL,COBOL-Roguelike/src/editor/set-tile-effect.cbl,58,12,111
+COBOL,COBOL-Roguelike/src/editor/write_map_data.cbl,46,8,94
+COBOL,COBOL-Roguelike/src/engine/add_action_history_item.cbl,44,9,88
+COBOL,COBOL-Roguelike/src/editor/setup-tile-effect.cbl,34,8,65
+COBOL,COBOL-Roguelike/src/shared/draw_tile_character.cbl,22,11,63
+COBOL,COBOL-Roguelike/src/editor/display_help.cbl,18,8,44
+Bourne Shell,COBOL-Roguelike/src/build_engine.sh,7,0,41
+COBOL,COBOL-Roguelike/src/editor/copybooks/l-cursor.cpy,3,9,41
+COBOL,COBOL-Roguelike/src/engine/set_map_exploration.cbl,24,9,40
+Bourne Shell,COBOL-Roguelike/src/build_editor.sh,9,0,37
+Bourne Shell,COBOL-Roguelike/src/build_item_creator.sh,9,0,37
+COBOL,COBOL-Roguelike/src/engine/display_debug.cbl,23,8,36
+COBOL,COBOL-Roguelike/src/shared/copybooks/ws-constants.cpy,13,12,36
+COBOL,COBOL-Roguelike/src/engine/display_action_history.cbl,16,9,32
+COBOL,COBOL-Roguelike/src/engine/copybooks/l-player.cpy,2,10,30
+COBOL,COBOL-Roguelike/src/shared/copybooks/l-enemy-data.cpy,2,10,23
+COBOL,COBOL-Roguelike/src/shared/copybooks/ws-enemy-data.cpy,2,10,23
+COBOL,COBOL-Roguelike/src/shared/copybooks/fd-enemy-data.cpy,1,10,17
+COBOL,COBOL-Roguelike/src/shared/copybooks/l-tile-map-table-matrix.cpy,2,10,17
+COBOL,COBOL-Roguelike/src/shared/copybooks/ws-tile-map-table-matrix.cpy,6,10,17
+COBOL,COBOL-Roguelike/src/shared/copybooks/ws-item-list-data.cpy,3,10,16
+COBOL,COBOL-Roguelike/src/engine/copybooks/l-equiped-items.cpy,1,9,15
+COBOL,COBOL-Roguelike/src/shared/copybooks/l-item-data.cpy,1,10,15
+COBOL,COBOL-Roguelike/src/shared/copybooks/ws-item-data.cpy,2,10,15
+COBOL,COBOL-Roguelike/src/item_creator/copybooks/l-item-list-data-record.cpy,1,9,13
+Bourne Shell,COBOL-Roguelike/src/build_all.sh,4,0,12
+COBOL,COBOL-Roguelike/src/shared/copybooks/l-teleport-data.cpy,1,10,12
+COBOL,COBOL-Roguelike/src/shared/copybooks/ws-file-info.cpy,5,10,12
+COBOL,COBOL-Roguelike/src/shared/copybooks/ws-teleport-data.cpy,1,10,11
+COBOL,COBOL-Roguelike/src/shared/copybooks/fd-item-list-data.cpy,2,10,10
+COBOL,COBOL-Roguelike/src/shared/copybooks/fd-tile-data.cpy,1,10,10
+COBOL,COBOL-Roguelike/src/shared/copybooks/fd-item-data.cpy,2,10,9
+COBOL,COBOL-Roguelike/src/shared/copybooks/fd-teleport-data.cpy,2,10,9
+Markdown,COBOL-Roguelike/README.md,12,0,7
+COBOL,COBOL-Roguelike/src/engine/copybooks/l-map-explored-data.cpy,2,9,6
+COBOL,COBOL-Roguelike/src/engine/copybooks/l-map-files.cpy,2,10,6
+COBOL,COBOL-Roguelike/src/engine/copybooks/ws-action-history.cpy,3,10,4
+COBOL,COBOL-Roguelike/src/engine/copybooks/l-action-history.cpy,2,10,3
+COBOL,COBOL-Roguelike/src/shared/copybooks/ws-item-list-file.cpy,5,10,2
+SUM,,1335,544,3704

@@ -1,0 +1,11 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.40 s (22.7 files/s, 3229.6 lines/s)"
+COBOL,DSF/src/GML/FO04F1X1.cobol,14,30,362
+COBOL,DSF/src/GML/FO04D1X1.cobol,0,8,193
+COBOL,DSF/src/GML/R001BYDL.cobol,19,13,169
+COBOL,DSF/src/GML/FRREDIG.cobol,9,0,126
+COBOL,DSF/src/GML/FRMERK.cobol,7,0,96
+COBOL,DSF/src/GML/PLUKKFR.cobol,10,0,91
+COBOL,DSF/src/GML/PLUKKFRN.cobol,10,0,91
+Markdown,DSF/LICENSE.md,4,0,17
+Markdown,DSF/README.md,2,0,7
+SUM,,75,51,1152

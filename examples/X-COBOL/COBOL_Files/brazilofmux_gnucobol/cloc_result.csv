@@ -1,0 +1,40 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.04 s (1078.6 files/s, 89494.8 lines/s)"
+C,gnucobol/csv/csvparser.c,30,23,330
+C,gnucobol/dates/dateutil.c,41,78,293
+COBOL,gnucobol/dates/clinkages.cbl,41,111,203
+COBOL,gnucobol/dates/main2.cbl,34,7,202
+C,gnucobol/csv/csvgen.c,21,7,194
+COBOL,gnucobol/dates/main.cbl,35,13,184
+COBOL,gnucobol/dates/today.cbl,15,13,146
+COBOL,gnucobol/dates/holidays.cbl,28,63,121
+COBOL,gnucobol/dates/linear_to_fielded.cbl,28,30,115
+COBOL,gnucobol/csv/testparser.cbl,23,6,83
+COBOL,gnucobol/csv/testgen.cbl,18,4,72
+COBOL,gnucobol/dates/fielded_to_linear.cbl,7,30,61
+COBOL,gnucobol/dates/isvaliddate.cbl,3,12,44
+COBOL,gnucobol/dates/isleapyear.cbl,4,17,36
+COBOL,gnucobol/dates/floor-divmod.cbl,1,18,25
+COBOL,gnucobol/dates/floor-div.cbl,1,17,20
+make,gnucobol/csv/Makefile,5,0,18
+C/C++ Header,gnucobol/dates/dateutil.h,4,11,18
+make,gnucobol/dates/Makefile,4,0,16
+Dockerfile,gnucobol/3.0/builder/Dockerfile,1,0,13
+Dockerfile,gnucobol/3.1/builder/Dockerfile,1,0,13
+Dockerfile,gnucobol/3.2/builder/Dockerfile,1,0,13
+Dockerfile,gnucobol/4.0/builder/Dockerfile,1,0,13
+Dockerfile,gnucobol/3.0/hello/Dockerfile,2,0,7
+Dockerfile,gnucobol/3.0/runtime/Dockerfile,2,0,7
+Dockerfile,gnucobol/3.1/hello/Dockerfile,2,0,7
+Dockerfile,gnucobol/3.1/runtime/Dockerfile,2,0,7
+Dockerfile,gnucobol/3.2/hello/Dockerfile,2,0,7
+Dockerfile,gnucobol/3.2/runtime/Dockerfile,2,0,7
+Dockerfile,gnucobol/4.0/hello/Dockerfile,2,0,7
+COBOL,gnucobol/4.0/hello/test.cob,0,0,7
+Dockerfile,gnucobol/4.0/runtime/Dockerfile,2,0,7
+CSV,gnucobol/csv/example.csv,0,0,6
+Bourne Shell,gnucobol/daily.sh,1,1,6
+Bourne Shell,gnucobol/3.0/daily.sh,0,0,5
+Bourne Shell,gnucobol/3.1/daily.sh,0,0,5
+Bourne Shell,gnucobol/3.2/daily.sh,0,0,5
+Bourne Shell,gnucobol/4.0/daily.sh,0,0,5
+SUM,,364,461,2328

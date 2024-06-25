@@ -1,0 +1,26 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.06 s (378.6 files/s, 96570.5 lines/s)"
+COBOL,zECS/Source/ZECS001.cbl,373,356,1435
+COBOL,zECS/Source/ZECS000.cbl,156,123,559
+JCL,zECS/JCL/CONFIG.jcl,0,166,401
+COBOL,zECS/Source/ZECS003.cbl,78,86,299
+COBOL,zECS/Source/ECS001.cbl,67,99,256
+Assembly,zECS/Source/ZECS002.asm,0,146,255
+Assembly,zECS/Source/ZECSNC.asm,0,113,187
+Markdown,zECS/Installation.md,63,0,166
+COBOL,zECS/Source/ZECSPLT.cbl,32,41,96
+Markdown,zECS/Usage.md,27,0,74
+JCL,zECS/JCL/DEFZC##.jcl,0,25,62
+Markdown,zECS/System Requirements and Considerations.md,24,0,48
+JCL,zECS/JCL/DEFEXPR.jcl,0,19,40
+JCL,zECS/JCL/ASMZECS.jcl,0,27,38
+Markdown,zECS/README.md,9,0,35
+JCL,zECS/JCL/ZC##SD.jcl,0,15,19
+JCL,zECS/JCL/ZC##DC.jcl,0,16,18
+COBOL,zECS/Source/ZECSZFC.cpy,1,3,17
+COBOL,zECS/Source/ZECSZKC.cpy,0,3,8
+JCL,zECS/JCL/CSDZECS.jcl,0,4,6
+JCL,zECS/JCL/CSDZECSN.jcl,0,4,6
+JCL,zECS/JCL/CSDZECSR.jcl,0,4,6
+JCL,zECS/JCL/CSDZECSS.jcl,0,4,6
+YAML,zECS/_config.yml,0,0,1
+SUM,,830,1254,4038

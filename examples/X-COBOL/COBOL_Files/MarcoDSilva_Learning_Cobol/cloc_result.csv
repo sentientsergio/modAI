@@ -1,0 +1,13 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.02 s (643.4 files/s, 72238.9 lines/s)"
+COBOL,Learning_Cobol/gradeStudentFinalGrade.COB,42,40,151
+COBOL,Learning_Cobol/Final_Production_grades_avg.COB,36,30,137
+COBOL,Learning_Cobol/calculator.COB,25,7,116
+COBOL,Learning_Cobol/Salary_Sheet.cbl,18,29,104
+COBOL,Learning_Cobol/ISBN.cbl,20,8,81
+COBOL,Learning_Cobol/Car_Rental.cbl,25,29,78
+COBOL,Learning_Cobol/calcula.COB,26,11,78
+COBOL,Learning_Cobol/Variaveis2.cbl,15,6,44
+COBOL,Learning_Cobol/Variaveis.cbl,6,6,21
+COBOL,Learning_Cobol/modelo.cbl,3,24,16
+Markdown,Learning_Cobol/README.md,1,0,2
+SUM,,217,190,828

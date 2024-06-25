@@ -1,0 +1,19 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.02 s (1080.3 files/s, 36413.6 lines/s)"
+COBOL,COWOL/source/topaccts.cob,15,4,89
+JSON,COWOL/.vscode/tasks.json,0,0,77
+Markdown,COWOL/README.md,18,0,57
+Bourne Shell,COWOL/cowol/tsoterm.sh,12,0,53
+Bourne Shell,COWOL/cowol/jclcobol.sh,4,0,28
+COBOL,COWOL/source/fizzbuzz.cob,2,4,23
+COBOL,COWOL/source/hellocbl.cob,4,4,23
+YAML,COWOL/submit_jcl.yml,4,0,19
+Rexx,COWOL/source/ping.rexx,0,1,16
+Bourne Shell,COWOL/cowol/tsocobol.sh,2,0,14
+JCL,COWOL/source/topaccts.jcl,0,0,14
+Bourne Shell,COWOL/cowol/submit.sh,3,0,13
+JCL,COWOL/source/hellocbl.jcl,0,0,13
+JCL,COWOL/source/hellotso.jcl,0,0,13
+YAML,COWOL/submit_source.yml,3,0,13
+COBOL,COWOL/source/hellotso.cob,2,4,12
+Bourne Shell,COWOL/cowol/tsorexx.sh,2,0,8
+SUM,,71,17,485

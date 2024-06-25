@@ -1,0 +1,10 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.02 s (448.7 files/s, 42734.9 lines/s)"
+COBOL,zosconnect-sample-wola-batch/zconcbl.cbl,16,121,218
+Markdown,zosconnect-sample-wola-batch/README.md,38,0,162
+JCL,zosconnect-sample-wola-batch/complink.jcl,0,41,35
+XML,zosconnect-sample-wola-batch/server.xml,13,2,32
+Properties,zosconnect-sample-wola-batch/CobolService.properties,0,0,10
+COBOL,zosconnect-sample-wola-batch/zconresp.cpy,0,13,10
+COBOL,zosconnect-sample-wola-batch/zconreq.cpy,0,13,9
+JCL,zosconnect-sample-wola-batch/runcobol.jcl,0,24,5
+SUM,,67,214,481

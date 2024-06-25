@@ -1,0 +1,8 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.02 s (353.5 files/s, 13137.8 lines/s)"
+COBOL,COBOL-brainfuck/brainfuck.cbl,24,0,136
+Markdown,COBOL-brainfuck/README.md,6,0,22
+Brainfuck,COBOL-brainfuck/programs/hello.bf,0,0,22
+Brainfuck,COBOL-brainfuck/programs/fizzbuzz.bf,0,0,11
+Brainfuck,COBOL-brainfuck/programs/666.bf,0,0,1
+Brainfuck,COBOL-brainfuck/programs/hello-cobol-min.bf,0,0,1
+SUM,,30,0,193

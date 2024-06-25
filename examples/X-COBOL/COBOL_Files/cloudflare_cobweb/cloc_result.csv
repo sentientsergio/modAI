@@ -1,0 +1,1504 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=4.28 s (350.8 files/s, 148568.7 lines/s)"
+Bourne Shell,cobweb/deps/gnucobol-2.2/tests/testsuite,9632,2214,60386
+Bourne Shell,cobweb/deps/gmp.js/configure,4143,3823,23323
+C,cobweb/deps/gnucobol-2.2/cobc/parser.c,1871,457,19849
+Bourne Shell,cobweb/deps/gnucobol-2.2/configure,2918,2215,16189
+yacc,cobweb/deps/gnucobol-2.2/cobc/parser.y,1431,515,12028
+C,cobweb/deps/gnucobol-2.2/cobc/typeck.c,861,530,9121
+C,cobweb/deps/gnucobol-2.2/cobc/codegen.c,730,414,8099
+Bourne Shell,cobweb/deps/gnucobol-2.2/build_aux/ltmain.sh,1289,2007,7851
+m4,cobweb/deps/gmp.js/aclocal.m4,911,104,7668
+m4,cobweb/deps/gnucobol-2.2/m4/libtool.m4,767,64,7538
+TeX,cobweb/deps/gnucobol-2.2/build_aux/texinfo.tex,812,3694,7179
+C,cobweb/deps/gnucobol-2.2/cobc/cobc.c,754,580,6522
+Bourne Shell,cobweb/deps/gmp.js/ltmain.sh,871,1206,6329
+C,cobweb/deps/gnucobol-2.2/libcob/common.c,626,383,5749
+C,cobweb/deps/gnucobol-2.2/libcob/fileio.c,629,250,5644
+C,cobweb/deps/gnucobol-2.2/libcob/intrinsic.c,934,253,5475
+TeX,cobweb/deps/gmp.js/doc/texinfo.tex,702,2840,5455
+C,cobweb/deps/gnucobol-2.2/cobc/pplex.c,637,532,4745
+C,cobweb/deps/gnucobol-2.2/cobc/tree.c,527,302,4224
+C,cobweb/deps/gnucobol-2.2/cobc/scanner.c,551,580,3904
+C,cobweb/deps/gnucobol-2.2/cobc/reserved.c,159,169,3470
+C/C++ Header,cobweb/deps/gmp.js/gmp-impl.h,750,645,3265
+PO File,cobweb/deps/gnucobol-2.2/po/pt.po,1222,1491,3021
+PO File,cobweb/deps/gnucobol-2.2/po/es.po,1216,1471,2994
+PO File,cobweb/deps/gnucobol-2.2/po/nl.po,1186,1400,2991
+PO File,cobweb/deps/gnucobol-2.2/po/ja.po,1129,1340,2858
+C/C++ Header,cobweb/deps/gmp.js/gmpxx.h,421,150,2817
+C/C++ Header,cobweb/deps/gmp.js/tune/speed.h,210,122,2725
+PO File,cobweb/deps/gnucobol-2.2/po/en@boldquot.po,1029,1098,2671
+PO File,cobweb/deps/gnucobol-2.2/po/en@quot.po,1029,1095,2671
+PO File,cobweb/deps/gnucobol-2.2/po/de.po,1037,1090,2639
+PO File,cobweb/deps/gnucobol-2.2/po/it.po,1031,1077,2595
+C,cobweb/deps/gnucobol-2.2/libcob/screenio.c,279,253,2579
+m4,cobweb/deps/gmp.js/acinclude.m4,348,1002,2522
+C,cobweb/deps/gmp.js/tests/devel/try.c,530,144,2448
+C,cobweb/deps/gnucobol-2.2/cobc/ppparse.c,375,310,2438
+C,cobweb/deps/gnucobol-2.2/libcob/numeric.c,247,143,2358
+C,cobweb/deps/gnucobol-2.2/cobc/codeoptim.c,291,27,2311
+Python,cobweb/deps/emsdk/emsdk.py,508,419,2230
+C,cobweb/deps/gnucobol-2.2/libcob/move.c,184,74,2120
+C,cobweb/deps/gmp.js/tune/common.c,296,148,1989
+C,cobweb/deps/gnucobol-2.2/cobc/field.c,131,121,1851
+C,cobweb/deps/gmp.js/tune/tuneup.c,408,214,1828
+lex,cobweb/deps/gnucobol-2.2/cobc/scanner.l,276,191,1717
+Bourne Shell,cobweb/deps/gnucobol-2.2/build_aux/config.sub,36,100,1700
+C,cobweb/deps/gmp.js/tests/refmpn.c,357,131,1693
+C,cobweb/deps/gnucobol-2.2/libcob/call.c,202,91,1642
+Bourne Shell,cobweb/deps/gmp.js/configfsf.sub,37,113,1610
+C/C++ Header,cobweb/deps/gmp.js/longlong.h,134,233,1580
+lex,cobweb/deps/gnucobol-2.2/cobc/pplex.l,189,212,1574
+C/C++ Header,cobweb/deps/gnucobol-2.2/cobc/tree.h,333,164,1573
+C,cobweb/deps/gmp.js/demos/calc/calc.c,365,355,1547
+JavaScript,cobweb/deps/gnucobol-2.2/a.out.js,425,470,1546
+C/C++ Header,cobweb/deps/gnucobol-2.2/libcob/common.h,327,190,1498
+C/C++ Header,cobweb/deps/gmp.js/trialdivtab.h,2,0,1479
+C,cobweb/deps/gmp.js/tests/misc/t-scanf.c,178,55,1402
+Perl,cobweb/deps/gmp.js/demos/perl/test.pl,499,369,1300
+m4,cobweb/deps/gnucobol-2.2/configure.ac,150,0,1255
+Bourne Shell,cobweb/deps/gnucobol-2.2/build_aux/config.guess,42,186,1248
+C/C++ Header,cobweb/deps/gnucobol-2.2/cobc/parser.h,14,28,1226
+Bourne Shell,cobweb/deps/gmp.js/configfsf.guess,61,239,1211
+C,cobweb/deps/gmp.js/demos/pexpr.c,109,69,1200
+C,cobweb/deps/gmp.js/demos/calc/calclex.c,348,376,1196
+JavaScript,cobweb/deps/gmp.js/a.out.js,532,441,1194
+yacc,cobweb/deps/gnucobol-2.2/cobc/ppparse.y,140,50,1167
+C,cobweb/deps/gmp.js/tune/time.c,242,218,1073
+C,cobweb/deps/gmp.js/tune/speed.c,178,51,1067
+m4,cobweb/deps/gnucobol-2.2/aclocal.m4,107,21,1058
+Perl,cobweb/deps/gmp.js/tune/many.pl,140,285,898
+HTML,cobweb/deps/gmp.js/doc/tasks.html,40,10,860
+JSON,cobweb/deps/emsdk/emsdk_manifest.json,4,0,835
+C,cobweb/deps/gmp.js/tests/misc/t-printf.c,171,34,774
+C,cobweb/deps/gmp.js/dumbmp.c,145,36,741
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/sqr_basecase.asm,74,0,712
+m4,cobweb/deps/gnucobol-2.2/m4/lib-link.m4,12,53,712
+C,cobweb/deps/gmp.js/mpn/mul_fft.c,128,174,690
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium4/sse2/sqr_basecase.asm,37,0,657
+TeX,cobweb/deps/gnucobol-2.2/doc/cbrese.tex,4,0,655
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode64/mul_basecase.asm,60,0,638
+Assembly,cobweb/deps/gmp.js/mpn/pa64/submul_1.asm,61,0,628
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium4/sse2/mul_basecase.asm,23,0,628
+Assembly,cobweb/deps/gmp.js/mpn/pa64/addmul_1.asm,61,0,621
+Assembly,cobweb/deps/gmp.js/mpn/x86/k7/mmx/divrem_1.asm,214,0,607
+C,cobweb/deps/gmp.js/demos/expr/expr.c,133,84,606
+C,cobweb/deps/gnucobol-2.2/cobc/error.c,89,52,599
+C,cobweb/deps/gmp.js/tune/freq.c,156,130,597
+Bourne Shell,cobweb/deps/gmp.js/config.guess,55,202,591
+Bourne Shell,cobweb/deps/gnucobol-2.2/build_aux/config.rpath,24,83,577
+Assembly,cobweb/deps/gmp.js/mpn/pa64/mul_1.asm,59,0,576
+C,cobweb/deps/gnucobol-2.2/cobc/config.c,73,69,573
+C++,cobweb/deps/gmp.js/tests/cxx/t-ops.cc,69,83,568
+C,cobweb/deps/gmp.js/tests/rand/statlib.c,131,141,565
+C++,cobweb/deps/gmp.js/tests/cxx/t-ternary.cc,54,117,564
+Assembly,cobweb/deps/gmp.js/mpn/sparc64/addmul_1.asm,35,0,561
+C,cobweb/deps/gmp.js/tests/mpz/reuse.c,101,34,556
+Assembly,cobweb/deps/gmp.js/mpn/ia64/mul_2.asm,44,94,553
+C,cobweb/deps/gnucobol-2.2/libcob/strings.c,77,34,548
+m4,cobweb/deps/gmp.js/mpn/asm-defs.m4,259,862,542
+Assembly,cobweb/deps/gmp.js/mpn/sparc64/mul_1.asm,35,0,534
+C++,cobweb/deps/gmp.js/tests/cxx/t-constr.cc,105,117,533
+Assembly,cobweb/deps/gmp.js/mpn/ia64/addmul_2.asm,44,82,531
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/mmx/divrem_1.asm,231,0,525
+Assembly,cobweb/deps/gmp.js/mpn/ia64/submul_1.asm,36,87,511
+C,cobweb/deps/gmp.js/tests/mpz/t-jac.c,152,84,511
+Bourne Shell,cobweb/deps/gnucobol-2.2/build_aux/depcomp,64,224,503
+C,cobweb/deps/gmp.js/scanf/doscan.c,116,145,501
+Assembly,cobweb/deps/gmp.js/mpn/sparc64/addmul_2.asm,45,0,495
+Assembly,cobweb/deps/gmp.js/mpn/ia64/aors_n.asm,32,91,488
+C,cobweb/deps/gmp.js/ansi2knr.c,42,210,487
+Assembly,cobweb/deps/gmp.js/mpn/x86/k6/sqr_basecase.asm,185,0,484
+HTML,cobweb/deps/gmp.js/doc/projects.html,115,10,481
+C,cobweb/deps/gnucobol-2.2/libcob/cobgetopt.c,116,226,479
+Assembly,cobweb/deps/gmp.js/mpn/ia64/addmul_1.asm,36,77,477
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium4/sse2/divrem_1.asm,161,0,474
+Assembly,cobweb/deps/gmp.js/mpn/ia64/mul_1.asm,40,74,459
+Windows Module Definition,cobweb/deps/gnucobol-2.2/libcob/exception.def,173,0,453
+Assembly,cobweb/deps/gmp.js/mpn/x86/k7/sqr_basecase.asm,176,0,448
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/sqr_basecase.asm,190,0,448
+m4,cobweb/deps/gmp.js/mpn/x86/x86-defs.m4,135,377,444
+COBOL,cobweb/deps/gnucobol-2.2/tests/testsuite.src/numeric-dump.cob,0,17,438
+Assembly,cobweb/deps/gmp.js/mpn/x86/k6/mul_basecase.asm,164,0,437
+Assembly,cobweb/deps/gmp.js/mpn/x86/k7/mul_basecase.asm,164,0,427
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/mul_basecase.asm,169,0,427
+C,cobweb/deps/gmp.js/printf/doprnt.c,81,113,427
+Assembly,cobweb/deps/gmp.js/mpn/alpha/ev6/mul_1.asm,62,0,423
+C++,cobweb/deps/gmp.js/tests/cxx/t-istream.cc,88,27,423
+C/C++ Header,cobweb/deps/gnucobol-2.2/cobc/cobc.h,101,55,421
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/v9/sqr_diagonal.asm,37,0,414
+m4,cobweb/deps/gnucobol-2.2/m4/po.m4,22,20,411
+C,cobweb/deps/gmp.js/tests/misc.c,100,59,406
+C,cobweb/deps/gmp.js/tests/mpn/t-get_d.c,69,42,391
+C,cobweb/deps/gmp.js/tests/rand/gen.c,58,35,388
+C,cobweb/deps/gmp.js/gen-psqr.c,100,92,384
+C,cobweb/deps/gmp.js/mpn/hgcd.c,118,142,383
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/mul_basecase.asm,67,0,383
+C,cobweb/deps/gmp.js/demos/expr/t-expr.c,91,26,382
+C/C++ Header,cobweb/deps/gmp.js/tests/tests.h,90,25,378
+C,cobweb/deps/gmp.js/mpn/toom_interpolate_16pts.c,68,67,377
+Perl,cobweb/deps/gnucobol-2.2/tests/cobol85/report.pl,55,61,376
+C++,cobweb/deps/gmp.js/tests/cxx/t-assign.cc,68,73,375
+C,cobweb/deps/gmp.js/mpn/perfpow.c,71,48,374
+Assembly,cobweb/deps/gmp.js/mpn/ia64/bdiv_dbm1c.asm,35,97,371
+C,cobweb/deps/gmp.js/mpn/powm.c,57,58,363
+C,cobweb/deps/gmp.js/tests/mpn/t-div.c,62,21,360
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/sqr_basecase.asm,160,0,357
+Assembly,cobweb/deps/gmp.js/mpn/x86/k7/mmx/lshift.asm,115,0,355
+Assembly,cobweb/deps/gmp.js/mpn/x86/k7/mmx/rshift.asm,114,0,355
+Assembly,cobweb/deps/gmp.js/mpn/alpha/ev6/nails/addmul_1.asm,31,0,354
+Assembly,cobweb/deps/gmp.js/mpn/alpha/ev6/nails/submul_1.asm,31,0,354
+m4,cobweb/deps/gnucobol-2.2/m4/ltoptions.m4,68,15,354
+C,cobweb/deps/gmp.js/mpn/get_str.c,68,118,352
+Assembly,cobweb/deps/gmp.js/mpn/ia64/divrem_1.asm,21,93,350
+C++,cobweb/deps/gmp.js/tests/cxx/t-ostream.cc,84,16,350
+Assembly,cobweb/deps/gmp.js/mpn/alpha/ev6/aorsmul_1.asm,49,0,338
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/mmx/rshift.asm,120,0,337
+C,cobweb/deps/gmp.js/mpz/n_pow_ui.c,83,103,337
+Assembly,cobweb/deps/gmp.js/mpn/alpha/invert_limb.asm,7,0,335
+Assembly,cobweb/deps/gmp.js/mpn/ia64/rsh1aors_n.asm,37,61,334
+C,cobweb/deps/gmp.js/mpn/generic/gcdext.c,110,102,332
+C,cobweb/deps/gmp.js/mpn/hgcd2.c,69,71,329
+Bourne Shell,cobweb/deps/gnucobol-2.2/build_aux/install-sh,68,105,328
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/mmx/lshift.asm,125,0,327
+Assembly,cobweb/deps/gmp.js/mpn/alpha/ev6/nails/mul_1.asm,31,0,322
+C,cobweb/deps/gmp.js/tests/mpz/t-aorsmul.c,78,22,322
+m4,cobweb/deps/gnucobol-2.2/m4/gettext.m4,44,56,320
+C,cobweb/deps/gmp.js/demos/factorize.c,44,13,318
+Assembly,cobweb/deps/gmp.js/mpn/sparc64/sqr_diagonal.asm,13,0,318
+C,cobweb/deps/gmp.js/tests/mpn/t-hgcd.c,72,24,313
+C,cobweb/deps/gmp.js/tests/refmpf.c,65,50,313
+C,cobweb/deps/gmp.js/mpf/sub.c,32,65,312
+C,cobweb/deps/gmp.js/mpn/get_d.c,79,99,312
+C,cobweb/deps/gmp.js/tests/mpn/t-instrument.c,85,20,311
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/vmx/mod_34lsub1.asm,65,0,310
+Assembly,cobweb/deps/gmp.js/mpn/x86/k6/aorsmul_1.asm,74,0,307
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/redc_1.asm,30,0,305
+C++,cobweb/deps/gmp.js/tests/cxx/t-binary.cc,53,89,305
+C,cobweb/deps/gmp.js/demos/primes.c,37,47,303
+C,cobweb/deps/gmp.js/randmt.c,52,50,303
+C,cobweb/deps/gmp.js/mpf/set_str.c,46,44,301
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/sub_n.asm,23,0,301
+C,cobweb/deps/gmp.js/mpz/fac_ui.c,37,61,298
+C,cobweb/deps/gnucobol-2.2/libcob/termio.c,36,22,296
+Assembly,cobweb/deps/gmp.js/mpn/alpha/ev5/diveby3.asm,26,0,295
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode64/divrem_1.asm,16,0,292
+C,cobweb/deps/gmp.js/tests/rand/stat.c,63,56,288
+C++,cobweb/deps/gmp.js/tests/cxx/t-misc.cc,48,51,286
+C,cobweb/deps/gmp.js/tests/mpz/bit.c,67,20,286
+C,cobweb/deps/gmp.js/tests/mpz/t-gcd.c,62,48,283
+Assembly,cobweb/deps/gmp.js/mpn/ia64/mode1o.asm,36,14,279
+C,cobweb/deps/gmp.js/tests/t-constants.c,52,22,278
+Assembly,cobweb/deps/gmp.js/mpn/x86/k7/gcd_1.asm,94,0,275
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/v9/submul_1.asm,31,0,274
+Bourne Shell,cobweb/deps/gmp.js/missing,43,46,271
+C,cobweb/deps/gmp.js/mpn/tdiv_qr.c,47,61,270
+C,cobweb/deps/gmp.js/tests/mpn/t-bdiv.c,57,17,270
+Assembly,cobweb/deps/gmp.js/mpn/pa32/udiv.asm,12,0,268
+C,cobweb/deps/gmp.js/mpn/mp_bases.c,3,1,265
+Assembly,cobweb/deps/gmp.js/mpn/ia64/hamdist.asm,33,55,264
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/v9/addmul_1.asm,31,0,264
+C,cobweb/deps/gmp.js/printf/repl-vsnprintf.c,56,71,262
+C,cobweb/deps/gmp.js/mpn/mu_div_qr.c,64,80,261
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/vmx/logops_n.asm,38,0,261
+Assembly,cobweb/deps/gmp.js/mpn/x86/k7/mod_1_4.asm,21,0,260
+Assembly,cobweb/deps/gmp.js/mpn/x86/sqr_basecase.asm,88,0,260
+C,cobweb/deps/gmp.js/printf/doprntf.c,60,63,260
+Bourne Shell,cobweb/deps/gnucobol-2.2/build_aux/compile,26,62,260
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/mmx/mul_1.asm,101,0,259
+Assembly,cobweb/deps/gmp.js/mpn/ia64/lorrshift.asm,37,49,258
+C,cobweb/deps/gmp.js/mpn/set_str.c,57,49,258
+Assembly,cobweb/deps/gmp.js/mpn/ia64/aorslsh1_n.asm,26,42,255
+C/C++ Header,cobweb/deps/gnucobol-2.2/libcob/coblocal.h,69,52,255
+C,cobweb/deps/gmp.js/mpn/sqrtrem.c,47,42,253
+TeX,cobweb/deps/gnucobol-2.2/doc/cbrunt.tex,39,0,251
+C,cobweb/deps/gmp.js/mpn/mul.c,54,81,249
+C,cobweb/deps/gnucobol-2.2/bin/cobcrun.c,42,66,249
+C,cobweb/deps/gmp.js/extract-dbl.c,27,27,248
+Assembly,cobweb/deps/gmp.js/mpn/x86/k6/gcd_1.asm,103,0,248
+m4,cobweb/deps/gnucobol-2.2/m4/iconv.m4,9,14,248
+C,cobweb/deps/gmp.js/mpf/ui_sub.c,22,57,247
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/v9/mul_1.asm,31,0,245
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/divrem_1.asm,36,0,244
+C,cobweb/deps/gmp.js/tests/mpf/t-fits.c,65,16,243
+m4,cobweb/deps/gnucobol-2.2/m4/m4_ax_code_coverage.m4,25,0,239
+Assembly,cobweb/deps/gmp.js/mpn/x86/k6/aors_n.asm,88,0,238
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/aorsmul_1.asm,71,0,238
+C,cobweb/deps/gmp.js/mpn/toom_interpolate_12pts.c,56,57,237
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium4/sse2/mod_1_4.asm,24,0,235
+C,cobweb/deps/gmp.js/tests/rand/t-rand.c,41,20,235
+C,cobweb/deps/gmp.js/mpn/toom53_mul.c,39,47,234
+make,cobweb/deps/gmp.js/Makefile.am,66,132,233
+Assembly,cobweb/deps/gmp.js/mpn/alpha/bdiv_dbm1c.asm,40,0,231
+Perl,cobweb/deps/gmp.js/mpn/alpha/ev6/slot.pl,31,41,231
+C,cobweb/deps/gmp.js/mpn/mu_divappr_q.c,50,71,231
+C,cobweb/deps/gmp.js/mpn/x86/fat/fat.c,49,41,227
+yacc,cobweb/deps/gmp.js/demos/calc/calc.y,52,40,226
+Assembly,cobweb/deps/gmp.js/mpn/ia64/logops_n.asm,24,27,226
+C,cobweb/deps/gmp.js/mpn/generic/gcdext_1.c,48,45,225
+Assembly,cobweb/deps/gmp.js/mpn/alpha/ev6/add_n.asm,49,0,223
+Assembly,cobweb/deps/gmp.js/mpn/alpha/ev6/sub_n.asm,49,0,223
+C,cobweb/deps/gmp.js/mpn/powm_sec.c,59,58,223
+C,cobweb/deps/gmp.js/mpn/toom33_mul.c,38,44,222
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium4/sse2/popcount.asm,45,0,222
+C,cobweb/deps/gmp.js/mpn/mulmod_bnm1.c,45,85,221
+TeX,cobweb/deps/gnucobol-2.2/doc/cbhelp.tex,8,0,220
+C,cobweb/deps/gmp.js/mpf/get_str.c,46,52,219
+C,cobweb/deps/gmp.js/mpn/rootrem.c,53,137,218
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/divrem_2.asm,22,0,218
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/mod_1_4.asm,17,0,218
+C,cobweb/deps/gmp.js/tests/mpz/t-io_raw.c,49,21,217
+C/C++ Header,cobweb/deps/gnucobol-2.2/lib/gettext.h,27,48,217
+Assembly,cobweb/deps/gmp.js/mpn/alpha/aorslsh1_n.asm,18,0,216
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/vmx/popcount.asm,44,0,216
+C,cobweb/deps/gmp.js/mpn/matrix22_mul.c,30,66,215
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/add_n.asm,19,0,215
+C,cobweb/deps/gmp.js/tests/mpq/t-get_d.c,38,19,215
+Assembly,cobweb/deps/gmp.js/mpn/m88k/mc88110/sub_n.S,23,38,213
+C,cobweb/deps/gmp.js/gen-trialdivtab.c,60,26,212
+C,cobweb/deps/gmp.js/mpn/toom62_mul.c,38,50,212
+COBOL,cobweb/deps/gnucobol-2.2/extras/CBL_OC_DUMP.cob,21,28,212
+Assembly,cobweb/deps/gmp.js/mpn/cray/cfp/mulwwc90.s,6,26,211
+C,cobweb/deps/gmp.js/mpn/sqr_basecase.c,52,37,211
+Assembly,cobweb/deps/gmp.js/mpn/cray/cfp/mulwwj90.s,6,26,210
+C,cobweb/deps/gmp.js/tests/mpn/t-fat.c,47,45,209
+Assembly,cobweb/deps/gmp.js/mpn/x86/k7/mul_1.asm,20,0,207
+Assembly,cobweb/deps/gmp.js/mpn/ia64/divrem_2.asm,20,38,206
+C,cobweb/deps/gmp.js/tests/devel/anymul_1.c,32,14,205
+C,cobweb/deps/gmp.js/mpn/sbpi1_div_q.c,52,36,204
+C,cobweb/deps/gmp.js/tests/mpf/t-trunc.c,39,28,204
+Lisp,cobweb/deps/gmp.js/mpn/lisp/gmpasm-mode.el,71,100,203
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/lshift.asm,21,0,203
+C,cobweb/deps/gmp.js/mpn/generic/gcd.c,44,40,202
+C,cobweb/deps/gmp.js/mpn/toom8h_mul.c,43,45,202
+C,cobweb/deps/gmp.js/tests/trace.c,66,51,202
+C,cobweb/deps/gmp.js/mpn/generic/div_q.c,42,69,201
+C,cobweb/deps/gmp.js/tests/mpn/t-aors_1.c,51,16,201
+Assembly,cobweb/deps/gmp.js/mpn/sparc64/add_n.asm,20,0,200
+Assembly,cobweb/deps/gmp.js/mpn/sparc64/sub_n.asm,20,0,200
+C,cobweb/deps/gmp.js/tests/mpz/t-cmp_d.c,64,27,199
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/logops_n.asm,23,0,198
+Assembly,cobweb/deps/gmp.js/mpn/x86/k6/k62mmx/lshift.asm,87,0,196
+Assembly,cobweb/deps/gmp.js/mpn/x86/k6/k62mmx/rshift.asm,86,0,196
+C/C++ Header,cobweb/deps/gmp.js/mpn/pa64/gmp-mparam.h,21,15,194
+Assembly,cobweb/deps/gmp.js/mpn/x86/k7/aors_n.asm,53,0,194
+Assembly,cobweb/deps/gmp.js/mpn/x86/k6/mul_1.asm,88,0,193
+C,cobweb/deps/gmp.js/randlc2x.c,66,63,193
+C,cobweb/deps/gmp.js/tests/refmpz.c,55,21,193
+C,cobweb/deps/gmp.js/tests/mpz/t-perfpow.c,35,16,192
+m4,cobweb/deps/gnucobol-2.2/m4/lib-prefix.m4,6,26,192
+Bourne Shell,cobweb/deps/gmp.js/install-sh,47,88,190
+Assembly,cobweb/deps/gmp.js/mpn/pa64/aorslsh1_n.asm,27,0,190
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/lshift.asm,43,0,190
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/rshift.asm,43,0,190
+Markdown,cobweb/deps/emsdk/README.md,61,0,189
+Assembly,cobweb/deps/gmp.js/mpn/alpha/ev6/nails/aors_n.asm,33,0,189
+C,cobweb/deps/gmp.js/mpn/generic/divexact.c,42,55,188
+C,cobweb/deps/gmp.js/mpz/powm.c,49,42,188
+C,cobweb/deps/gmp.js/tests/rand/findlc.c,41,23,188
+Assembly,cobweb/deps/gmp.js/mpn/x86/k6/mmx/dive_1.asm,83,0,187
+Assembly,cobweb/deps/gmp.js/mpn/ia64/gcd_1.asm,41,4,186
+C,cobweb/deps/gmp.js/mpn/sqrmod_bnm1.c,43,74,185
+C/C++ Header,cobweb/deps/gnucobol-2.2/cobc/ppparse.h,18,28,185
+C,cobweb/deps/gmp.js/tests/devel/logops_n.c,35,15,181
+C,cobweb/deps/gmp.js/mpn/mu_bdiv_qr.c,46,54,180
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode64/aors_n.asm,24,0,179
+C,cobweb/deps/gmp.js/mpn/toom32_mul.c,49,84,179
+Assembly,cobweb/deps/gmp.js/mpn/x86/mul_basecase.asm,35,0,178
+C/C++ Header,cobweb/deps/gmp.js/mpn/x86_64/pentium4/gmp-mparam.h,23,17,178
+C,cobweb/deps/gmp.js/tests/devel/aors_n.c,35,15,178
+Assembly,cobweb/deps/gmp.js/mpn/x86/k6/mmx/logops_n.asm,38,0,177
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/dive_1.asm,84,0,177
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/dive_1.asm,79,0,176
+C,cobweb/deps/gmp.js/mpz/jacobi.c,68,65,176
+Windows Module Definition,cobweb/deps/gnucobol-2.2/cobc/config.def,86,0,176
+TeX,cobweb/deps/gnucobol-2.2/doc/cbconf.tex,35,0,176
+C,cobweb/deps/gmp.js/mpn/generic/dcpi1_divappr_q.c,41,30,175
+C,cobweb/deps/gmp.js/mpn/mod_1.c,36,39,175
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/mode1o.asm,80,0,175
+Assembly,cobweb/deps/gmp.js/mpn/x86/fat/fat_entry.asm,35,0,174
+C,cobweb/deps/gmp.js/tests/memory.c,44,22,174
+C++,cobweb/deps/gmp.js/tests/cxx/t-prec.cc,26,18,173
+C,cobweb/deps/gmp.js/tests/mpz/t-nextprime.c,35,14,173
+C,cobweb/deps/gmp.js/mpn/invertappr.c,49,90,172
+C/C++ Header,cobweb/deps/gmp.js/mpn/x86_64/nano/gmp-mparam.h,21,15,172
+C,cobweb/deps/gmp.js/demos/expr/run-expr.c,38,22,171
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/udiv_nfp.asm,20,0,171
+Assembly,cobweb/deps/gmp.js/mpn/x86/divrem_1.asm,52,0,171
+C/C++ Header,cobweb/deps/gmp.js/mpn/ia64/gmp-mparam.h,22,15,170
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/pentium4/aorslsh1_n.asm,22,0,170
+C,cobweb/deps/gmp.js/mpn/generic/dcpi1_div_qr.c,45,24,169
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode64/addmul_1.asm,16,0,169
+C/C++ Header,cobweb/deps/gmp.js/mpn/powerpc64/mode64/p4/gmp-mparam.h,21,13,168
+Assembly,cobweb/deps/gmp.js/mpn/x86/divrem_2.asm,20,0,168
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium4/sse2/addmul_1.asm,15,0,168
+Assembly,cobweb/deps/gmp.js/mpn/pa32/hppa1_1/pa7100/submul_1.asm,29,0,167
+C,cobweb/deps/gmp.js/tests/mpn/t-iord_u.c,35,19,167
+Assembly,cobweb/deps/gmp.js/mpn/alpha/ev6/nails/addmul_4.asm,33,0,166
+C,cobweb/deps/gmp.js/mpz/aorsmul_i.c,37,43,166
+C,cobweb/deps/gmp.js/tests/mpz/t-export.c,29,13,164
+Assembly,cobweb/deps/gmp.js/mpn/ia64/dive_1.asm,25,29,163
+Assembly,cobweb/deps/gmp.js/mpn/pa64/sqr_diagonal.asm,17,0,163
+C/C++ Header,cobweb/deps/gmp.js/mpn/powerpc64/mode64/p5/gmp-mparam.h,21,15,163
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode64/divrem_2.asm,16,0,162
+C/C++ Header,cobweb/deps/gmp.js/mpn/x86_64/gmp-mparam.h,21,14,162
+C,cobweb/deps/gmp.js/tests/devel/divmod_1.c,25,13,162
+Assembly,cobweb/deps/gmp.js/mpn/pa32/hppa1_1/pa7100/addmul_1.asm,29,0,161
+C,cobweb/deps/gmp.js/tests/mpz/t-bin.c,41,16,161
+Dockerfile,cobweb/deps/emsdk/docker/Dockerfile,32,43,160
+C,cobweb/deps/gmp.js/mpn/generic/divrem_1.c,32,53,160
+C,cobweb/deps/gmp.js/mpn/mu_bdiv_q.c,43,57,160
+Assembly,cobweb/deps/gmp.js/mpn/x86/aors_n.asm,32,0,160
+C,cobweb/deps/gmp.js/tests/devel/shift.c,33,15,160
+Assembly,cobweb/deps/gmp.js/mpn/x86/k6/mmx/popham.asm,66,0,159
+C/C++ Header,cobweb/deps/gmp.js/mpn/x86_64/corei/gmp-mparam.h,21,15,159
+C,cobweb/deps/gmp.js/mpz/and.c,40,69,159
+C,cobweb/deps/gmp.js/mpz/ior.c,35,38,159
+C,cobweb/deps/gmp.js/tests/mpf/t-get_si.c,45,19,159
+C,cobweb/deps/gmp.js/tests/mpn/t-matrix22.c,33,15,159
+C,cobweb/deps/gmp.js/tests/mpz/t-mul.c,42,18,159
+C,cobweb/deps/gmp.js/demos/expr/exprz.c,30,22,158
+C,cobweb/deps/gmp.js/tests/mpz/t-div_2exp.c,48,18,158
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/aors_n.asm,36,0,157
+C,cobweb/deps/gmp.js/mpn/sparc64/divrem_1.c,35,41,156
+C/C++ Header,cobweb/deps/gmp.js/mpn/sparc64/ultrasparc34/gmp-mparam.h,21,15,156
+C,cobweb/deps/gmp.js/mpn/toom52_mul.c,38,52,156
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium4/mmx/popham.asm,36,0,156
+C,cobweb/deps/gmp.js/tests/rand/t-lc2exp.c,42,18,156
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/vmx/copyd.asm,37,0,155
+Assembly,cobweb/deps/gmp.js/mpn/alpha/divrem_2.asm,14,0,153
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/divrem_2.asm,18,0,153
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/mul_2.asm,21,0,153
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/pentium4/aors_n.asm,25,0,153
+C/C++ Header,cobweb/deps/gmp.js/mpn/x86_64/core2/gmp-mparam.h,21,15,152
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/vmx/copyi.asm,36,0,151
+Assembly,cobweb/deps/gmp.js/mpn/x86/invert_limb.asm,18,0,151
+Assembly,cobweb/deps/gmp.js/mpn/alpha/lshift.asm,21,0,150
+C,cobweb/deps/gmp.js/mpn/toom3_sqr.c,32,32,150
+C,cobweb/deps/gmp.js/mpn/toom63_mul.c,30,41,150
+C,cobweb/deps/gmp.js/mpn/toom6h_mul.c,38,44,150
+C/C++ Header,cobweb/deps/gmp.js/mpn/x86/k7/gmp-mparam.h,21,14,150
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium4/sse2/dive_1.asm,54,0,150
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/addmul_2.asm,18,0,150
+C,cobweb/deps/gmp.js/tests/mpz/t-get_d_2exp.c,28,18,150
+C,cobweb/deps/gmp.js/tests/mpz/t-pow.c,44,24,150
+Windows Module Definition,cobweb/deps/gnucobol-2.2/cobc/codeoptim.def,17,0,150
+COBOL,cobweb/deps/gnucobol-2.2/tests/testsuite.src/numeric-display.cob,0,16,150
+Assembly,cobweb/deps/gmp.js/mpn/alpha/mode1o.asm,49,0,149
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/lshiftc.asm,15,0,149
+Assembly,cobweb/deps/gmp.js/mpn/alpha/rshift.asm,21,0,148
+Assembly,cobweb/deps/gmp.js/mpn/x86/k7/mmx/popham.asm,54,0,148
+Python,cobweb/deps/emsdk/test.py,54,18,147
+C,cobweb/deps/gmp.js/tests/devel/copy.c,31,14,147
+C,cobweb/deps/gmp.js/tests/mpf/t-sub.c,38,21,147
+Bourne Shell,cobweb/deps/gnucobol-2.2/doc/cobcinfo.sh,7,27,147
+C/C++ Header,cobweb/deps/gmp.js/mpn/powerpc32/gmp-mparam.h,24,21,146
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/fat/fat_entry.asm,29,0,146
+Assembly,cobweb/deps/gmp.js/mpn/m88k/mc88110/add_n.S,19,34,145
+C,cobweb/deps/gmp.js/tests/mpz/t-cong.c,36,16,145
+C,cobweb/deps/gmp.js/mpn/toom42_mul.c,39,41,144
+C/C++ Header,cobweb/deps/gmp.js/mpn/x86/p6/mmx/gmp-mparam.h,25,18,144
+C/C++ Header,cobweb/deps/gmp.js/mpn/x86_64/atom/gmp-mparam.h,20,14,144
+C,cobweb/deps/gmp.js/mpz/xor.c,28,31,144
+C++,cobweb/deps/gmp.js/tests/cxx/t-locale.cc,37,14,144
+C,cobweb/deps/gmp.js/tests/mpf/t-sqrt.c,30,20,144
+C,cobweb/deps/gmp.js/tests/mpn/t-mulmod_bnm1.c,34,40,144
+Bourne Shell,cobweb/deps/gnucobol-2.2/build_aux/missing,31,40,144
+C/C++ Header,cobweb/deps/gmp.js/mpn/x86/atom/gmp-mparam.h,21,15,143
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium4/sse2/mul_1.asm,15,0,143
+C,cobweb/deps/gmp.js/mpz/export.c,31,18,143
+C,cobweb/deps/gmp.js/tests/misc/t-locale.c,32,18,143
+C/C++ Header,cobweb/deps/gmp.js/mpn/alpha/ev6/gmp-mparam.h,23,16,142
+C/C++ Header,cobweb/deps/gmp.js/mpn/powerpc32/750/gmp-mparam.h,23,16,142
+Assembly,cobweb/deps/gmp.js/mpn/x86/k7/aorsmul_1.asm,15,0,142
+C,cobweb/deps/gmp.js/tests/mpf/reuse.c,49,20,142
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode64/mul_1.asm,26,0,141
+C,cobweb/deps/gmp.js/mpn/toom8_sqr.c,36,31,141
+Assembly,cobweb/deps/gmp.js/mpn/x86/k6/divrem_1.asm,52,0,141
+Assembly,cobweb/deps/gmp.js/mpn/x86/k7/dive_1.asm,55,0,141
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/rsh1aors_n.asm,29,0,141
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/rshift.asm,17,0,141
+C,cobweb/deps/gmp.js/tests/mpz/t-fits.c,46,16,140
+Assembly,cobweb/deps/gmp.js/mpn/m68k/lshift.asm,26,0,139
+Assembly,cobweb/deps/gmp.js/mpn/m68k/rshift.asm,26,0,139
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/udiv.asm,17,0,139
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/mode1o.asm,40,0,139
+Assembly,cobweb/deps/gmp.js/mpn/ia64/copyd.asm,14,21,138
+C,cobweb/deps/gmp.js/mpn/generic/gcdext_lehmer.c,31,41,137
+C,cobweb/deps/gmp.js/mpn/toom43_mul.c,36,50,137
+C,cobweb/deps/gmp.js/tests/mpf/t-inp_str.c,36,18,137
+C,cobweb/deps/gmp.js/tests/mpq/t-md_2exp.c,31,14,137
+Assembly,cobweb/deps/gmp.js/mpn/alpha/add_n.asm,10,0,136
+Assembly,cobweb/deps/gmp.js/mpn/alpha/sub_n.asm,10,0,136
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/lshift.asm,20,0,136
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/mod_34lsub1.asm,43,0,136
+C/C++ Header,cobweb/deps/gmp.js/mpn/x86/pentium4/sse2/gmp-mparam.h,21,14,136
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/addaddmul_1msb0.asm,19,0,136
+C/C++ Header,cobweb/deps/gmp.js/mpn/alpha/ev5/gmp-mparam.h,22,15,135
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/pentium4/rshift.asm,16,0,135
+C,cobweb/deps/gmp.js/tests/mpz/t-import.c,28,13,135
+C,cobweb/deps/gmp.js/gen-bases.c,32,14,134
+Assembly,cobweb/deps/gmp.js/mpn/ia64/copyi.asm,14,21,134
+Assembly,cobweb/deps/gmp.js/mpn/ia64/popcount.asm,30,23,134
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/rshift.asm,20,0,134
+Assembly,cobweb/deps/gmp.js/mpn/sparc64/lshift.asm,18,0,134
+C,cobweb/deps/gmp.js/mpz/powm_ui.c,30,31,134
+C,cobweb/deps/gmp.js/tests/mpz/t-inp_str.c,36,18,134
+Bourne Shell,cobweb/deps/gnucobol-2.2/build_aux/ylwrap,30,69,134
+Assembly,cobweb/deps/gmp.js/mpn/alpha/mod_34lsub1.asm,20,0,133
+C/C++ Header,cobweb/deps/gmp.js/mpn/x86/p6/sse2/gmp-mparam.h,25,18,133
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/aorrlsh2_n.asm,21,0,133
+Assembly,cobweb/deps/gmp.js/mpn/x86/k7/mod_34lsub1.asm,46,0,132
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/lshsub_n.asm,26,0,132
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/pentium4/lshift.asm,16,0,132
+Assembly,cobweb/deps/gmp.js/mpn/sparc64/rshift.asm,18,0,131
+C,cobweb/deps/gmp.js/tests/mpf/t-div.c,33,22,131
+C,cobweb/deps/gmp.js/mpn/sbpi1_divappr_q.c,37,21,130
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/copyd.asm,37,0,130
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/com.asm,40,0,130
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/aorrlsh_n.asm,31,0,130
+Assembly,cobweb/deps/gmp.js/tests/amd64call.asm,35,0,130
+C,cobweb/deps/gmp.js/tests/mpz/t-popcount.c,26,13,130
+Assembly,cobweb/deps/gmp.js/mpn/alpha/ev6/nails/addmul_3.asm,29,0,129
+C,cobweb/deps/gmp.js/mpn/generic/gcdext_subdiv_step.c,36,32,129
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/addmul_1.asm,15,0,129
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/submul_1.asm,15,0,129
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/addmul_1.asm,17,0,128
+C,cobweb/deps/gmp.js/mpn/toom_interpolate_7pts.c,40,87,128
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/mod_34lsub1.asm,37,0,128
+C,cobweb/deps/gmp.js/tests/mpq/t-aors.c,42,13,128
+Assembly,cobweb/deps/gmp.js/mpn/x86/k6/mod_34lsub1.asm,52,0,127
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/atom/aors_n.asm,18,0,127
+C,cobweb/deps/gmp.js/mpq/set_d.c,15,16,127
+Assembly,cobweb/deps/gmp.js/mpn/alpha/com.asm,39,0,126
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/aorsmul_1.asm,22,0,126
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/mul_1.asm,22,0,126
+C,cobweb/deps/gmp.js/demos/expr/exprfa.c,33,22,125
+Assembly,cobweb/deps/gmp.js/mpn/x86/mod_34lsub1.asm,47,0,125
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/core2/lshiftc.asm,13,0,125
+C,cobweb/deps/gmp.js/tests/mpn/t-sqrmod_bnm1.c,33,33,125
+C,cobweb/deps/gmp.js/tests/mpz/t-lcm.c,36,17,125
+Bourne Shell,cobweb/deps/gmp.js/ylwrap,25,72,125
+Assembly,cobweb/deps/gmp.js/mpn/x86/dive_1.asm,54,0,124
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/mod_34lsub1.asm,57,0,124
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/aorrlsh1_n.asm,26,0,124
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/aors_n.asm,21,0,124
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/core2/aorslsh1_n.asm,27,0,124
+C,cobweb/deps/gmp.js/mpz/gcd.c,20,19,124
+C,cobweb/deps/gmp.js/tests/mpq/t-inp_str.c,35,13,124
+C,cobweb/deps/gmp.js/tests/mpq/t-set_f.c,33,13,124
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/aors_n.asm,20,0,123
+C/C++ Header,cobweb/deps/gmp.js/mpn/powerpc64/mode64/p3/gmp-mparam.h,21,13,123
+C,cobweb/deps/gmp.js/mpn/toom22_mul.c,34,41,123
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/popham.asm,34,0,123
+C,cobweb/deps/gmp.js/mpn/mu_div_q.c,41,59,122
+C,cobweb/deps/gmp.js/mpn/toom44_mul.c,43,60,122
+Assembly,cobweb/deps/gmp.js/mpn/x86/k7/mode1o.asm,47,0,122
+C/C++ Header,cobweb/deps/gmp.js/mpn/pa32/hppa2_0/gmp-mparam.h,21,15,121
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium4/sse2/mod_34lsub1.asm,43,0,121
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/lshsub_n.asm,31,0,121
+C,cobweb/deps/gmp.js/tune/modlinv.c,21,25,121
+Windows Module Definition,cobweb/deps/gnucobol-2.2/cobc/flag.def,47,0,121
+C,cobweb/deps/gmp.js/gen-fac_ui.c,20,19,120
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/submul_1.asm,16,0,120
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/logops_n.asm,45,0,120
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/bdiv_q_1.asm,33,0,120
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/sublsh1_n.asm,24,0,120
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/logops_n.asm,18,0,119
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/mul_1.asm,16,0,119
+C,cobweb/deps/gmp.js/mpz/import.c,31,20,119
+C,cobweb/deps/gmp.js/tests/mpf/t-muldiv.c,27,13,119
+C,cobweb/deps/gmp.js/tests/mpz/t-powm.c,29,15,119
+C,cobweb/deps/gmp.js/tests/rand/t-urndmm.c,20,20,119
+make,cobweb/deps/gnucobol-2.2/tests/cobol85/Makefile.am,31,31,119
+C/C++ Header,cobweb/deps/gmp.js/mpn/x86/k6/gmp-mparam.h,22,15,118
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/copyi.asm,35,0,118
+C,cobweb/deps/gmp.js/tests/mpz/logic.c,25,13,118
+Bourne Shell,cobweb/deps/gnucobol-2.2/build_aux/mdate-sh,26,80,118
+C,cobweb/deps/gmp.js/mpf/add.c,22,34,117
+C,cobweb/deps/gmp.js/mpn/generic/gcd_1.c,33,29,117
+Assembly,cobweb/deps/gmp.js/mpn/x86/k6/mode1o.asm,47,0,117
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/aors_n.asm,28,0,117
+C,cobweb/deps/gmp.js/tests/mpz/t-powm_ui.c,29,15,117
+Assembly,cobweb/deps/gmp.js/mpn/x86/aorsmul_1.asm,29,0,116
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium4/sse2/mode1o.asm,47,0,116
+C,cobweb/deps/gmp.js/mpz/mul.c,18,21,116
+C,cobweb/deps/gmp.js/tests/mpz/convert.c,35,19,116
+C,cobweb/deps/gmp.js/tests/mpz/t-divis.c,36,14,116
+C,cobweb/deps/gmp.js/tests/mpz/t-root.c,34,17,116
+C/C++ Header,cobweb/deps/gmp.js/mp.h,25,24,115
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/core2/lshift.asm,13,0,115
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/invert_limb.asm,18,0,115
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/core2/rshift.asm,12,0,114
+C,cobweb/deps/gmp.js/tune/speed-ext.c,57,51,114
+C,cobweb/deps/gmp.js/mpn/generic/divis.c,35,44,113
+Assembly,cobweb/deps/gmp.js/mpn/x86/k7/mmx/copyi.asm,33,0,113
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/mode1o.asm,45,0,113
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/mul_1.asm,53,0,113
+C,cobweb/deps/gmp.js/tests/mpz/t-cong_2exp.c,37,15,113
+Bourne Shell,cobweb/deps/gnucobol-2.2/build_aux/mkinstalldirs,20,29,113
+C,cobweb/deps/gmp.js/mpz/out_raw.c,30,20,112
+C,cobweb/deps/gmp.js/tests/mpf/t-mul_ui.c,31,22,112
+C,cobweb/deps/gmp.js/mpn/powlo.c,33,20,111
+C/C++ Header,cobweb/deps/gmp.js/mpn/x86/pentium/mmx/gmp-mparam.h,25,16,111
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/dive_1.asm,33,0,111
+C,cobweb/deps/gmp.js/mpz/lucnum_ui.c,39,48,111
+C,cobweb/deps/gmp.js/tests/mpn/t-invert.c,31,19,111
+C,cobweb/deps/gmp.js/mpn/toom6_sqr.c,32,29,110
+C,cobweb/deps/gmp.js/mpz/inp_str.c,25,29,110
+C,cobweb/deps/gmp.js/tests/mpz/t-cdiv_ui.c,29,20,110
+C,cobweb/deps/gmp.js/tests/mpz/t-fdiv_ui.c,29,20,110
+C,cobweb/deps/gmp.js/tests/mpz/t-tdiv_ui.c,29,20,110
+C,cobweb/deps/gmp.js/demos/expr/exprq.c,33,17,109
+C,cobweb/deps/gmp.js/mpn/generic/addsub_n.c,21,32,109
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/mul_basecase.asm,23,0,109
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/core2/aorsmul_1.asm,20,0,109
+Assembly,cobweb/deps/gmp.js/mpn/alpha/ev6/nails/addmul_2.asm,27,0,108
+C,cobweb/deps/gmp.js/mpn/generic/divrem_2.c,29,42,108
+C/C++ Header,cobweb/deps/gmp.js/config.h,140,340,107
+C,cobweb/deps/gmp.js/mpn/mod_1_4.c,28,26,107
+C,cobweb/deps/gmp.js/mpn/perfsqr.c,42,80,107
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/v8/addmul_1.asm,13,0,107
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium4/sse2/submul_1.asm,21,0,107
+C,cobweb/deps/gmp.js/mpz/hamdist.c,31,26,107
+C/C++ Header,cobweb/deps/gmp.js/tests/mpn/toom-shared.h,27,24,107
+TeX,cobweb/deps/gnucobol-2.2/doc/cbintr.tex,1,0,107
+C/C++ Header,cobweb/deps/gmp.js/mpn/arm/gmp-mparam.h,21,15,106
+m4,cobweb/deps/gmp.js/mpn/m68k/m68k-defs.m4,34,79,106
+Assembly,cobweb/deps/gmp.js/mpn/power/submul_1.asm,14,0,106
+Assembly,cobweb/deps/gmp.js/mpn/x86/mul_1.asm,24,0,106
+C,cobweb/deps/gmp.js/tests/mpz/t-cmp.c,48,28,106
+Assembly,cobweb/deps/gmp.js/mpn/pa64/aors_n.asm,14,0,105
+C,cobweb/deps/gmp.js/tests/mpn/t-scan.c,27,14,104
+C/C++ Header,cobweb/deps/gnucobol-2.2/config.h,129,189,104
+m4,cobweb/deps/gnucobol-2.2/m4/lib-ld.m4,6,9,104
+C,cobweb/deps/gmp.js/mpf/add_ui.c,10,29,103
+Assembly,cobweb/deps/gmp.js/mpn/alpha/ev6/sqr_diagonal.asm,12,0,103
+Assembly,cobweb/deps/gmp.js/mpn/alpha/ev67/gcd_1.asm,31,0,103
+C,cobweb/deps/gmp.js/mpn/jacbase.c,27,38,103
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/750/lshift.asm,41,0,103
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/bdiv_dbm1c.asm,17,0,103
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/v8/udiv.asm,17,0,103
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/v9/add_n.asm,15,0,103
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/v9/sub_n.asm,15,0,103
+C,cobweb/deps/gmp.js/mpz/inp_raw.c,27,33,103
+C,cobweb/deps/gmp.js/mpz/pprime_p.c,19,32,103
+C,cobweb/deps/gmp.js/tests/mpf/t-eq.c,25,13,103
+C,cobweb/deps/gmp.js/tests/mpn/t-mullo.c,24,15,103
+C,cobweb/deps/gmp.js/tests/mpq/t-get_str.c,27,13,103
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/750/rshift.asm,40,0,102
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode64/dive_1.asm,16,0,102
+C++,cobweb/deps/gmp.js/tests/cxx/t-rand.cc,20,16,102
+C,cobweb/deps/gmp.js/tests/mpf/t-ui_div.c,28,22,102
+C,cobweb/deps/gmp.js/tests/mpz/t-set_d.c,24,14,102
+C,cobweb/deps/gmp.js/memory.c,20,15,101
+C,cobweb/deps/gmp.js/mpn/generic/gcd_lehmer.c,28,31,101
+C,cobweb/deps/gmp.js/mpn/mullo_n.c,42,102,101
+Assembly,cobweb/deps/gmp.js/mpn/power/addmul_1.asm,14,0,101
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/copyd.asm,34,0,101
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/core2/aors_n.asm,23,0,101
+m4,cobweb/deps/gnucobol-2.2/m4/ltsugar.m4,23,0,101
+Markdown,cobweb/deps/emsdk/docker/README.md,35,0,100
+C,cobweb/deps/gmp.js/mpn/mul_basecase.c,25,32,100
+C,cobweb/deps/gmp.js/mpn/sparc64/mode1o.c,34,52,100
+C,cobweb/deps/gmp.js/tests/mpf/t-conv.c,27,16,100
+C,cobweb/deps/gmp.js/gen-fib.c,30,16,99
+C,cobweb/deps/gmp.js/mpn/generic/dcpi1_bdiv_qr.c,40,27,99
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode64/bdiv_dbm1c.asm,17,0,99
+C,cobweb/deps/gmp.js/mpn/toom_interpolate_6pts.c,35,95,99
+Assembly,cobweb/deps/gmp.js/mpn/x86/k7/mmx/copyd.asm,34,0,99
+C,cobweb/deps/gmp.js/tests/mpz/t-fdiv.c,28,20,99
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode64/invert_limb.asm,11,0,98
+C,cobweb/deps/gmp.js/mpn/sparc64/mod_1.c,38,41,98
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/mul_2.asm,41,0,98
+C,cobweb/deps/gmp.js/tests/mpz/t-tdiv.c,28,20,98
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/mod_34lsub1.asm,37,0,97
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/mode1o.asm,19,0,97
+C/C++ Header,cobweb/deps/gmp.js/mpn/sparc64/sparc64.h,32,61,97
+C,cobweb/deps/gmp.js/mpn/toom_interpolate_8pts.c,41,54,97
+Assembly,cobweb/deps/gmp.js/mpn/x86/bdiv_dbm1c.asm,15,0,97
+Perl,cobweb/deps/gmp.js/mpn/x86/k6/cross.pl,19,55,97
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/hamdist.asm,35,0,97
+C,cobweb/deps/gmp.js/tests/mpz/t-fib_ui.c,30,29,97
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode64/mod_34lsub1.asm,23,0,96
+C,cobweb/deps/gmp.js/mpz/aorsmul.c,35,23,96
+C,cobweb/deps/gmp.js/tests/mpz/t-mul_i.c,26,13,96
+Bourne Shell,cobweb/deps/gmp.js/doc/mdate-sh,21,60,95
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/aorsmul_1.asm,38,0,95
+C,cobweb/deps/gmp.js/nextprime.c,26,36,95
+C,cobweb/deps/gmp.js/printf/snprntffuns.c,32,29,95
+C,cobweb/deps/gmp.js/tests/mpq/t-equal.c,31,18,95
+m4,cobweb/deps/gnucobol-2.2/m4/lt~obsolete.m4,4,0,95
+Assembly,cobweb/deps/gmp.js/mpn/arm/addmul_1.asm,13,0,94
+Assembly,cobweb/deps/gmp.js/mpn/arm/submul_1.asm,13,0,94
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/lshift.asm,22,0,94
+Assembly,cobweb/deps/gmp.js/mpn/x86/k6/pre_mod_1.asm,41,0,94
+C,cobweb/deps/gmp.js/tests/mpz/io.c,27,13,94
+C,cobweb/deps/gmp.js/tests/mpz/t-scan.c,25,13,94
+C,cobweb/deps/gmp.js/demos/qcn.c,41,38,93
+C,cobweb/deps/gmp.js/mpn/mod_1_3.c,27,28,93
+Assembly,cobweb/deps/gmp.js/mpn/pa64/udiv.asm,21,0,93
+C/C++ Header,cobweb/deps/gmp.js/mpn/sparc64/gmp-mparam.h,21,15,93
+C,cobweb/deps/gmp.js/mpz/cong.c,34,45,93
+C,cobweb/deps/gmp.js/demos/calc/calcread.c,28,26,92
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/popcount.asm,31,0,92
+m4,cobweb/deps/gmp.js/mpn/x86_64/x86_64-defs.m4,24,56,92
+COBOL,cobweb/deps/gnucobol-2.2/copy/screenio.cpy,4,29,92
+Assembly,cobweb/deps/gmp.js/mpn/mips32/add_n.asm,22,0,91
+Assembly,cobweb/deps/gmp.js/mpn/mips32/sub_n.asm,21,0,91
+Assembly,cobweb/deps/gmp.js/mpn/mips64/add_n.asm,21,0,91
+Assembly,cobweb/deps/gmp.js/mpn/mips64/sub_n.asm,21,0,91
+Assembly,cobweb/deps/gmp.js/mpn/pa64/lshift.asm,12,0,91
+Assembly,cobweb/deps/gmp.js/mpn/x86/k7/mmx/com.asm,23,0,91
+C,cobweb/deps/gmp.js/mpn/x86_64/fat/fat.c,33,39,91
+C,cobweb/deps/gmp.js/mpz/cfdiv_r_2exp.c,33,31,91
+C,cobweb/deps/gmp.js/tests/rand/spect.c,26,20,91
+C/C++ Header,cobweb/deps/gmp.js/demos/expr/expr-impl.h,31,14,90
+C,cobweb/deps/gmp.js/mpn/generic/udiv_w_sdiv.c,19,23,90
+C,cobweb/deps/gmp.js/mpn/mod_1_2.c,27,24,90
+Assembly,cobweb/deps/gmp.js/mpn/power/mul_1.asm,12,0,90
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/gcd_1.asm,40,0,90
+C,cobweb/deps/gmp.js/mpz/gcdext.c,18,18,90
+C,cobweb/deps/gmp.js/tests/mpz/t-hamdist.c,21,13,90
+C,cobweb/deps/gmp.js/tests/mpz/t-perfsqr.c,34,31,90
+C,cobweb/deps/gmp.js/mpn/generic/dcpi1_bdiv_q.c,32,29,89
+Assembly,cobweb/deps/gmp.js/mpn/pa32/hppa1_1/submul_1.asm,16,0,89
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/v8/mul_1.asm,12,0,89
+C,cobweb/deps/gmp.js/tests/devel/divrem.c,17,14,89
+C,cobweb/deps/gmp.js/tests/mpz/t-divis_2exp.c,30,14,89
+C,cobweb/deps/gmp.js/mpn/mode1o.c,57,80,88
+Assembly,cobweb/deps/gmp.js/mpn/pa64/rshift.asm,12,0,88
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/sqr_diagonal.asm,15,0,88
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium4/sse2/sub_n.asm,27,0,88
+C/C++ Header,cobweb/deps/gmp.js/mpz/aors.h,23,21,88
+C,cobweb/deps/gmp.js/mpz/cmp_d.c,26,20,88
+C++,cobweb/deps/gmp.js/tests/cxx/t-unary.cc,20,25,88
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/rshift.asm,20,0,87
+C,cobweb/deps/gmp.js/mpz/set_str.c,20,28,87
+Assembly,cobweb/deps/gmp.js/tests/x86call.asm,28,0,87
+C,cobweb/deps/gmp.js/mpn/generic/fib2_ui.c,37,55,86
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium4/sse2/rsh1add_n.asm,29,0,86
+C,cobweb/deps/gmp.js/mpz/fib_ui.c,25,31,86
+C++,cobweb/deps/gmp.js/cxx/ismpf.cc,25,24,85
+C,cobweb/deps/gmp.js/mpn/generic/addmul_1.c,27,17,85
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode64/mode1o.asm,19,0,85
+C,cobweb/deps/gmp.js/mpn/submul_1.c,27,17,85
+C,cobweb/deps/gmp.js/tal-debug.c,26,29,85
+C,cobweb/deps/gmp.js/tests/mpf/t-get_d_2exp.c,21,15,85
+C,cobweb/deps/gmp.js/tests/mpz/t-set_f.c,28,13,85
+C,cobweb/deps/gmp.js/mpn/toom4_sqr.c,31,38,84
+Assembly,cobweb/deps/gmp.js/mpn/vax/addmul_1.s,19,21,84
+Assembly,cobweb/deps/gmp.js/mpn/vax/submul_1.s,19,21,84
+Assembly,cobweb/deps/gmp.js/mpn/x86/k6/mmx/lshift.asm,35,0,84
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/bdiv_dbm1c.asm,15,0,84
+C,cobweb/deps/gmp.js/demos/expr/exprf.c,30,14,83
+Assembly,cobweb/deps/gmp.js/mpn/x86/k6/mmx/rshift.asm,36,0,83
+C,cobweb/deps/gmp.js/tests/mpf/t-dm2exp.c,23,13,83
+C,cobweb/deps/gmp.js/tests/mpz/t-addsub.c,25,14,83
+YAML,cobweb/deps/emsdk/.circleci/config.yml,4,7,82
+Assembly,cobweb/deps/gmp.js/mpn/pa32/hppa2_0/sqr_diagonal.asm,19,0,82
+Assembly,cobweb/deps/gmp.js/mpn/x86/k6/k62mmx/copyd.asm,25,0,82
+C/C++ Header,cobweb/deps/gmp.js/demos/expr/expr.h,27,21,81
+C,cobweb/deps/gmp.js/mpf/eq.c,32,26,81
+Assembly,cobweb/deps/gmp.js/mpn/pa32/hppa1_1/addmul_1.asm,15,0,81
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/mul_1.asm,9,0,81
+C,cobweb/deps/gmp.js/mpz/bin_ui.c,23,29,81
+C,cobweb/deps/gmp.js/tests/mpf/t-get_ui.c,30,17,81
+C,cobweb/deps/gmp.js/tests/mpn/t-divrem_1.c,20,18,81
+C,cobweb/deps/gmp.js/tests/mpq/t-cmp_si.c,24,13,81
+C,cobweb/deps/gmp.js/tests/mpz/t-get_si.c,24,17,81
+C,cobweb/deps/gmp.js/tests/t-sub.c,21,13,81
+C,cobweb/deps/gmp.js/mpn/cray/ieee/invert_limb.c,18,19,80
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode64/rsh1add_n.asm,24,0,80
+Perl,cobweb/deps/gmp.js/mpn/x86/t-zdisp2.pl,19,37,80
+C,cobweb/deps/gmp.js/randmts.c,36,41,80
+C,cobweb/deps/gmp.js/tests/mpf/t-set_q.c,28,19,80
+C++,cobweb/deps/gmp.js/cxx/isfuns.cc,13,13,79
+C,cobweb/deps/gmp.js/mpn/popcount.c,21,14,79
+C,cobweb/deps/gmp.js/mpn/pre_divrem_1.c,23,33,79
+Assembly,cobweb/deps/gmp.js/mpn/x86/rshift.asm,19,0,79
+C,cobweb/deps/gmp.js/mpz/cong_2exp.c,36,29,79
+C,cobweb/deps/gmp.js/mpz/setbit.c,13,25,79
+C,cobweb/deps/gmp.js/printf/doprnti.c,32,22,79
+Assembly,cobweb/deps/gmp.js/mpn/alpha/mul_1.asm,13,0,78
+Assembly,cobweb/deps/gmp.js/mpn/pa32/hppa2_0/add_n.asm,18,0,78
+Assembly,cobweb/deps/gmp.js/mpn/pa32/hppa2_0/sub_n.asm,18,0,78
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode64/rsh1sub_n.asm,24,0,78
+C,cobweb/deps/gmp.js/mpn/remove.c,34,31,78
+C,cobweb/deps/gmp.js/mpn/toom_interpolate_5pts.c,31,80,78
+Assembly,cobweb/deps/gmp.js/mpn/vax/mul_1.s,20,23,78
+C,cobweb/deps/gmp.js/mpf/mul_ui.c,30,64,77
+Assembly,cobweb/deps/gmp.js/mpn/alpha/ev67/hamdist.asm,23,0,77
+Assembly,cobweb/deps/gmp.js/mpn/arm/invert_limb.asm,9,0,77
+C,cobweb/deps/gmp.js/mpn/pow_1.c,23,21,77
+C,cobweb/deps/gmp.js/mpn/sparc64/dive_1.c,33,37,77
+Assembly,cobweb/deps/gmp.js/mpn/x86/lshift.asm,19,0,77
+C,cobweb/deps/gmp.js/mpz/nextprime.c,21,22,77
+Assembly,cobweb/deps/gmp.js/mpn/a29k/submul_1.s,19,19,76
+Assembly,cobweb/deps/gmp.js/mpn/alpha/addmul_1.asm,12,0,76
+Assembly,cobweb/deps/gmp.js/mpn/alpha/submul_1.asm,12,0,76
+Assembly,cobweb/deps/gmp.js/mpn/mips64/addmul_1.asm,15,0,76
+Assembly,cobweb/deps/gmp.js/mpn/mips64/submul_1.asm,15,0,76
+Assembly,cobweb/deps/gmp.js/mpn/pa32/hppa1_1/mul_1.asm,16,0,76
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/lshift.asm,18,0,76
+C,cobweb/deps/gmp.js/mpz/cdiv_qr_ui.c,17,17,76
+C,cobweb/deps/gmp.js/mpz/fdiv_qr_ui.c,17,15,76
+C,cobweb/deps/gmp.js/mpz/kronsz.c,23,28,76
+C,cobweb/deps/gmp.js/tests/mpn/t-mp_bases.c,16,13,76
+Bourne Shell,cobweb/deps/gmp.js/config.sub,21,47,75
+C,cobweb/deps/gmp.js/mpf/ui_div.c,22,20,75
+Assembly,cobweb/deps/gmp.js/mpn/arm/udiv.asm,18,0,75
+Assembly,cobweb/deps/gmp.js/mpn/mips32/addmul_1.asm,15,0,75
+Assembly,cobweb/deps/gmp.js/mpn/mips32/submul_1.asm,15,0,75
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium4/sse2/add_n.asm,23,0,75
+C,cobweb/deps/gmp.js/scanf/sscanffuns.c,21,17,75
+C,cobweb/deps/gmp.js/tests/mpf/t-add.c,20,13,75
+C,cobweb/deps/gmp.js/tests/mpf/t-cmp_si.c,19,13,75
+Windows Module Definition,cobweb/deps/gnucobol-2.2/libcob/system.def,13,0,75
+C/C++ Header,cobweb/deps/gmp.js/demos/calc/calc.h,21,31,74
+Assembly,cobweb/deps/gmp.js/mpn/a29k/addmul_1.s,18,19,74
+C,cobweb/deps/gmp.js/mpn/generic/bdiv_q_1.c,24,17,74
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium4/sse2/addlsh1_n.asm,22,0,74
+C/C++ Header,cobweb/deps/gmp.js/mpz/aors_ui.h,19,20,74
+C,cobweb/deps/gmp.js/mpz/clrbit.c,15,24,74
+C,cobweb/deps/gmp.js/mpz/get_str.c,16,25,74
+C,cobweb/deps/gmp.js/mpz/scan1.c,23,40,74
+C,cobweb/deps/gmp.js/tests/mpn/t-perfsqr.c,23,20,74
+make,cobweb/deps/gmp.js/tune/Makefile.am,31,49,74
+Assembly,cobweb/deps/gmp.js/mpn/m68k/mc68020/aorsmul_1.asm,17,0,73
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/sublsh1_n.asm,17,0,73
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/rshift.asm,18,0,73
+C,cobweb/deps/gmp.js/mpz/cmpabs_d.c,26,20,73
+Assembly,cobweb/deps/gmp.js/mpn/pa64/umul.asm,16,0,72
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/addlsh1_n.asm,17,0,72
+C,cobweb/deps/gmp.js/mpn/toom2_sqr.c,30,32,72
+C,cobweb/deps/gmp.js/mpn/toom_eval_pm2exp.c,24,21,72
+C,cobweb/deps/gmp.js/mpz/bin_uiui.c,21,30,72
+C,cobweb/deps/gmp.js/test.c,21,23,72
+C,cobweb/deps/gmp.js/tests/mpz/t-sqrtrem.c,27,18,72
+C,cobweb/deps/gmp.js/mpn/generic/dive_1.c,34,43,71
+C,cobweb/deps/gmp.js/mpn/generic/divrem.c,12,16,71
+Assembly,cobweb/deps/gmp.js/mpn/m68k/aors_n.asm,18,0,71
+Assembly,cobweb/deps/gmp.js/mpn/mips32/lshift.asm,17,0,71
+Assembly,cobweb/deps/gmp.js/mpn/mips64/lshift.asm,17,0,71
+Assembly,cobweb/deps/gmp.js/mpn/pa32/hppa1_1/pa7100/lshift.asm,14,0,71
+Assembly,cobweb/deps/gmp.js/mpn/pa32/hppa1_1/udiv.asm,20,0,71
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/diveby3.asm,11,0,71
+C,cobweb/deps/gmp.js/mpn/toom_eval_pm2.c,24,25,71
+C,cobweb/deps/gmp.js/mpz/kronuz.c,20,28,71
+C,cobweb/deps/gmp.js/tests/mpf/t-sqrt_ui.c,20,22,71
+C,cobweb/deps/gmp.js/tests/spinner.c,34,24,71
+lex,cobweb/deps/gmp.js/demos/calc/calclex.l,27,16,70
+Assembly,cobweb/deps/gmp.js/mpn/s390/addmul_1.asm,12,0,70
+Assembly,cobweb/deps/gmp.js/mpn/s390/submul_1.asm,12,0,70
+Assembly,cobweb/deps/gmp.js/mpn/x86/copyi.asm,18,0,70
+Assembly,cobweb/deps/gmp.js/mpn/x86/k6/mmx/com.asm,22,0,70
+C,cobweb/deps/gmp.js/tal-notreent.c,23,26,70
+C,cobweb/deps/gmp.js/tests/mpf/t-get_d.c,20,16,70
+Assembly,cobweb/deps/gmp.js/mpn/a29k/add_n.s,20,29,69
+Assembly,cobweb/deps/gmp.js/mpn/a29k/sub_n.s,20,29,69
+Assembly,cobweb/deps/gmp.js/mpn/alpha/ev67/popcount.asm,21,0,69
+C,cobweb/deps/gmp.js/mpq/cmp.c,23,23,69
+C,cobweb/deps/gmp.js/tests/mpq/t-cmp_ui.c,26,13,69
+C,cobweb/deps/gmp.js/tests/mpz/t-cmp_si.c,20,13,69
+make,cobweb/deps/gnucobol-2.2/Makefile.am,12,36,69
+make,cobweb/deps/gnucobol-2.2/tests/Makefile.am,14,21,69
+C,cobweb/deps/gmp.js/mpf/ceilfloor.c,23,24,68
+C,cobweb/deps/gmp.js/mpf/set_q.c,32,44,68
+C,cobweb/deps/gmp.js/mpn/cray/ieee/mul_basecase.c,13,16,68
+Assembly,cobweb/deps/gmp.js/mpn/m68k/mc68020/mul_1.asm,18,0,68
+Assembly,cobweb/deps/gmp.js/mpn/mips32/rshift.asm,17,0,68
+Assembly,cobweb/deps/gmp.js/mpn/mips64/rshift.asm,17,0,68
+Assembly,cobweb/deps/gmp.js/mpn/pa32/hppa1_1/pa7100/rshift.asm,14,0,68
+C,cobweb/deps/gmp.js/mpz/out_str.c,19,18,68
+C,cobweb/deps/gmp.js/tests/mpq/t-cmp.c,24,13,68
+TeX,cobweb/deps/gnucobol-2.2/doc/cbmnem.tex,1,0,68
+COBOL,cobweb/example/hello.cob,1,0,68
+C,cobweb/deps/gmp.js/mpf/cmp.c,17,22,67
+C,cobweb/deps/gmp.js/mpf/div.c,27,32,67
+Assembly,cobweb/deps/gmp.js/mpn/alpha/copyd.asm,10,0,67
+Assembly,cobweb/deps/gmp.js/mpn/arm/mul_1.asm,11,0,67
+C,cobweb/deps/gmp.js/mpn/cray/ieee/sqr_basecase.c,13,15,67
+Assembly,cobweb/deps/gmp.js/mpn/mips64/mul_1.asm,15,0,67
+C,cobweb/deps/gmp.js/mpq/md_2exp.c,17,19,67
+C,cobweb/deps/gmp.js/mpz/cdiv_r_ui.c,16,17,67
+C,cobweb/deps/gmp.js/mpz/fdiv_r_ui.c,16,15,67
+C,cobweb/deps/gmp.js/mpz/set_d.c,19,21,67
+C,cobweb/deps/gmp.js/tests/mpq/t-set_str.c,23,13,67
+C,cobweb/deps/gmp.js/mpf/div_ui.c,18,15,66
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode32/sub_n.asm,11,0,66
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode64/sublsh1_n.asm,17,0,66
+Assembly,cobweb/deps/gmp.js/mpn/sparc64/copyd.asm,9,0,66
+C,cobweb/deps/gmp.js/tests/mpz/dive.c,22,13,66
+C,cobweb/deps/gmp.js/tests/mpz/t-set_si.c,18,13,66
+m4,cobweb/deps/gnucobol-2.2/m4/progtest.m4,6,19,66
+Perl,cobweb/deps/gmp.js/demos/perl/GMP.pm,172,412,65
+Assembly,cobweb/deps/gmp.js/mpn/alpha/copyi.asm,10,0,65
+Assembly,cobweb/deps/gmp.js/mpn/ia64/invert_limb.asm,14,13,65
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode64/addlsh1_n.asm,17,0,65
+C,cobweb/deps/gmp.js/mpz/tdiv_qr.c,18,23,65
+C,cobweb/deps/gmp.js/tests/devel/tst-addsub.c,21,12,65
+C,cobweb/deps/gmp.js/tests/mpz/t-pprime_p.c,27,21,65
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode32/add_n.asm,11,0,64
+C,cobweb/deps/gmp.js/mpn/redc_2.c,16,18,64
+C/C++ Header,cobweb/deps/gmp.js/mpn/sparc32/v9/gmp-mparam.h,20,14,64
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/com.asm,13,0,64
+C,cobweb/deps/gmp.js/mpz/cfdiv_q_2exp.c,18,20,64
+C,cobweb/deps/gmp.js/tests/amd64check.c,23,19,64
+C,cobweb/deps/gmp.js/tests/mpf/t-cmp_d.c,22,18,64
+Windows Module Definition,cobweb/deps/gnucobol-2.2/cobc/warning.def,30,0,64
+C,cobweb/deps/gmp.js/demos/expr/exprza.c,18,16,63
+Assembly,cobweb/deps/gmp.js/mpn/ia64/sqr_diagonal.asm,10,6,63
+Assembly,cobweb/deps/gmp.js/mpn/mips32/mul_1.asm,15,0,63
+Assembly,cobweb/deps/gmp.js/mpn/sparc64/copyi.asm,9,0,63
+C,cobweb/deps/gmp.js/mpn/sqr.c,8,17,63
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium4/copyi.asm,20,0,63
+C,cobweb/deps/gmp.js/tests/mpf/t-set_si.c,15,13,63
+C,cobweb/deps/gmp.js/mpf/cmp_si.c,18,27,62
+C,cobweb/deps/gmp.js/mpn/cray/ieee/addmul_1.c,12,27,62
+C,cobweb/deps/gmp.js/mpn/cray/ieee/submul_1.c,12,27,62
+Assembly,cobweb/deps/gmp.js/mpn/m88k/sub_n.s,18,24,62
+Assembly,cobweb/deps/gmp.js/mpn/power/sub_n.asm,13,0,62
+m4,cobweb/deps/gmp.js/mpn/powerpc64/darwin.m4,17,25,62
+Assembly,cobweb/deps/gmp.js/mpn/s390/mul_1.asm,12,0,62
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/copyd.asm,13,0,62
+C,cobweb/deps/gmp.js/mpq/aors.c,20,20,62
+C,cobweb/deps/gmp.js/mpz/millerrabin.c,24,26,62
+C,cobweb/deps/gmp.js/tests/mpf/t-set_ui.c,15,13,62
+TeX,cobweb/deps/gnucobol-2.2/doc/cbsyst.tex,3,0,62
+Perl,cobweb/deps/gmp.js/demos/perl/GMP/Mpf.pm,12,22,61
+C,cobweb/deps/gmp.js/mpbsd/mout.c,14,17,61
+Assembly,cobweb/deps/gmp.js/mpn/arm/sub_n.asm,10,0,61
+C,cobweb/deps/gmp.js/mpn/mul_n.c,8,17,61
+Assembly,cobweb/deps/gmp.js/mpn/pa32/hppa1_1/pa7100/sub_n.asm,13,0,61
+Assembly,cobweb/deps/gmp.js/mpn/x86/copyd.asm,19,0,61
+C,cobweb/deps/gmp.js/mpz/cdiv_ui.c,14,17,61
+C,cobweb/deps/gmp.js/mpz/fdiv_ui.c,14,15,61
+C,cobweb/deps/gmp.js/mpz/scan0.c,21,37,61
+C,cobweb/deps/gmp.js/mpz/sqrtrem.c,17,23,61
+C,cobweb/deps/gmp.js/mpz/tdiv_qr_ui.c,15,18,61
+C,cobweb/deps/gmp.js/tests/mpz/t-set_str.c,21,13,61
+C++,cobweb/deps/gmp.js/cxx/osfuns.cc,25,28,60
+Assembly,cobweb/deps/gmp.js/mpn/a29k/mul_1.s,16,19,60
+C,cobweb/deps/gmp.js/mpn/generic/diveby3.c,44,59,60
+C,cobweb/deps/gmp.js/mpn/generic/dump.c,14,15,60
+Assembly,cobweb/deps/gmp.js/mpn/m88k/add_n.s,18,24,60
+Assembly,cobweb/deps/gmp.js/mpn/pa32/hppa1_1/pa7100/add_n.asm,13,0,60
+Assembly,cobweb/deps/gmp.js/mpn/power/add_n.asm,13,0,60
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/copyi.asm,13,0,60
+C,cobweb/deps/gmp.js/mpq/get_d.c,34,71,60
+C,cobweb/deps/gmp.js/mpq/set_f.c,20,19,60
+C/C++ Header,cobweb/deps/gmp.js/mpz/mul_i.h,19,17,60
+C,cobweb/deps/gmp.js/mpz/ui_sub.c,12,13,60
+Perl,cobweb/deps/gmp.js/demos/perl/GMP/Mpz.pm,10,21,59
+C,cobweb/deps/gmp.js/mpf/mul.c,13,13,59
+Assembly,cobweb/deps/gmp.js/mpn/arm/add_n.asm,10,0,59
+C/C++ Header,cobweb/deps/gmp.js/mpn/minithres/gmp-mparam.h,20,16,59
+C,cobweb/deps/gmp.js/mpz/cdiv_q_ui.c,17,16,59
+C,cobweb/deps/gmp.js/mpz/fdiv_q_ui.c,17,15,59
+C,cobweb/deps/gmp.js/tests/mpz/t-lucnum_ui.c,20,18,59
+make,cobweb/deps/gmp.js/tests/rand/Makefile.am,13,17,59
+C,cobweb/deps/gmp.js/tests/x86check.c,19,18,59
+Assembly,cobweb/deps/gmp.js/mpn/m88k/mul_1.s,22,45,58
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/com.asm,16,0,58
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode32/submul_1.asm,13,0,58
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/umul.asm,8,0,58
+C,cobweb/deps/gmp.js/mpz/cong_ui.c,24,23,58
+C,cobweb/deps/gmp.js/mpz/divegcd.c,24,28,58
+C,cobweb/deps/gmp.js/mpz/tdiv_r_ui.c,14,17,58
+C,cobweb/deps/gmp.js/tests/t-count_zeros.c,16,13,58
+C,cobweb/deps/gmp.js/mpf/out_str.c,25,23,57
+C,cobweb/deps/gmp.js/mpn/fib_table.c,3,1,57
+C,cobweb/deps/gmp.js/mpn/generic/gcd_subdiv_step.c,18,29,57
+C,cobweb/deps/gmp.js/mpn/sbpi1_div_qr.c,23,19,57
+C,cobweb/deps/gmp.js/mpn/toom_eval_pm2rexp.c,15,19,57
+C,cobweb/deps/gmp.js/tests/mpz/t-oddeven.c,18,13,57
+Perl,cobweb/deps/gnucobol-2.2/tests/cobol85/summary.pl,6,20,57
+C,cobweb/deps/gmp.js/mpbsd/min.c,18,15,56
+C,cobweb/deps/gmp.js/mpf/div_2exp.c,21,52,56
+C,cobweb/deps/gmp.js/mpf/mul_2exp.c,21,46,56
+make,cobweb/deps/gmp.js/mpn/Makefile.am,13,26,56
+C,cobweb/deps/gmp.js/mpn/cray/ieee/mul_1.c,12,25,56
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode32/addmul_1.asm,12,0,56
+C,cobweb/deps/gmp.js/mpz/urandomm.c,18,20,56
+C,cobweb/deps/gmp.js/tests/mpbsd/t-mtox.c,17,13,56
+C,cobweb/deps/gmp.js/mpbsd/xtom.c,17,16,55
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/copyd.asm,15,0,55
+C,cobweb/deps/gmp.js/mpz/remove.c,18,19,55
+C,cobweb/deps/gmp.js/printf/vasprintf.c,24,34,55
+C,cobweb/deps/gmp.js/demos/expr/exprqa.c,18,17,54
+m4,cobweb/deps/gmp.js/mpn/alpha/unicos.m4,27,38,54
+Assembly,cobweb/deps/gmp.js/mpn/mips64/sqr_diagonal.asm,12,0,54
+C,cobweb/deps/gmp.js/mpq/div.c,26,22,54
+C,cobweb/deps/gmp.js/mpz/tdiv_r.c,17,18,54
+C,cobweb/deps/gmp.js/tests/mpz/dive_ui.c,20,13,54
+C,cobweb/deps/gmp.js/tests/t-modlinv.c,16,14,54
+COBOL,cobweb/deps/gnucobol-2.2/copy/sqlda.cpy,2,1,54
+Assembly,cobweb/deps/gmp.js/mpn/alpha/sqr_diagonal.asm,12,0,53
+Bourne Shell,cobweb/deps/gmp.js/mpn/cpp-ccas,12,42,53
+C,cobweb/deps/gmp.js/mpn/mod_34lsub1.c,31,36,53
+C,cobweb/deps/gmp.js/mpn/sbpi1_bdiv_qr.c,28,27,53
+C,cobweb/deps/gmp.js/mpq/cmp_ui.c,16,21,53
+C,cobweb/deps/gmp.js/mpz/rootrem.c,19,18,53
+C,cobweb/deps/gmp.js/mpf/inp_str.c,15,15,52
+C,cobweb/deps/gmp.js/mpn/mod_1_1.c,24,23,52
+Assembly,cobweb/deps/gmp.js/mpn/pa32/lshift.asm,12,0,52
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/750/com.asm,16,0,52
+C,cobweb/deps/gmp.js/mpn/trialdiv.c,23,35,52
+C,cobweb/deps/gmp.js/tests/mpf/t-int_p.c,19,13,52
+C,cobweb/deps/gmp.js/mpf/cmp_ui.c,17,21,51
+m4,cobweb/deps/gmp.js/mpn/alpha/default.m4,24,39,51
+C,cobweb/deps/gmp.js/mpn/alpha/dive_1.c,23,30,51
+m4,cobweb/deps/gmp.js/mpn/powerpc64/elf.m4,16,20,51
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode64/submul_1.asm,11,0,51
+C,cobweb/deps/gmp.js/mpn/random2.c,23,22,51
+C,cobweb/deps/gmp.js/mpz/lcm.c,18,13,51
+C,cobweb/deps/gmp.js/mpz/rrandomb.c,21,19,51
+C,cobweb/deps/gmp.js/mpz/tdiv_q.c,15,17,51
+C,cobweb/deps/gmp.js/printf/sprintffuns.c,18,22,51
+C,cobweb/deps/gmp.js/tests/rand/t-mt.c,16,16,51
+Assembly,cobweb/deps/gmp.js/mpn/a29k/lshift.s,19,22,50
+C,cobweb/deps/gmp.js/mpn/generic/binvert.c,20,29,50
+Bourne Shell,cobweb/deps/gmp.js/mpn/m4-ccas,11,35,50
+C,cobweb/deps/gmp.js/mpn/mul_1.c,22,15,50
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/copyi.asm,14,0,50
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/mode32/mul_1.asm,12,0,50
+C,cobweb/deps/gmp.js/mpz/sqrt.c,15,19,50
+Markdown,cobweb/README.md,17,0,49
+C,cobweb/deps/gmp.js/mpn/invert.c,16,22,49
+Assembly,cobweb/deps/gmp.js/mpn/pa32/rshift.asm,12,0,49
+C,cobweb/deps/gmp.js/mpn/subcnd_n.c,20,16,49
+C,cobweb/deps/gmp.js/mpq/mul.c,23,21,49
+C,cobweb/deps/gmp.js/mpz/powm_sec.c,24,17,49
+C,cobweb/deps/gmp.js/mpn/toom_eval_dgr3_pm2.c,20,19,48
+C,cobweb/deps/gmp.js/mpz/combit.c,16,16,48
+C,cobweb/deps/gmp.js/mpz/gcd_ui.c,11,16,48
+Assembly,cobweb/deps/gmp.js/mpn/arm/copyd.asm,11,0,47
+C,cobweb/deps/gmp.js/mpn/generic/add_n.c,19,14,47
+m4,cobweb/deps/gmp.js/mpn/ia64/ia64-defs.m4,20,57,47
+m4,cobweb/deps/gmp.js/mpn/powerpc32/elf.m4,15,23,47
+m4,cobweb/deps/gmp.js/mpn/powerpc64/aix.m4,16,21,47
+C,cobweb/deps/gmp.js/mpn/sub_n.c,19,14,47
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium4/copyd.asm,14,0,47
+C,cobweb/deps/gmp.js/tests/mpz/t-sizeinbase.c,19,24,47
+Perl,cobweb/deps/gnucobol-2.2/tests/cobol85/expand.pl,2,20,47
+Perl,cobweb/deps/gmp.js/demos/perl/GMP/Mpq.pm,11,21,46
+Assembly,cobweb/deps/gmp.js/mpn/a29k/rshift.s,19,22,46
+C,cobweb/deps/gmp.js/mpn/cray/add_n.c,10,24,46
+C,cobweb/deps/gmp.js/mpn/cray/sub_n.c,10,24,46
+Assembly,cobweb/deps/gmp.js/mpn/sparc64/submul_1.asm,11,0,46
+C,cobweb/deps/gmp.js/mpz/kronzs.c,19,17,46
+C,cobweb/deps/gmp.js/mpz/kronzu.c,17,15,46
+C,cobweb/deps/gmp.js/mpz/root.c,18,18,46
+C,cobweb/deps/gmp.js/mpz/tdiv_ui.c,14,14,46
+C,cobweb/deps/gmp.js/mpz/tdiv_q_ui.c,14,15,45
+C,cobweb/deps/gmp.js/randlc2s.c,14,23,45
+diff,cobweb/deps/02-common.c.patch,3,11,44
+C,cobweb/deps/gmp.js/mpf/sqrt.c,21,37,44
+Assembly,cobweb/deps/gmp.js/mpn/pyr/add_n.s,16,14,44
+Assembly,cobweb/deps/gmp.js/mpn/pyr/sub_n.s,16,14,44
+C,cobweb/deps/gmp.js/mpz/lucnum2_ui.c,19,18,44
+C,cobweb/deps/gmp.js/tests/mpbsd/t-itom.c,17,13,44
+C,cobweb/deps/gmp.js/tests/rand/t-urmui.c,17,14,44
+C,cobweb/deps/gmp.js/demos/isprime.c,13,12,43
+Assembly,cobweb/deps/gmp.js/mpn/arm/copyi.asm,10,0,43
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/sqr_diagonal.asm,12,0,43
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/v8/submul_1.asm,13,0,43
+C,cobweb/deps/gmp.js/mpz/com.c,18,23,43
+C,cobweb/deps/gmp.js/tests/mpz/t-get_d.c,17,14,43
+C,cobweb/deps/gmp.js/mpz/divexact.c,21,18,42
+C,cobweb/deps/gmp.js/tests/t-bswap.c,16,13,42
+C/C++ Header,cobweb/deps/gmp.js/mpn/alpha/gmp-mparam.h,18,16,41
+Perl,cobweb/deps/gmp.js/mpn/m68k/t-m68k-defs.pl,13,26,41
+Assembly,cobweb/deps/gmp.js/mpn/pa32/sub_n.asm,12,0,41
+Assembly,cobweb/deps/gmp.js/mpn/power/lshift.asm,9,0,41
+m4,cobweb/deps/gmp.js/mpn/powerpc32/darwin.m4,16,21,41
+C,cobweb/deps/gmp.js/mpz/lcm_ui.c,13,14,41
+Assembly,cobweb/deps/gmp.js/tune/pentium.asm,8,0,41
+Assembly,cobweb/deps/gmp.js/mpn/pa32/add_n.asm,12,0,40
+C,cobweb/deps/gmp.js/mpz/tdiv_r_2exp.c,14,16,40
+C,cobweb/deps/gmp.js/printf/printffuns.c,17,19,40
+C,cobweb/deps/gmp.js/rand.c,11,13,40
+C,cobweb/deps/gmp.js/tests/t-parity.c,14,13,40
+Assembly,cobweb/deps/gmp.js/tune/alpha.asm,8,0,40
+m4,cobweb/deps/gnucobol-2.2/m4/intlmacosx.m4,1,15,40
+C,cobweb/deps/gmp.js/mpn/generic/bdiv_qr.c,14,20,39
+Assembly,cobweb/deps/gmp.js/mpn/power/rshift.asm,9,0,39
+C/C++ Header,cobweb/deps/gmp.js/mpn/powerpc64/mode64/gmp-mparam.h,17,15,39
+C,cobweb/deps/gmp.js/mpn/xor_n.c,15,13,39
+C,cobweb/deps/gmp.js/mpz/cmp_ui.c,14,15,39
+C,cobweb/deps/gmp.js/mpz/mul_2exp.c,13,15,39
+C/C++ Header,cobweb/deps/gmp.js/tests/rand/gmpstat.h,17,19,39
+C,cobweb/deps/gmp.js/tests/rand/t-iset.c,14,15,39
+C,cobweb/deps/gmp.js/tests/t-gmpmax.c,14,20,39
+C,cobweb/deps/gmp.js/mpn/generic/dcpi1_div_q.c,20,18,38
+Assembly,cobweb/deps/gmp.js/mpn/pa32/hppa1_1/sqr_diagonal.asm,11,0,38
+m4,cobweb/deps/gmp.js/mpn/powerpc32/aix.m4,12,21,38
+m4,cobweb/deps/gmp.js/mpn/powerpc32/eabi.m4,13,24,38
+C,cobweb/deps/gmp.js/mpn/toom_eval_pm1.c,21,20,38
+C,cobweb/deps/gmp.js/mpz/cmpabs_ui.c,14,15,38
+C,cobweb/deps/gmp.js/tests/t-popc.c,15,13,38
+C,cobweb/cobweb.c,5,2,37
+C/C++ Header,cobweb/deps/gmp.js/mpn/perfsqr.h,6,7,37
+Assembly,cobweb/deps/gmp.js/mpn/z8000/mul_1.s,10,19,37
+C,cobweb/deps/gmp.js/mpq/inp_str.c,15,13,37
+C,cobweb/deps/gmp.js/printf/asprntffuns.c,15,16,37
+C,cobweb/deps/gmp.js/printf/obprintf.c,16,13,37
+C,cobweb/deps/gmp.js/tests/mpz/t-fac_ui.c,21,19,37
+DOS Batch,cobweb/deps/emsdk/emsdk.bat,10,5,36
+C,cobweb/deps/gmp.js/mp_dv_tab.c,11,21,36
+C/C++ Header,cobweb/deps/gmp.js/mpf/fits_s.h,14,14,36
+C,cobweb/deps/gmp.js/mpf/sqrt_ui.c,24,38,36
+Assembly,cobweb/deps/gmp.js/mpn/alpha/cntlz.asm,8,0,36
+C/C++ Header,cobweb/deps/gmp.js/mpn/cray/gmp-mparam.h,17,16,36
+C,cobweb/deps/gmp.js/mpn/sbpi1_bdiv_q.c,22,29,36
+C,cobweb/deps/gmp.js/mpn/toom_couple_handling.c,11,23,36
+C,cobweb/deps/gmp.js/mpq/get_str.c,13,16,36
+C,cobweb/deps/gmp.js/mpq/inv.c,15,16,36
+C,cobweb/deps/gmp.js/mpz/cmp_si.c,14,16,36
+C,cobweb/deps/gmp.js/mpz/divis_ui.c,17,17,36
+C,cobweb/deps/gmp.js/mpz/invert.c,14,20,36
+C,cobweb/deps/gmp.js/printf/snprintf.c,15,13,36
+C,cobweb/deps/gmp.js/printf/sprintf.c,15,13,36
+C,cobweb/deps/gmp.js/scanf/sscanf.c,12,14,36
+C,cobweb/deps/gmp.js/tests/mpf/t-gsprec.c,13,13,36
+C,cobweb/deps/gmp.js/tests/rand/t-urbui.c,12,17,36
+Assembly,cobweb/deps/gmp.js/tune/x86_64.asm,8,0,36
+C/C++ Header,cobweb/deps/gmp.js/mpf/fits_u.h,14,14,35
+m4,cobweb/deps/gmp.js/mpn/alpha/alpha-defs.m4,16,45,35
+C,cobweb/deps/gmp.js/mpn/generic/bdiv_q.c,13,18,35
+Assembly,cobweb/deps/gmp.js/mpn/x86/udiv.asm,6,0,35
+Perl,cobweb/deps/gmp.js/demos/perl/Makefile.PL,12,25,34
+Assembly,cobweb/deps/gmp.js/mpn/powerpc64/umul.asm,8,0,34
+Assembly,cobweb/deps/gmp.js/mpn/x86/umul.asm,6,0,34
+make,cobweb/deps/gmp.js/mpz/Makefile.am,5,21,34
+C,cobweb/deps/gmp.js/randmui.c,17,24,34
+C,cobweb/deps/gmp.js/tests/mpz/t-gcd_ui.c,14,15,34
+C,cobweb/deps/gmp.js/mpbsd/sdiv.c,15,19,33
+C,cobweb/deps/gmp.js/mpq/swap.c,14,13,33
+C,cobweb/deps/gmp.js/mpz/set_f.c,13,16,33
+C,cobweb/deps/gmp.js/mpz/tdiv_q_2exp.c,12,14,33
+C,cobweb/deps/gmp.js/tests/mpbsd/allfuns.c,9,14,33
+Assembly,cobweb/deps/gmp.js/tune/powerpc.asm,9,0,33
+C++,cobweb/deps/gmp.js/cxx/ismpznw.cc,15,15,32
+C,cobweb/deps/gmp.js/mpbsd/mtox.c,14,15,32
+C,cobweb/deps/gmp.js/mpf/clears.c,11,13,32
+C,cobweb/deps/gmp.js/mpf/inits.c,11,13,32
+make,cobweb/deps/gmp.js/mpn/Makeasm.am,14,62,32
+C/C++ Header,cobweb/deps/gmp.js/mpn/alpha/ev6/nails/gmp-mparam.h,15,15,32
+C/C++ Header,cobweb/deps/gmp.js/mpn/cray/ieee/gmp-mparam.h,15,15,32
+C/C++ Header,cobweb/deps/gmp.js/mpn/m68k/gmp-mparam.h,18,15,32
+C/C++ Header,cobweb/deps/gmp.js/mpn/pa32/hppa1_1/gmp-mparam.h,15,15,32
+C/C++ Header,cobweb/deps/gmp.js/mpn/sparc32/v8/gmp-mparam.h,16,15,32
+C/C++ Header,cobweb/deps/gmp.js/mpn/sparc32/v8/supersparc/gmp-mparam.h,16,15,32
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/v9/udiv.asm,9,0,32
+C,cobweb/deps/gmp.js/mpq/clears.c,11,13,32
+C,cobweb/deps/gmp.js/mpq/inits.c,11,13,32
+C,cobweb/deps/gmp.js/mpz/clears.c,11,13,32
+C,cobweb/deps/gmp.js/mpz/dive_ui.c,12,15,32
+C,cobweb/deps/gmp.js/mpz/inits.c,11,13,32
+C,cobweb/deps/gmp.js/mpz/realloc.c,12,17,32
+C,cobweb/deps/gmp.js/printf/fprintf.c,13,13,32
+C,cobweb/deps/gmp.js/printf/obprntffuns.c,17,17,32
+C,cobweb/deps/gmp.js/scanf/fscanf.c,12,13,32
+Windows Module Definition,cobweb/deps/gnucobol-2.2/cobc/ppparse.def,7,0,32
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/umul.asm,8,0,31
+C,cobweb/deps/gmp.js/printf/asprintf.c,12,13,31
+C,cobweb/deps/gmp.js/mpf/trunc.c,15,19,30
+C/C++ Header,cobweb/deps/gmp.js/mpn/mips32/gmp-mparam.h,17,15,30
+C/C++ Header,cobweb/deps/gmp.js/mpn/mips64/gmp-mparam.h,17,15,30
+C/C++ Header,cobweb/deps/gmp.js/mpn/power/gmp-mparam.h,14,14,30
+Assembly,cobweb/deps/gmp.js/mpn/vax/add_n.s,10,19,30
+Assembly,cobweb/deps/gmp.js/mpn/vax/sub_n.s,10,19,30
+C,cobweb/deps/gmp.js/mpq/equal.c,13,15,30
+C,cobweb/deps/gmp.js/printf/printf.c,13,13,30
+C,cobweb/deps/gmp.js/scanf/scanf.c,12,13,30
+C++,cobweb/deps/gmp.js/cxx/ismpq.cc,12,15,29
+C++,cobweb/deps/gmp.js/cxx/osmpf.cc,15,16,29
+Perl,cobweb/deps/gmp.js/demos/perl/test2.pl,12,23,29
+C,cobweb/deps/gmp.js/mpf/urandomb.c,12,17,29
+Assembly,cobweb/deps/gmp.js/mpn/m68k/mc68020/udiv.asm,5,0,29
+Assembly,cobweb/deps/gmp.js/mpn/m88k/mc88110/addmul_1.s,11,19,29
+Assembly,cobweb/deps/gmp.js/mpn/pa32/hppa1_1/umul.asm,7,0,29
+C/C++ Header,cobweb/deps/gmp.js/mpn/x86/pentium/gmp-mparam.h,20,17,29
+C,cobweb/deps/gmp.js/mpz/tstbit.c,15,26,29
+Assembly,cobweb/deps/gmp.js/tune/hppa2.asm,4,0,29
+Assembly,cobweb/deps/gmp.js/tune/hppa2w.asm,4,0,29
+Assembly,cobweb/deps/gmp.js/tune/ia64.asm,5,2,29
+Assembly,cobweb/deps/gmp.js/tune/powerpc64.asm,9,0,29
+Assembly,cobweb/deps/gmp.js/tune/sparcv9.asm,5,0,29
+HTML,cobweb/example/index.html,4,0,29
+C,cobweb/deps/gmp.js/mpn/lshift.c,14,21,28
+C,cobweb/deps/gmp.js/mpn/lshiftc.c,14,21,28
+Assembly,cobweb/deps/gmp.js/mpn/m68k/mc68020/umul.asm,5,0,28
+m4,cobweb/deps/gmp.js/mpn/powerpc32/powerpc-defs.m4,14,51,28
+C/C++ Header,cobweb/deps/gmp.js/mpn/sparc32/gmp-mparam.h,14,15,28
+C,cobweb/deps/gmp.js/mpn/toom_eval_dgr3_pm1.c,17,17,28
+C,cobweb/deps/gmp.js/mpq/cmp_si.c,11,17,28
+C,cobweb/deps/gmp.js/mpq/set_si.c,11,15,28
+C,cobweb/deps/gmp.js/mpq/set_str.c,14,16,28
+C/C++ Header,cobweb/deps/gmp.js/mpz/fits_s.h,9,13,28
+C,cobweb/deps/gmp.js/mpz/mod.c,12,17,28
+C,cobweb/deps/gmp.js/tal-reent.c,18,25,28
+make,cobweb/Makefile,5,0,27
+C,cobweb/deps/gmp.js/mpf/get_si.c,21,28,27
+C,cobweb/deps/gmp.js/mpf/neg.c,11,13,27
+C,cobweb/deps/gmp.js/mpn/nussbaumer_mul.c,14,19,27
+C,cobweb/deps/gmp.js/scanf/vsscanf.c,12,17,27
+make,cobweb/deps/gmp.js/tests/cxx/Makefile.am,8,33,27
+C,cobweb/deps/gmp.js/tests/cxx/clocale.c,15,18,27
+C++,cobweb/deps/gmp.js/tests/cxx/t-cast.cc,13,17,27
+C,cobweb/deps/gmp.js/tests/mpf/t-set.c,10,15,27
+Assembly,cobweb/deps/gmp.js/tune/hppa.asm,4,0,27
+PowerShell,cobweb/deps/emsdk/emsdk.ps1,7,6,26
+C,cobweb/deps/gmp.js/mpf/swap.c,11,13,26
+Assembly,cobweb/deps/gmp.js/mpn/mips32/umul.asm,8,0,26
+Assembly,cobweb/deps/gmp.js/mpn/mips64/umul.asm,8,0,26
+Assembly,cobweb/deps/gmp.js/mpn/power/umul.asm,6,0,26
+C,cobweb/deps/gmp.js/mpn/rshift.c,13,21,26
+C/C++ Header,cobweb/deps/gmp.js/mpn/x86/i486/gmp-mparam.h,17,15,26
+C/C++ Header,cobweb/deps/gmp.js/mpn/x86/p6/gmp-mparam.h,20,20,26
+C,cobweb/deps/gmp.js/mpq/set_ui.c,9,15,26
+C,cobweb/deps/gmp.js/mpz/cmp.c,9,14,26
+make,cobweb/deps/gnucobol-2.2/doc/Makefile.am,8,20,26
+C,cobweb/deps/gmp.js/mpbsd/itom.c,9,13,25
+C,cobweb/deps/gmp.js/mpf/get_d_2exp.c,12,13,25
+C,cobweb/deps/gmp.js/mpf/get_ui.c,25,41,25
+C,cobweb/deps/gmp.js/mpf/iset.c,13,13,25
+C,cobweb/deps/gmp.js/mpf/random2.c,14,17,25
+C,cobweb/deps/gmp.js/mpf/reldiff.c,13,16,25
+C/C++ Header,cobweb/deps/gmp.js/mpn/pa32/gmp-mparam.h,12,16,25
+Assembly,cobweb/deps/gmp.js/mpn/vax/lshift.s,11,20,25
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/p3mmx/popham.asm,6,0,25
+C,cobweb/deps/gmp.js/mpq/canonicalize.c,12,16,25
+C,cobweb/deps/gmp.js/mpz/cdiv_qr.c,12,17,25
+C,cobweb/deps/gmp.js/mpz/fdiv_qr.c,12,17,25
+C,cobweb/deps/gmp.js/mpz/init2.c,11,14,25
+C++,cobweb/deps/gmp.js/cxx/ismpz.cc,13,15,24
+C,cobweb/deps/gmp.js/mpf/abs.c,11,13,24
+C,cobweb/deps/gmp.js/mpf/set_d.c,12,14,24
+C,cobweb/deps/gmp.js/mpf/set_prc.c,14,20,24
+Assembly,cobweb/deps/gmp.js/mpn/alpha/umul.asm,9,0,24
+Assembly,cobweb/deps/gmp.js/mpn/clipper/add_n.s,8,14,24
+Assembly,cobweb/deps/gmp.js/mpn/clipper/sub_n.s,8,14,24
+C,cobweb/deps/gmp.js/mpn/cray/lshift.c,10,14,24
+Fortran 77,cobweb/deps/gmp.js/mpn/cray/mulww.f,12,16,24
+C,cobweb/deps/gmp.js/mpn/cray/rshift.c,10,14,24
+Assembly,cobweb/deps/gmp.js/mpn/m88k/mc88110/mul_1.s,12,21,24
+m4,cobweb/deps/gmp.js/mpn/mips32/mips-defs.m4,15,30,24
+m4,cobweb/deps/gmp.js/mpn/mips32/mips.m4,15,30,24
+C,cobweb/deps/gmp.js/mpn/redc_n.c,19,23,24
+C,cobweb/deps/gmp.js/mpz/set.c,16,13,24
+C,cobweb/deps/gmp.js/mpz/ui_pow_ui.c,8,16,24
+COBOL,cobweb/deps/gnucobol-2.2/copy/sqlca.cpy,0,0,24
+Assembly,cobweb/deps/gmp.js/mpn/clipper/mul_1.s,8,14,23
+C,cobweb/deps/gmp.js/mpn/generic/sizeinbase.c,14,21,23
+Assembly,cobweb/deps/gmp.js/mpn/ns32k/addmul_1.s,9,14,23
+Assembly,cobweb/deps/gmp.js/mpn/ns32k/submul_1.s,9,14,23
+C/C++ Header,cobweb/deps/gmp.js/mpn/s390/gmp-mparam.h,16,15,23
+Assembly,cobweb/deps/gmp.js/mpn/vax/rshift.s,11,20,23
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/sse2/mul_1.asm,4,0,23
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium/mmx/hamdist.asm,6,0,23
+Assembly,cobweb/deps/gmp.js/mpn/z8000x/add_n.s,9,22,23
+Assembly,cobweb/deps/gmp.js/mpn/z8000x/sub_n.s,9,22,23
+C,cobweb/deps/gmp.js/mpz/get_d_2exp.c,9,13,23
+C,cobweb/deps/gmp.js/mpz/realloc2.c,11,15,23
+C,cobweb/deps/gmp.js/tune/noop.c,14,20,23
+Bourne Shell,cobweb/cobweb.sh,5,0,22
+C,cobweb/deps/gmp.js/assert.c,10,16,22
+C++,cobweb/deps/gmp.js/cxx/osdoprnti.cc,15,20,22
+C,cobweb/deps/gmp.js/mpf/set.c,10,13,22
+C,cobweb/deps/gmp.js/mpf/set_z.c,11,13,22
+Assembly,cobweb/deps/gmp.js/mpn/ns32k/mul_1.s,9,14,22
+Assembly,cobweb/deps/gmp.js/mpn/power/sdiv.asm,6,0,22
+Assembly,cobweb/deps/gmp.js/mpn/sh/sh2/addmul_1.s,10,19,22
+Assembly,cobweb/deps/gmp.js/mpn/sh/sh2/submul_1.s,10,19,22
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/mmx/lshift.asm,5,0,22
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/mmx/popham.asm,6,0,22
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/mmx/rshift.asm,5,0,22
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/sse2/addmul_1.asm,4,0,22
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium4/mmx/lshift.asm,6,0,22
+Assembly,cobweb/deps/gmp.js/mpn/x86/pentium4/mmx/rshift.asm,6,0,22
+C,cobweb/deps/gmp.js/mpz/divis_2exp.c,12,16,22
+C,cobweb/deps/gmp.js/mpz/iset_si.c,12,15,22
+C,cobweb/deps/gmp.js/scanf/fscanffuns.c,12,17,22
+make,cobweb/deps/gnucobol-2.2/libcob/Makefile.am,6,30,22
+Bourne Shell,cobweb/deps/gnucobol-2.2/po/update_linguas.sh,10,5,22
+C,cobweb/deps/gmp.js/demos/expr/exprv.c,11,14,21
+C,cobweb/deps/gmp.js/errno.c,14,24,21
+C,cobweb/deps/gmp.js/mpf/cmp_d.c,13,15,21
+C,cobweb/deps/gmp.js/mpf/int_p.c,12,15,21
+C,cobweb/deps/gmp.js/mpf/iset_si.c,12,14,21
+m4,cobweb/deps/gmp.js/mpn/arm/arm-defs.m4,9,20,21
+Assembly,cobweb/deps/gmp.js/mpn/i960/addmul_1.s,11,14,21
+Assembly,cobweb/deps/gmp.js/mpn/ns32k/add_n.s,9,14,21
+Assembly,cobweb/deps/gmp.js/mpn/ns32k/sub_n.s,9,14,21
+C,cobweb/deps/gmp.js/mpn/pre_mod_1.c,12,19,21
+Assembly,cobweb/deps/gmp.js/mpn/pyr/addmul_1.s,8,14,21
+Assembly,cobweb/deps/gmp.js/mpn/sparc32/v8/umul.asm,8,0,21
+Bourne Shell,cobweb/deps/gmp.js/mpn/x86/t-zdisp.sh,9,30,21
+Assembly,cobweb/deps/gmp.js/mpn/z8000/add_n.s,9,21,21
+Assembly,cobweb/deps/gmp.js/mpn/z8000/sub_n.s,9,22,21
+C,cobweb/deps/gmp.js/mpz/swap.c,10,13,21
+TeX,cobweb/deps/gnucobol-2.2/doc/cbchelp.tex,3,0,21
+Dockerfile,cobweb/Dockerfile,9,4,20
+C,cobweb/deps/gmp.js/mp_minv_tab.c,10,18,20
+C,cobweb/deps/gmp.js/mpf/pow_ui.c,10,13,20
+C,cobweb/deps/gmp.js/mpn/generic/bdiv_dbm1c.c,11,17,20
+Assembly,cobweb/deps/gmp.js/mpn/powerpc32/vmx/popcount.asm,8,0,20
+C,cobweb/deps/gmp.js/mpn/redc_1.c,10,16,20
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/sse2/mod_1_4.asm,3,0,20
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/sse2/mul_basecase.asm,4,0,20
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/sse2/popcount.asm,4,0,20
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/sse2/sqr_basecase.asm,4,0,20
+Assembly,cobweb/deps/gmp.js/mpn/x86/p6/sse2/submul_1.asm,4,0,20
+C,cobweb/deps/gmp.js/mpz/cdiv_r.c,13,17,20
+C,cobweb/deps/gmp.js/mpz/fdiv_r.c,12,17,20
+C,cobweb/deps/gmp.js/mpz/iset.c,12,16,20
+C,cobweb/deps/gmp.js/mpz/iset_ui.c,11,15,20
+C,cobweb/deps/gmp.js/mpz/neg.c,14,13,20
+C,cobweb/deps/gmp.js/mpz/pow_ui.c,7,15,20
+C,cobweb/deps/gmp.js/mpz/set_si.c,11,14,20
+C,cobweb/deps/gmp.js/printf/vsprintf.c,14,13,20
+C,cobweb/deps/gmp.js/tests/mpn/t-asmtype.c,18,26,20
+Markdown,cobweb/deps/gmp.js/README.markdown,14,0,19
+C,cobweb/deps/gmp.js/mpf/iset_ui.c,10,14,19
+Assembly,cobweb/deps/gmp.js/mpn/i960/add_n.s,8,14,19
+Assembly,cobweb/deps/gmp.js/mpn/i960/sub_n.s,8,14,19
+C,cobweb/deps/gmp.js/mpn/redc_1_sec.c,10,16,19
+C,cobweb/deps/gmp.js/mpn/scan0.c,12,18,19
+C,cobweb/deps/gmp.js/mpn/scan1.c,12,18,19
+Assembly,cobweb/deps/gmp.js/mpn/sh/sh2/mul_1.s,10,19,19
+C,cobweb/deps/gmp.js/mpq/abs.c,14,13,19
+C,cobweb/deps/gmp.js/mpq/neg.c,14,13,19
+C,cobweb/deps/gmp.js/mpq/set.c,9,13,19
+C,cobweb/deps/gmp.js/mpz/abs.c,13,13,19
+C,cobweb/deps/gmp.js/mpz/get_si.c,9,15,19
+C,cobweb/deps/gmp.js/printf/obvprintf.c,14,13,19
+C,cobweb/deps/gmp.js/tests/rand/zdiv_round.c,11,14,19
+C,cobweb/deps/gmp.js/tests/refmpq.c,9,13,19
+C/C++ Header,cobweb/deps/gnucobol-2.2/libcob/cobgetopt.h,30,73,19
+m4,cobweb/deps/gnucobol-2.2/m4/ltversion.m4,4,0,19
+C,cobweb/deps/gmp.js/compat.c,12,19,18
+m4,cobweb/deps/gmp.js/config.m4,0,1,18
+C,cobweb/deps/gmp.js/mpf/set_si.c,11,14,18
+C,cobweb/deps/gmp.js/mpf/sub_ui.c,9,13,18
+Assembly,cobweb/deps/gmp.js/mpn/i960/mul_1.s,11,14,18
+Assembly,cobweb/deps/gmp.js/mpn/pyr/mul_1.s,8,14,18
+C,cobweb/deps/gmp.js/mpz/cmpabs.c,10,15,18
+C,cobweb/deps/gmp.js/mpz/set_ui.c,10,14,18
+C,cobweb/deps/gmp.js/printf/vsnprintf.c,13,13,18
+Bourne Shell,cobweb/deps/gnucobol-2.2/tests/listings-sed.sh,6,25,18
+C,cobweb/deps/gmp.js/invalid.c,20,35,17
+C,cobweb/deps/gmp.js/mp_set_fns.c,8,14,17
+Assembly,cobweb/deps/gmp.js/mpn/thumb/add_n.s,11,20,17
+Assembly,cobweb/deps/gmp.js/mpn/thumb/sub_n.s,11,20,17
+C,cobweb/deps/gmp.js/mpq/out_str.c,12,14,17
+C,cobweb/deps/gmp.js/mpz/array_init.c,9,14,17
+C,cobweb/deps/gmp.js/mpz/fib2_ui.c,11,13,17
+C,cobweb/deps/gmp.js/randbui.c,12,17,17
+C,cobweb/deps/gmp.js/tests/mpn/t-toom8h.c,3,2,17
+Bourne Shell,cobweb/deps/emsdk/docker/test_dockerimage.sh,2,1,16
+C Shell,cobweb/deps/emsdk/emsdk_env.csh,5,15,16
+C,cobweb/deps/gmp.js/mpf/dump.c,10,16,16
+Assembly,cobweb/deps/gmp.js/mpn/sh/add_n.s,10,19,16
+Assembly,cobweb/deps/gmp.js/mpn/sh/sub_n.s,10,19,16
+m4,cobweb/deps/gmp.js/mpn/x86/darwin.m4,4,20,16
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/core2/popcount.asm,8,0,16
+Assembly,cobweb/deps/gmp.js/mpn/x86_64/pentium4/popcount.asm,8,0,16
+C,cobweb/deps/gmp.js/mpq/init.c,8,14,16
+C,cobweb/deps/gmp.js/mpq/set_z.c,9,13,16
+C,cobweb/deps/gmp.js/mpz/cdiv_q.c,12,14,16
+C,cobweb/deps/gmp.js/mpz/fdiv_q.c,12,14,16
+m4,cobweb/deps/gnucobol-2.2/m4/codeset.m4,2,5,16
+make,cobweb/deps/emsdk/docker/Makefile,4,2,15
+Perl,cobweb/deps/gmp.js/demos/perl/sample.pl,11,17,15
+C,cobweb/deps/gmp.js/mp_get_fns.c,9,13,15
+make,cobweb/deps/gmp.js/mpf/Makefile.am,4,18,15
+C,cobweb/deps/gmp.js/mpf/set_ui.c,10,13,15
+C,cobweb/deps/gmp.js/mpn/cray/cfp/addmul_1.c,10,13,15
+C,cobweb/deps/gmp.js/mpn/cray/cfp/submul_1.c,10,13,15
+m4,cobweb/deps/gmp.js/mpn/pa32/pa-defs.m4,11,27,15
+C/C++ Header,cobweb/deps/gmp.js/mpn/x86/fat/gmp-mparam.h,13,31,15
+C/C++ Header,cobweb/deps/gmp.js/mpn/x86_64/fat/gmp-mparam.h,13,31,15
+C,cobweb/deps/gmp.js/mpz/random2.c,10,15,15
+make,cobweb/deps/gmp.js/tests/mpz/Makefile.am,7,21,15
+C,cobweb/deps/gmp.js/tests/t-hightomask.c,11,17,15
+make,cobweb/deps/gnucobol-2.2/cobc/Makefile.am,8,26,15
+C++,cobweb/deps/gmp.js/cxx/osmpq.cc,10,13,14
+C++,cobweb/deps/gmp.js/cxx/osmpz.cc,10,13,14
+C/C++ Header,cobweb/deps/gmp.js/demos/calc/calc-common.h,9,12,14
+C,cobweb/deps/gmp.js/mpf/get_d.c,9,13,14
+C,cobweb/deps/gmp.js/mpn/cray/cfp/mul_1.c,10,13,14
+C,cobweb/deps/gmp.js/mpn/random.c,11,15,14
+C,cobweb/deps/gmp.js/printf/vfprintf.c,11,13,14
+C,cobweb/deps/gmp.js/printf/vprintf.c,11,13,14
+C,cobweb/deps/gmp.js/scanf/vfscanf.c,11,13,14
+C,cobweb/deps/gmp.js/scanf/vscanf.c,11,13,14
+C,cobweb/deps/gmp.js/tune/set_strb.c,10,13,14
+Bourne Shell,cobweb/deps/emsdk/docker/entrypoint,6,8,13
+C,cobweb/deps/gmp.js/mp_clz_tab.c,8,16,13
+C,cobweb/deps/gmp.js/mpn/generic/com.c,8,13,13
+C,cobweb/deps/gmp.js/mpz/iset_str.c,10,21,13
+C,cobweb/deps/gmp.js/mpz/urandomb.c,9,15,13
+C/C++ Header,cobweb/deps/gmp.js/randmt.h,11,16,13
+make,cobweb/deps/gmp.js/tests/Makefile.am,8,17,13
+C,cobweb/deps/gmp.js/tune/mod_1_div.c,9,13,13
+C,cobweb/deps/gmp.js/tune/mod_1_inv.c,9,13,13
+Markdown,cobweb/example/README.md,5,0,13
+Bourne Shell,cobweb/deps/emsdk/emsdk_env.sh,3,15,12
+make,cobweb/deps/gmp.js/demos/expr/Makefile.am,9,22,12
+C,cobweb/deps/gmp.js/mpf/init2.c,8,13,12
+C,cobweb/deps/gmp.js/mpf/iset_str.c,8,13,12
+C,cobweb/deps/gmp.js/mpn/cray/hamdist.c,7,13,12
+C,cobweb/deps/gmp.js/mpn/cray/popcount.c,7,13,12
+C,cobweb/deps/gmp.js/mpq/get_num.c,9,13,12
+C,cobweb/deps/gmp.js/mpq/set_den.c,9,13,12
+C,cobweb/deps/gmp.js/mpq/set_num.c,9,13,12
+C,cobweb/deps/gmp.js/mpz/dump.c,10,16,12
+C,cobweb/deps/gmp.js/mpz/init.c,8,15,12
+make,cobweb/deps/gmp.js/tests/mpn/Makefile.am,7,17,12
+m4,cobweb/deps/gnucobol-2.2/m4/nls.m4,3,17,12
+make,cobweb/deps/gmp.js/demos/Makefile.am,8,20,11
+Perl,cobweb/deps/gmp.js/demos/perl/GMP/Rand.pm,4,18,11
+C,cobweb/deps/gmp.js/mpbsd/rpow.c,7,14,11
+C,cobweb/deps/gmp.js/mpf/init.c,7,13,11
+Assembly,cobweb/deps/gmp.js/mpn/a29k/udiv.s,5,12,11
+C,cobweb/deps/gmp.js/mpn/generic/copyi.c,8,13,11
+C,cobweb/deps/gmp.js/mpq/get_den.c,9,13,11
+C,cobweb/deps/gmp.js/mpz/divis.c,9,13,11
+C/C++ Header,cobweb/deps/gmp.js/mpz/fac_ui.h,4,4,11
+C,cobweb/deps/gmp.js/mpz/get_d.c,9,13,11
+C,cobweb/deps/gmp.js/randsdui.c,8,14,11
+C,cobweb/deps/gmp.js/tune/set_strp.c,8,13,11
+C,cobweb/deps/gmp.js/tune/set_strs.c,9,13,11
+make,cobweb/deps/gnucobol-2.2/bin/Makefile.am,5,25,11
+C/C++ Header,cobweb/deps/gnucobol-2.2/libcob.h,11,15,11
+C,cobweb/deps/gmp.js/mpf/iset_d.c,8,13,10
+Assembly,cobweb/deps/gmp.js/mpn/a29k/umul.s,5,12,10
+C,cobweb/deps/gmp.js/mpn/mullo_basecase.c,12,19,10
+C,cobweb/deps/gmp.js/mpn/zero.c,8,13,10
+C,cobweb/deps/gmp.js/mpq/clear.c,7,13,10
+C,cobweb/deps/gmp.js/mpz/iset_d.c,7,14,10
+C,cobweb/deps/gmp.js/mpz/sizeinbase.c,7,15,10
+make,cobweb/deps/gmp.js/tests/mpbsd/Makefile.am,7,18,10
+sed,cobweb/deps/gnucobol-2.2/po/boldquot.sed,0,0,10
+C/C++ Header,cobweb/deps/gmp.js/demos/pexpr-config.h,15,21,9
+C,cobweb/deps/gmp.js/mpbsd/mfree.c,7,13,9
+C,cobweb/deps/gmp.js/mpn/generic/copyd.c,8,13,9
+make,cobweb/deps/gmp.js/mpq/Makefile.am,4,17,9
+C,cobweb/deps/gmp.js/mpz/random.c,7,13,9
+make,cobweb/deps/gmp.js/tests/mpf/Makefile.am,5,18,9
+C,cobweb/deps/gmp.js/tune/divrem1div.c,9,13,9
+C,cobweb/deps/gmp.js/tune/divrem1inv.c,9,13,9
+make,cobweb/deps/gnucobol-2.2/config/Makefile.am,2,20,9
+Fish Shell,cobweb/deps/emsdk/emsdk_env.fish,5,4,8
+Bourne Shell,cobweb/deps/emsdk/test.sh,3,0,8
+make,cobweb/deps/gmp.js/demos/calc/Makefile.am,7,21,8
+make,cobweb/deps/gmp.js/mpbsd/Makefile.am,5,24,8
+C,cobweb/deps/gmp.js/mpf/set_dfl_prec.c,8,13,8
+m4,cobweb/deps/gmp.js/mpn/sparc32/sparc-defs.m4,10,21,8
+m4,cobweb/deps/gmp.js/mpn/x86_64/darwin.m4,7,19,8
+make,cobweb/deps/gmp.js/printf/Makefile.am,5,17,8
+C,cobweb/deps/gmp.js/randsd.c,7,13,8
+make,cobweb/deps/gmp.js/tests/devel/Makefile.am,7,19,8
+C,cobweb/deps/gmp.js/tests/mpn/t-toom22.c,2,0,8
+make,cobweb/deps/gmp.js/tests/mpq/Makefile.am,6,20,8
+C,cobweb/deps/gmp.js/tune/divrem2div.c,8,14,8
+C,cobweb/deps/gmp.js/tune/divrem2inv.c,8,14,8
+make,cobweb/deps/gnucobol-2.2/extras/Makefile.am,3,20,8
+Bourne Shell,cobweb/deps/emsdk/emsdk,4,7,7
+make,cobweb/deps/gmp.js/cxx/Makefile.am,5,17,7
+C/C++ Header,cobweb/deps/gmp.js/mp_bases.h,2,2,7
+C,cobweb/deps/gmp.js/mpf/clear.c,7,14,7
+C,cobweb/deps/gmp.js/mpf/get_dfl_prec.c,8,13,7
+C,cobweb/deps/gmp.js/mpf/get_prc.c,7,13,7
+C,cobweb/deps/gmp.js/mpf/set_prc_raw.c,7,15,7
+C,cobweb/deps/gmp.js/mpf/size.c,7,14,7
+C,cobweb/deps/gmp.js/mpz/clear.c,7,14,7
+C,cobweb/deps/gmp.js/mpz/perfpow.c,7,15,7
+C,cobweb/deps/gmp.js/randclr.c,7,13,7
+C,cobweb/deps/gmp.js/randdef.c,7,13,7
+C,cobweb/deps/gmp.js/randiset.c,8,13,7
+make,cobweb/deps/gmp.js/tests/misc/Makefile.am,6,20,7
+C,cobweb/deps/gmp.js/tune/gcdextod.c,8,14,7
+C,cobweb/deps/gmp.js/tune/gcdextos.c,8,14,7
+C,cobweb/deps/gmp.js/tune/powm_redc.c,8,15,7
+C,cobweb/deps/gmp.js/tune/pre_divrem_1.c,10,13,7
+m4,cobweb/deps/gnucobol-2.2/tests/package.m4,0,0,7
+DOS Batch,cobweb/deps/emsdk/test.bat,0,1,6
+C/C++ Header,cobweb/deps/gmp.js/mpn/vax/gmp-mparam.h,12,31,6
+C++,cobweb/deps/gmp.js/tests/cxx/t-headers.cc,7,13,6
+C,cobweb/deps/gmp.js/tests/mpn/t-toom32.c,2,0,6
+C,cobweb/deps/gmp.js/tests/mpn/t-toom33.c,3,2,6
+C,cobweb/deps/gmp.js/tests/mpn/t-toom42.c,2,0,6
+C,cobweb/deps/gmp.js/tests/mpn/t-toom43.c,2,0,6
+C,cobweb/deps/gmp.js/tests/mpn/t-toom44.c,3,2,6
+C,cobweb/deps/gmp.js/tests/mpn/t-toom52.c,2,0,6
+C,cobweb/deps/gmp.js/tests/mpn/t-toom53.c,2,0,6
+C,cobweb/deps/gmp.js/tests/mpn/t-toom62.c,2,0,6
+C,cobweb/deps/gmp.js/tests/mpn/t-toom63.c,2,0,6
+C,cobweb/deps/gmp.js/tune/gcdext_double.c,8,14,6
+C,cobweb/deps/gmp.js/tune/gcdext_single.c,8,14,6
+C,cobweb/deps/gmp.js/tune/jacbase1.c,8,13,6
+C,cobweb/deps/gmp.js/tune/jacbase2.c,8,13,6
+C,cobweb/deps/gmp.js/tune/jacbase3.c,8,13,6
+C,cobweb/deps/gmp.js/tune/powm_mod.c,8,14,6
+sed,cobweb/deps/gnucobol-2.2/po/quot.sed,0,0,6
+C/C++ Header,cobweb/deps/gmp.js/fib_table.h,2,1,5
+C,cobweb/deps/gmp.js/mp_bpl.c,6,13,5
+make,cobweb/deps/gmp.js/scanf/Makefile.am,5,17,5
+C,cobweb/deps/gmp.js/tests/mpn/t-toom6h.c,2,2,5
+C,cobweb/deps/gnucobol-2.2/lib/dummymac.c,0,0,5
+diff,cobweb/deps/01-call.c.patch,2,6,4
+C,cobweb/deps/gmp.js/mpf/fits_sint.c,8,13,4
+C,cobweb/deps/gmp.js/mpf/fits_slong.c,8,13,4
+C,cobweb/deps/gmp.js/mpf/fits_sshort.c,8,13,4
+C,cobweb/deps/gmp.js/mpz/fits_sint.c,8,13,4
+C,cobweb/deps/gmp.js/mpz/fits_slong.c,8,13,4
+C,cobweb/deps/gmp.js/mpz/fits_sshort.c,8,13,4
+C,cobweb/deps/gmp.js/rands.c,9,18,4
+make,cobweb/deps/gnucobol-2.2/lib/Makefile.am,2,20,4
+make,cobweb/deps/gmp.js/doc/Makefile.am,5,17,3
+C,cobweb/deps/gmp.js/mpf/fits_uint.c,8,13,3
+C,cobweb/deps/gmp.js/mpf/fits_ulong.c,8,13,3
+C,cobweb/deps/gmp.js/mpf/fits_ushort.c,8,13,3
+C,cobweb/deps/gmp.js/mpn/generic/add.c,7,13,3
+C,cobweb/deps/gmp.js/mpn/generic/add_1.c,7,13,3
+C,cobweb/deps/gmp.js/mpn/generic/cmp.c,7,13,3
+C,cobweb/deps/gmp.js/mpn/neg.c,7,13,3
+C,cobweb/deps/gmp.js/mpn/sub.c,7,13,3
+C,cobweb/deps/gmp.js/mpn/sub_1.c,7,13,3
+C/C++ Header,cobweb/deps/gmp.js/mpn/x86/gmp-mparam.h,8,16,3
+C,cobweb/deps/gmp.js/mpz/fits_uint.c,7,13,3
+C,cobweb/deps/gmp.js/mpz/fits_ulong.c,7,13,3
+C,cobweb/deps/gmp.js/mpz/fits_ushort.c,7,13,3
+C,cobweb/deps/gmp.js/mpz/get_ui.c,7,13,3
+C,cobweb/deps/gmp.js/mpz/getlimbn.c,7,13,3
+C,cobweb/deps/gmp.js/mpz/perfsqr.c,7,14,3
+C,cobweb/deps/gmp.js/mpz/popcount.c,7,14,3
+C,cobweb/deps/gmp.js/mpz/set_q.c,7,14,3
+C,cobweb/deps/gmp.js/mpz/size.c,7,14,3
+C,cobweb/deps/gmp.js/tune/sqr_basecase.c,0,0,3
+C,cobweb/deps/gmp.js/version.c,7,13,3
+make,cobweb/deps/gnucobol-2.2/copy/Makefile.am,2,20,3
+C/C++ Header,cobweb/deps/gnucobol-2.2/tarstamp.h,0,0,3
+PowerShell,cobweb/deps/emsdk/emsdk_env.ps1,0,0,2
+Bourne Shell,cobweb/deps/gmp.js/emscripten.sh,1,0,2
+C/C++ Header,cobweb/deps/gmp.js/mpn/z8000/gmp-mparam.h,6,13,2
+C,cobweb/deps/gmp.js/mpz/add.c,7,13,2
+C,cobweb/deps/gmp.js/mpz/add_ui.c,7,13,2
+C,cobweb/deps/gmp.js/mpz/mul_si.c,7,14,2
+C,cobweb/deps/gmp.js/mpz/mul_ui.c,7,14,2
+C,cobweb/deps/gmp.js/mpz/sub.c,7,13,2
+C,cobweb/deps/gmp.js/mpz/sub_ui.c,7,13,2
+DOS Batch,cobweb/deps/emsdk/emcmdprompt.bat,0,0,1
+DOS Batch,cobweb/deps/emsdk/emsdk_env.bat,0,0,1
+C++,cobweb/deps/gmp.js/cxx/dummy.cc,7,14,1
+C/C++ Header,cobweb/deps/gmp.js/demos/calc/calc-config.h,7,13,1
+C,cobweb/deps/gmp.js/mpn/x86_64/fat/diveby3.c,7,13,1
+C,cobweb/deps/gmp.js/mpn/x86_64/fat/gcd_1.c,7,13,1
+C,cobweb/deps/gmp.js/mpn/x86_64/fat/mod_1.c,7,13,1
+C,cobweb/deps/gmp.js/mpn/x86_64/fat/mode1o.c,7,13,1
+C/C++ Header,cobweb/deps/gmp.js/mpn/generic/gmp-mparam.h,7,15,0
+SUM,,87283,70236,478580

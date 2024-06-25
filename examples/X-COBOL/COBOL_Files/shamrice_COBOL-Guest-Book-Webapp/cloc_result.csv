@@ -1,0 +1,9 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.01 s (557.6 files/s, 60065.4 lines/s)"
+COBOL,COBOL-Guest-Book-Webapp/sources/sign-guest-book.cbl,43,15,167
+COBOL,COBOL-Guest-Book-Webapp/sources/web-helpers.cbl,69,21,133
+COBOL,COBOL-Guest-Book-Webapp/sources/view-guest-book.cbl,25,10,124
+HTML,COBOL-Guest-Book-Webapp/sources/html/sign-guest-book.html,0,0,43
+Bourne Shell,COBOL-Guest-Book-Webapp/sources/build_and_deploy.sh,8,3,42
+Markdown,COBOL-Guest-Book-Webapp/README.md,8,0,29
+SQL,COBOL-Guest-Book-Webapp/sources/db_scripts/create_database.sql,3,0,11
+SUM,,156,49,549

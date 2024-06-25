@@ -1,0 +1,11 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.02 s (381.3 files/s, 75244.8 lines/s)"
+COBOL,sistemas-legados_practica-1/src/EMPWRITE.cob,46,0,617
+COBOL,sistemas-legados_practica-1/src/EMPREAD.cob,48,0,613
+COBOL,sistemas-legados_practica-1/src/BRANCHLIST.cob,18,0,140
+COBOL,sistemas-legados_practica-1/src/FS-MSG.cpy,0,0,62
+COBOL,sistemas-legados_practica-1/src/TEST.cob,18,16,54
+COBOL,sistemas-legados_practica-1/src/main.cob,3,0,47
+make,sistemas-legados_practica-1/src/Makefile,16,8,37
+Bourne Shell,sistemas-legados_practica-1/src/create_a_fuckton_of_branches,3,3,26
+COBOL,sistemas-legados_practica-1/src/CLEAR-SCREEN.cpy,0,0,1
+SUM,,152,27,1597

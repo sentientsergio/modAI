@@ -1,0 +1,5 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.03 s (86.2 files/s, 122294.8 lines/s)"
+COBOL,GeekCode/geekcode.cob,311,32,3806
+COBOL,GeekCode/geekcode.cpy,0,0,91
+make,GeekCode/Makefile,4,0,10
+SUM,,315,32,3907

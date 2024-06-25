@@ -1,0 +1,40 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.06 s (665.0 files/s, 124660.9 lines/s)"
+COBOL,gradle-cobol-plugin-unittest-extension/res/main/groovy/ZUTZCPC.CBL,442,664,3320
+Groovy,gradle-cobol-plugin-unittest-extension/src/test/groovy/de/sebastianruziczka/cobolunit/coverage/sourcefilereader/SourceFileReaderTest.groovy,40,0,195
+Java,gradle-cobol-plugin-unittest-extension/src/test/java/de/sebastianruziczka/cobolunit/coverage/TestCoverageMergerTest.java,44,0,163
+Groovy,gradle-cobol-plugin-unittest-extension/src/main/groovy/de/sebastianruziczka/cobolunit/CobolUnitIntegration.groovy,41,9,155
+Groovy,gradle-cobol-plugin-unittest-extension/src/main/groovy/de/sebastianruziczka/cobolunit/CobolUnit.groovy,34,3,140
+Bourne Shell,gradle-cobol-plugin-unittest-extension/gradlew,21,36,126
+Java,gradle-cobol-plugin-unittest-extension/src/main/java/de/sebastianruziczka/cobolunit/coverage/model/CobolCoverageFile.java,28,0,108
+Groovy,gradle-cobol-plugin-unittest-extension/src/main/groovy/de/sebastianruziczka/cobolunit/steps/ZUTZCPC.groovy,24,0,93
+Java,gradle-cobol-plugin-unittest-extension/src/main/java/de/sebastianruziczka/cobolunit/coverage/model/CobolCoverageMethod.java,23,0,90
+Groovy,gradle-cobol-plugin-unittest-extension/src/main/groovy/de/sebastianruziczka/cobolunit/coverage/report/XMLReportWriter.groovy,10,11,84
+Groovy,gradle-cobol-plugin-unittest-extension/src/main/groovy/de/sebastianruziczka/cobolunit/coverage/sourcefilereader/SourceFileReader.groovy,23,0,84
+Markdown,gradle-cobol-plugin-unittest-extension/README.md,43,0,81
+DOS Batch,gradle-cobol-plugin-unittest-extension/gradlew.bat,25,2,76
+Java,gradle-cobol-plugin-unittest-extension/src/main/java/de/sebastianruziczka/cobolunit/coverage/CobolTraceMode.java,14,0,68
+Gradle,gradle-cobol-plugin-unittest-extension/build.gradle,13,2,60
+Java,gradle-cobol-plugin-unittest-extension/src/main/java/de/sebastianruziczka/cobolunit/CobolUnitSourceFile.java,17,0,56
+Java,gradle-cobol-plugin-unittest-extension/src/main/java/de/sebastianruziczka/cobolunit/coverage/TestCoverageMerger.java,11,0,56
+Groovy,gradle-cobol-plugin-unittest-extension/src/main/groovy/de/sebastianruziczka/cobolunit/coverage/report/LineRateComputer.groovy,11,0,50
+Groovy,gradle-cobol-plugin-unittest-extension/src/test/groovy/de/sebastianruziczka/cobolunit/steps/OutputParserTest.groovy,12,0,46
+Groovy,gradle-cobol-plugin-unittest-extension/src/main/groovy/de/sebastianruziczka/cobolunit/coverage/ComputeTestCoverageTask.groovy,11,0,44
+Groovy,gradle-cobol-plugin-unittest-extension/src/main/groovy/de/sebastianruziczka/cobolunit/coverage/linefix/UnitTestLineFixer.groovy,9,0,40
+Groovy,gradle-cobol-plugin-unittest-extension/src/main/groovy/de/sebastianruziczka/cobolunit/steps/OutputParser.groovy,9,0,37
+Groovy,gradle-cobol-plugin-unittest-extension/src/main/groovy/de/sebastianruziczka/cobolunit/steps/TestDebugExecutor.groovy,9,0,37
+Groovy,gradle-cobol-plugin-unittest-extension/src/main/groovy/de/sebastianruziczka/cobolunit/steps/TestExectuableExecutor.groovy,9,0,34
+Groovy,gradle-cobol-plugin-unittest-extension/src/main/groovy/de/sebastianruziczka/cobolunit/CompileZUTZCPC.groovy,11,0,29
+Groovy,gradle-cobol-plugin-unittest-extension/src/main/groovy/de/sebastianruziczka/cobolunit/steps/TestExectuableCompiler.groovy,7,0,28
+Groovy,gradle-cobol-plugin-unittest-extension/src/main/groovy/de/sebastianruziczka/cobolunit/steps/TestDebugCompiler.groovy,7,0,27
+Java,gradle-cobol-plugin-unittest-extension/src/main/java/de/sebastianruziczka/cobolunit/coverage/model/CobolCoverageLine.java,5,0,19
+Groovy,gradle-cobol-plugin-unittest-extension/src/main/groovy/de/sebastianruziczka/cobolunit/coverage/linefix/FixedFileConverter.groovy,7,0,18
+Groovy,gradle-cobol-plugin-unittest-extension/src/main/groovy/de/sebastianruziczka/cobolunit/coverage/sourcefilereader/IgnoredToken.groovy,2,0,17
+YAML,gradle-cobol-plugin-unittest-extension/.travis.yml,4,0,8
+Gradle,gradle-cobol-plugin-unittest-extension/settings.gradle,1,0,7
+Java,gradle-cobol-plugin-unittest-extension/src/main/java/de/sebastianruziczka/cobolunit/CobolUnitMetaKeys.java,1,0,7
+Bourne Shell,gradle-cobol-plugin-unittest-extension/ci/execExampleTests.sh,2,0,6
+Properties,gradle-cobol-plugin-unittest-extension/gradle/wrapper/gradle-wrapper.properties,0,0,5
+Java,gradle-cobol-plugin-unittest-extension/src/main/java/de/sebastianruziczka/cobolunit/TestCoverageIs.java,1,0,4
+Java,gradle-cobol-plugin-unittest-extension/src/main/java/de/sebastianruziczka/cobolunit/coverage/model/CoverageStatus.java,1,0,4
+Markdown,gradle-cobol-plugin-unittest-extension/res/main/groovy/README.md,1,0,2
+SUM,,973,727,5424

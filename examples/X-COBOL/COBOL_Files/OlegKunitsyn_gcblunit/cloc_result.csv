@@ -1,0 +1,9 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.02 s (367.9 files/s, 47349.0 lines/s)"
+COBOL,gcblunit/gcblunit.cbl,46,21,475
+Markdown,gcblunit/README.md,27,0,91
+COBOL,gcblunit/copybooks/dd-fixtures.cpy,3,19,67
+COBOL,gcblunit/tests/notequals-test.cbl,5,3,54
+COBOL,gcblunit/tests/equals-test.cbl,5,3,52
+YAML,gcblunit/.github/workflows/docker-image.yml,1,0,15
+JSON,gcblunit/modules.json,0,0,14
+SUM,,87,46,768

@@ -1,0 +1,79 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.10 s (746.0 files/s, 75399.1 lines/s)"
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test24_expected/test24_schema.json,0,0,1954
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test6_expected/test6_schema.json,0,0,979
+Java,rcoboldi/java/rcoboldi-core/src/main/java/com/coherentlogic/rproject/integration/rcoboldi/api/JCopyBookConverter.java,92,231,286
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test17_expected/test17c_schema.json,0,0,214
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test17_expected/test17b_schema.json,0,0,205
+COBOL,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test6_copybook.cob,21,39,200
+Maven,rcoboldi/java/pom.xml,12,18,198
+Maven,rcoboldi/java/rcoboldi-assembly/pom.xml,15,12,195
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test18 special_char_expected/test18a_schema.json,0,0,190
+Java,rcoboldi/java/rcoboldi-core/src/main/java/com/coherentlogic/rproject/integration/rcoboldi/api/Main.java,64,103,131
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test17_expected/test17f_schema.json,0,0,127
+Markdown,rcoboldi/README.md,66,0,126
+Maven,rcoboldi/java/rcoboldi-core/pom.xml,13,18,116
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test5_expected/test5d_schema.json,0,0,98
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test14_expected/test14_schema.json,0,0,93
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test15_expected/test15_schema.json,0,0,90
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test17_expected/test17d_schema.json,0,0,87
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test17_expected/test17e_schema.json,0,0,85
+R,rcoboldi/r-package/R/rcoboldi.R,35,124,83
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test16_expected/test16_schema.json,0,0,78
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test7_expected/test7a_schema.json,0,0,63
+Markdown,rcoboldi/DOCKER_EXAMPLE.md,36,0,57
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test19_display_num_expected/test19_schema.json,0,0,49
+Dockerfile,rcoboldi/docker/rocker/verse/Dockerfile,17,28,46
+Markdown,rcoboldi/SIMPLE_EXAMPLE.md,18,0,44
+R,rcoboldi/r-package/tests/testthat/test_RCOBOLDI.R,16,5,39
+XML,rcoboldi/java/rcoboldi-core/src/main/resources/log4j2.xml,6,0,34
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test13_expected/test13a_schema.json,0,0,34
+YAML,rcoboldi/.travis.yml,4,6,33
+COBOL,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test18 special_char.cob,3,27,32
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test7_expected/test7_schema.json,0,0,32
+Markdown,rcoboldi/docker/rocker/rstudio/README.md,16,0,23
+COBOL,rcoboldi/java/rcoboldi-core/src/test/resources/example2/DTAR107.cbl,2,11,23
+COBOL,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test2_copybook.cob,1,17,19
+COBOL,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test1a_copybook.cob,1,17,18
+COBOL,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test5d_copybook.cob,2,17,17
+Java,rcoboldi/java/rcoboldi-core/src/test/java/JCopyBookConverterTest.java,5,9,16
+COBOL,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test7_fillers.cob,1,17,16
+COBOL,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test19_display_num.cob,1,17,15
+COBOL,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test5_copybook.cob,2,17,15
+Dockerfile,rcoboldi/docker/rocker/rstudio/Dockerfile,9,31,14
+COBOL,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test16_fix_len_segments.cob,1,17,14
+Bourne Shell,rcoboldi/travis-install-java-dependencies.sh,7,5,14
+COBOL,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test12_copybook.cob,1,17,13
+CSV,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test1_expected/test1.csv,0,0,11
+COBOL,rcoboldi/java/rcoboldi-core/src/test/resources/example3/AmsLocation.cbl,1,3,11
+COBOL,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test10_copybook.cob,1,17,10
+COBOL,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test12_copybook_a.cob,1,17,10
+COBOL,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test25_copybook.cob,1,17,10
+COBOL,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test21_copybook.cob,1,17,7
+COBOL,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test3_copybook.cob,3,20,7
+COBOL,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test9_copybook.cob,3,20,7
+COBOL,rcoboldi/java/rcoboldi-core/src/test/resources/example1/DTAR020.cbl,1,8,7
+Java,rcoboldi/java/rcoboldi-core/src/main/java/com/coherentlogic/rproject/integration/rcoboldi/api/IORuntimeException.java,2,0,6
+Java,rcoboldi/java/rcoboldi-core/src/main/java/com/coherentlogic/rproject/integration/rcoboldi/api/StringTokenizationException.java,2,0,6
+Java,rcoboldi/java/rcoboldi-core/src/main/java/com/coherentlogic/rproject/integration/rcoboldi/api/UnrecognizedFileStructureRuntimeException.java,2,0,6
+Bourne Shell,rcoboldi/cp-jar-to-inst-java.sh,0,0,4
+Java,rcoboldi/java/rcoboldi-core/src/main/java/com/coherentlogic/rproject/integration/rcoboldi/api/IUpdateFieldName.java,2,7,4
+R,rcoboldi/r-package/tests/testthat.R,1,0,4
+Bourne Shell,rcoboldi/docker-build-rstudio.sh,0,0,3
+COBOL,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test12_copybook_b.cob,1,17,3
+YAML,rcoboldi/.github/FUNDING.yml,0,0,2
+Bourne Shell,rcoboldi/docker-build-verse.sh,0,0,1
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test10_expected/test10_schema.json,0,0,1
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test11_expected/test11_schema.json,0,0,1
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test12_expected/test12_schema.json,0,0,1
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test1_expected/test1_flat_schema.json,0,0,1
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test1_expected/test1_schema.json,0,0,1
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test1a_expected/test1a_schema.json,0,0,1
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test1b_expected/test1b_schema.json,0,0,1
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test21_expected/test21_schema.json,0,0,1
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test25_expected/test25_schema.json,0,0,1
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test3_expected/test3_schema.json,0,0,1
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test4_expected/test4_schema_actual.json,0,0,1
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test5_expected/test5b_schema.json,0,0,1
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test5_expected/test5c_schema.json,0,0,1
+JSON,rcoboldi/java/rcoboldi-core/src/test/resources/cobrix-data/test9_expected/test9_schema.json,0,0,1
+SUM,,489,946,6348

@@ -1,0 +1,3 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.01 s (70.5 files/s, 35547.9 lines/s)"
+COBOL,cob-simpleinventory/cob-simpleinventory.cob,63,20,421
+SUM,,63,20,421

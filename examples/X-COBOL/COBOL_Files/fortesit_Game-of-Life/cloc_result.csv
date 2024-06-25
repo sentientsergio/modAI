@@ -1,0 +1,5 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.01 s (277.0 files/s, 37584.4 lines/s)"
+COBOL,Game-of-Life/life.cob,11,27,190
+Fortran 77,Game-of-Life/life.for,20,18,134
+Markdown,Game-of-Life/README.md,2,0,5
+SUM,,33,45,329

@@ -1,0 +1,11 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.02 s (435.6 files/s, 45348.8 lines/s)"
+COBOL,cobol-on-wheelchair/cow.cbl,236,1,307
+Markdown,cobol-on-wheelchair/tutorial/index.md,80,0,151
+COBOL,cobol-on-wheelchair/controllers/showsum.cbl,22,0,28
+COBOL,cobol-on-wheelchair/controllers/showname.cbl,18,0,19
+Markdown,cobol-on-wheelchair/README.md,9,0,17
+COBOL,cobol-on-wheelchair/controllers/index.cbl,13,0,12
+Dockerfile,cobol-on-wheelchair/Dockerfile,1,0,11
+COBOL,cobol-on-wheelchair/config.cbl,6,0,3
+Bourne Shell,cobol-on-wheelchair/downhill.sh,1,0,2
+SUM,,386,1,550

@@ -1,0 +1,13 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.01 s (739.0 files/s, 89486.4 lines/s)"
+COBOL,cobol/ledger/ledger.cob,86,33,651
+COBOL,cobol/phone/phone.cob,38,27,220
+COBOL,cobol/guess/guess.cob,19,24,65
+make,cobol/templates/Makefile,17,23,36
+make,cobol/Makefile,6,0,16
+COBOL,cobol/templates/template.cob,5,24,10
+Markdown,cobol/ledger/README.md,4,0,9
+Markdown,cobol/README.md,3,0,4
+make,cobol/guess/Makefile,1,0,3
+make,cobol/ledger/Makefile,1,0,3
+make,cobol/phone/Makefile,1,0,3
+SUM,,181,131,1020

@@ -1,0 +1,36 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.06 s (552.5 files/s, 114931.8 lines/s)"
+COBOL,cobol-unit-test/src/main/cobol/ZUTZCPC.CBL,442,664,3320
+COBOL,cobol-unit-test/src/main/cobol/CONVERT.CBL,30,7,138
+COBOL,cobol-unit-test/src/main/cobol/CARD3.CBL,26,5,118
+COBOL,cobol-unit-test/src/main/cobol/CONVER2.CBL,28,8,116
+DOS Batch,cobol-unit-test/win/run-ut.cmd,32,35,116
+COBOL,cobol-unit-test/convert-bad.cbl,18,7,109
+COBOL,cobol-unit-test/convert-bad2.cbl,34,36,109
+COBOL,cobol-unit-test/src/test/cobol/CONVERT-TEST.CBL,28,10,106
+COBOL,cobol-unit-test/src/main/cobol/CARD1.CBL,25,5,104
+COBOL,cobol-unit-test/src/main/cobol/FIZZBUZZ.CBL,12,7,85
+Markdown,cobol-unit-test/README.md,43,0,83
+DOS Batch,cobol-unit-test/win/compile.cmd,29,26,83
+Bourne Again Shell,cobol-unit-test/run-ut,17,9,75
+COBOL,cobol-unit-test/src/main/cobol/VIZZBUZZ.CBL,14,7,66
+Bourne Again Shell,cobol-unit-test/compile,14,4,58
+Bourne Again Shell,cobol-unit-test/run-examples,11,10,51
+COBOL,cobol-unit-test/src/main/cobol/CARD2.CBL,9,5,48
+COBOL,cobol-unit-test/src/main/cobol/INVDATE.CBL,7,7,44
+COBOL,cobol-unit-test/src/main/cobol/MOCKDEMO.CBL,17,5,42
+COBOL,cobol-unit-test/src/main/cobol/PARADEMO.CBL,17,5,42
+COBOL,cobol-unit-test/src/main/cobol/CICSDEMO.CBL,7,5,33
+COBOL,cobol-unit-test/src/main/cobol/FILEDEMO.CBL,12,5,33
+COBOL,cobol-unit-test/src/main/cobol/CALLDEMO.CBL,6,5,32
+Python,cobol-unit-test/padder.py,3,11,26
+COBOL,cobol-unit-test/src/main/cobol/SUBPROG.CBL,0,5,22
+COBOL,cobol-unit-test/src/main/cobol/SAMPLE.CBL,2,3,21
+COBOL,cobol-unit-test/src/main/cobol/CARD2D.CBL,1,5,20
+COBOL,cobol-unit-test/src/main/cobol/CARD3D.CBL,1,5,20
+Bourne Again Shell,cobol-unit-test/prepare,5,11,19
+COBOL,cobol-unit-test/src/test/cobol/VSAMTEST.CBL,5,3,19
+COBOL,cobol-unit-test/src/main/cobol/SUBPROGD.CBL,0,5,17
+DOS Batch,cobol-unit-test/win/setenv.cmd,8,23,17
+COBOL,cobol-unit-test/src/main/cobol/CICSDRIV.CBL,0,5,15
+Bourne Again Shell,cobol-unit-test/integration-tests,1,6,3
+SUM,,904,959,5210
